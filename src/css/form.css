@@ -1,0 +1,155 @@
+.main-background {
+  /* width: 100vw;
+  height: auto; */
+  background-color: #ebebeb;
+  padding: 4em 2.5em;
+  display: grid;
+  grid-template-columns: 2fr 3fr;
+  margin: 0 auto;
+
+  overflow: hidden;
+}
+.register-main-background {
+  /* width: 100vw;
+  height: auto; */
+  background-color: #ebebeb;
+  padding: 2em;
+  display: grid;
+  grid-template-columns: 2fr 3fr;
+  margin: 0 auto;
+  overflow: hidden;
+}
+.form-background h2 {
+  color: rgba(0, 0, 0, 0.5);
+  text-align: center;
+}
+.form-background h2 > span {
+  color: #2ab4e7;
+}
+.form-background {
+  background-color: #fff;
+  padding: 2em;
+}
+.register-background {
+  background-color: #fff;
+  padding: 3em;
+}
+.vector {
+  background-color: #fff;
+  padding: 1em;
+}
+.vector-image {
+  background-image: url(../img/scenario/homepage/LoginScreen.png);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  width: 100%;
+  height: 100%;
+}
+.vector-register {
+  background-color: #fff;
+  padding: 1em;
+}
+.login-form {
+  display: flex;
+  flex-direction: column;
+  padding: 3em 0em;
+}
+
+input[type='email'] {
+  width: 100%;
+  height: 3em;
+  border: 2px solid rgba(206, 206, 206, 0.5);
+  margin: 1em 0em;
+  padding: 0em 2em;
+}
+input[type='ph'] {
+  padding: 0em 2em;
+  width: 100%;
+  height: 3em;
+  border: 2px solid rgba(206, 206, 206, 0.5);
+  margin: 1em 0em;
+}
+input[type='text'] {
+  padding: 0em 1em;
+  width: 100%;
+  height: 3em;
+  border: 2px solid rgba(206, 206, 206, 0.5);
+  margin: 0;
+  border-radius: 0px;
+}
+input[type='password'] {
+  width: 100%;
+  height: 3em;
+  border: 2px solid rgba(206, 206, 206, 0.5);
+  margin: 1em 0em;
+  padding: 0em 2em;
+}
+input[type='submit'] {
+  width: 100%;
+  height: 3em;
+  background-color: #74bc21;
+  border: none;
+  color: #fff;
+  margin: 1em 0em;
+  font-family: 'Poppins';
+  font-weight: 600;
+}
+.stay,
+.stay-in {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.stay h6 {
+  color: #2ab4e7;
+}
+.stay-in h6 {
+  margin-left: 0.8em;
+  color: #2ab4e7;
+}
+.registration-row {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 1.1em;
+}
+.agreement {
+  display: grid;
+  grid-template-columns: max-content 5fr;
+  grid-gap: 1.1em;
+}
+.agreement .agree {
+  display: flex;
+  justify-content: start;
+  align-items: center;
+}
+.agreement .agree p {
+  margin-left: 0.5em;
+  margin-top: 0.5em;
+}
+.form-close-btn button {
+  position: absolute;
+  right: 3.9em;
+  z-index: 10;
+  border: navajowhite;
+  font-size: 2em;
+  background: transparent;
+  color: red;
+}
+.reg-close-btn button {
+  position: absolute;
+  right: 1.7em;
+  z-index: 10;
+  border: navajowhite;
+  font-size: 2em;
+  background: transparent;
+  color: red;
+}
+.login,
+.register {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-decoration: none;
+  cursor: pointer;
+}

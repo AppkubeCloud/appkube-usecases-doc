@@ -1,6 +1,3 @@
 {
-  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
-  "extends": [
-    "local>netlify-templates/renovate-config"
-  ]
+  "extends": ["github>netlify/renovate-config:netlify-cms-starter"]
 }

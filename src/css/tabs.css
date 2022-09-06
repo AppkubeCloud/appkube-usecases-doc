@@ -1,0 +1,198 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700;800;900&display=swap');
+/* regular 400,semi-bold 600, bold 700,extra bold 800, black 900, */
+
+.App {
+  font-family: 'Poppins';
+  background: #fff;
+  color: #777;
+  /* height: 100vh; */
+  box-sizing: border-box;
+  text-align: center;
+  margin-bottom: 3em;
+  padding: 0em 2em 2em;
+}
+.pvt-top-bg {
+  color: #ffffff;
+}
+.bg-contact {
+  background-color: #ffffff;
+}
+.pvt-bg {
+  background-color: #fff;
+  width: 90vw;
+  margin: 3em -5.5em -2.5em;
+  padding: 4em 4em 2em;
+}
+input,
+select,
+textarea {
+  border: 2px solid #e1e1e1;
+  border-radius: 6px;
+  padding: 8px 10px;
+  color: #777;
+}
+#service {
+  width: 100%;
+}
+#mobile {
+  width: 100%;
+  margin-top: 1em;
+}
+#submit-btn {
+  background-color: #6eb800;
+  color: #fff;
+  font-family: 'Poppins';
+  font-weight: 600;
+}
+label {
+  margin-bottom: 0.5em;
+  color: #425163;
+  font-weight: 600;
+}
+.App h1 {
+  padding: 0.8em 0;
+}
+.tab-popup button {
+  position: absolute;
+  top: 2.3em;
+  right: 1.9em;
+  z-index: 10;
+  border: navajowhite;
+  font-size: 2em;
+  background: transparent;
+  color: red;
+}
+
+.react-tabs {
+  display: flex;
+  align-items: flex-end;
+  width: 100%;
+  /* height: 400px; */
+  border: 1px solid #3c3e43;
+  color: white;
+  background: #1c1d1f;
+}
+
+.react-tabs__tab-list {
+  display: flex;
+  flex-direction: column;
+  width: 225px;
+  height: 25em;
+  margin: 0;
+  padding: 0;
+  color: white;
+  background: #3c3e43;
+}
+
+.react-tabs__tab {
+  height: 12.19vh;
+  list-style: none;
+  padding: 25px 6px;
+  cursor: pointer;
+  color: #bbb;
+}
+
+.react-tabs__tab--selected {
+  background: #1c1d1f;
+  border-color: #1c1d1f;
+  border-left: 4px solid #6eb800;
+  color: white;
+}
+
+.react-tabs__tab-panel {
+  display: none;
+  width: inherit;
+}
+
+.react-tabs__tab-panel--selected {
+  display: block;
+}
+
+.react-tabs__tab {
+  padding-left: 24px;
+}
+
+.react-tabs__tab--selected {
+  padding-left: 21px;
+}
+
+.panel-content {
+  text-align: center;
+  height: 25em;
+}
+.content-panel {
+  height: 25em;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-gap: 10px;
+}
+ul li {
+  line-height: 1.8;
+  text-align: left;
+}
+.basic h3,
+.intermediate h3,
+.standard h3,
+.advance h3 {
+  margin-bottom: 1.2em;
+  margin-top: 1em;
+  font-size: 1.2em;
+  color: #fff;
+}
+.basic {
+  background: rgb(255, 255, 255);
+  background: linear-gradient(
+    0deg,
+    rgba(255, 255, 255, 1) 85%,
+    rgba(129, 44, 130, 1) 85%
+  );
+  color: black;
+}
+.intermediate {
+  /* background-color: rgb(213, 43, 55); */
+  background: rgb(255, 255, 255);
+  background: linear-gradient(
+    0deg,
+    rgba(255, 255, 255, 1) 85%,
+    rgba(213, 43, 55, 1) 85%
+  );
+  color: black;
+}
+.standard {
+  /* background-color: rgb(244, 127, 32); */
+  background: rgb(255, 255, 255);
+  background: linear-gradient(
+    0deg,
+    rgba(255, 255, 255, 1) 85%,
+    rgb(244, 127, 32) 85%
+  );
+  color: black;
+}
+.advance {
+  /* background-color: rgb(134, 196, 66); */
+  background: rgb(255, 255, 255);
+  background: linear-gradient(
+    0deg,
+    rgba(255, 255, 255, 1) 85%,
+    rgb(134, 196, 66) 85%
+  );
+  color: black;
+}
+.rIcon {
+  font-size: 24px;
+  margin-right: 5px;
+}
+.error,
+.errormb,
+.errorc,
+.errorct,
+.errorml,
+.errorms,
+.errormss {
+  color: #f26969;
+  font-weight: bold;
+  font-size: 0.9em;
+  display: block;
+  text-align: left;
+  margin-top: 5px;
+}
