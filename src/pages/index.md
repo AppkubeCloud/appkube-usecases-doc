@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: NewDashboard
+title: NewDashboardtest
 scenarios:
   - img: https://res.cloudinary.com/papu/image/upload/v1618828004/icrisat/2General-Director/Director_General_cbam6k.svg
     name: Procurement Admin
