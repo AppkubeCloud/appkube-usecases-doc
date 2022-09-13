@@ -3,7 +3,7 @@ templateKey: index-page
 title: NewDashboardtest
 scenarios:
   - img: https://res.cloudinary.com/papu/image/upload/v1618828004/icrisat/2General-Director/Director_General_cbam6k.svg
-    name: Procurement Admin
+    name: Procurement Admin - test
     subItems:
       - img: https://res.cloudinary.com/papu/image/upload/v1661773604/Final%20Procurement/Admin%20Dashboard/Admin_Dashboard_lj1pxm.png
         name: Admin Portal
@@ -479,6 +479,8 @@ scenarios:
           - name: Purchase order
             img: https://res.cloudinary.com/papu/image/upload/v1662319535/Final%20Procurement/Approver/Purchase%20order/View_Purchase_Requisitions_ck7f2m.png
             text: None
+  - img: https://res.cloudinary.com/papu/image/upload/v1618828004/icrisat/2General-Director/Director_General_cbam6k.svg
+    name: CTO
 slider:
   - img: https://res.cloudinary.com/papu/image/upload/v1618828004/icrisat/2General-Director/Director_General_cbam6k.svg
     name: tst
