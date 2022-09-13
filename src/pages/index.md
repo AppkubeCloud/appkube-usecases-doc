@@ -479,6 +479,8 @@ scenarios:
           - name: Purchase order
             img: https://res.cloudinary.com/papu/image/upload/v1662319535/Final%20Procurement/Approver/Purchase%20order/View_Purchase_Requisitions_ck7f2m.png
             text: None
+  - img: https://res.cloudinary.com/papu/image/upload/v1618828004/icrisat/2General-Director/Director_General_cbam6k.svg
+    name: CTO
 slider:
   - img: https://res.cloudinary.com/papu/image/upload/v1618828004/icrisat/2General-Director/Director_General_cbam6k.svg
     name: tst
