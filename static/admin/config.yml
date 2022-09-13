@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: App-Procurement/procurement-usecases-doc1
+  repo: AppkubeCloud/appkube-usecases-doc
   branch: main
   commit_messages:
     create: "Create {{collection}} “{{slug}}”"
