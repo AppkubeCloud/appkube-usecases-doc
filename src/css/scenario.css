@@ -513,7 +513,7 @@ img {
 #scenario-bg {
   background-color: rgb(3, 64, 173) !important;
   position: relative;
-  /* overflow: hidden; */
+  overflow: hidden;
 }
 .header {
   color: #ffffff;

@@ -5,6 +5,7 @@
     background-repeat: no-repeat;
     background-position: left top;
     background-attachment: fixed;
+    min-height: 100vh;
     
 }
 .new-dashboard-slider-container .search-box{
@@ -152,7 +153,7 @@
 }
 
 .dashboard-slider-container{
-    position: absolute;
+    position: fixed;
     top: 0;
     z-index: 10;
 }
@@ -162,10 +163,10 @@
     background-color: rgb(0, 0, 0, 0.5)!important;
 }
 .ReactModal__Content{
-    width: 50%;
+    width: 75%;
     margin: 0px auto;
-    height: 350px;
-    inset: 150px!important;
+    height: 500px;
+    inset: 90px!important;
    
 }
 .modal-main-content .modal-header, .modal-main-content .modal-footer{
@@ -177,8 +178,8 @@
     height: 80%;
 }
 .modal-main-content .modal-body-content{
-    padding: 20px;
-    height: 210px;
+    padding: 20px 10px 0 10px;
+    height: 360px;
 }
 .modal-main-content .modal-header{
     padding: 0 0 15px 0;
@@ -206,38 +207,44 @@
     display: flex;
     align-items: center;
     justify-content: start;
+    margin-bottom: 15px;
 }
 .modal-main-content .modal-body-content .module-chack-box .form-check-input{
     width: 22px;
     height: 22px;
     border-color: #d1d1d6;
     margin-right: 8px;
+    
 }
-.modal-main-content .modal-body-content .module-chack-box  .module-user-profile{
-    width: 40px;
-    height: 40px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+.modal-main-content .modal-body-content .module-chack-box .form-check-input:focus{
+    box-shadow: 0 0 0 0.1rem rgb(13 110 253 / 25%);
+}
+.modal-main-content .modal-body-content .module-chack-box label .module-user-profile{
+    width: 38px;
+    height: 38px;
+    display: inline-block;
+    margin-right: 10px;
 }
 .modal-main-content .modal-body-content .module-chack-box label{
     font-size: 16px;
     line-height: 20px;
     font-weight: 400;
     color: #2c2c2e;
-    margin:  0 0 0 10px;
+    margin: 0;
     width: 100%;
     white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis;
 }
-.modal-main-content .modal-footer a{
+.modal-main-content .modal-footer .clear-btn {
     font-size: 14px;
     line-height: 20px;
     font-weight: 400;
     color: #767676;
+    border: none;
+    background: transparent;
 }
-.modal-main-content .modal-footer a:hover{
+.modal-main-content .modal-footer .clear-btn:hover{
     color: #ff5a5f;
 }
 .modal-main-content .modal-footer .submit-btn{
