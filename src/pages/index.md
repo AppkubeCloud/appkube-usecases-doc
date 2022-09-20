@@ -29,6 +29,26 @@ scenarios:
         logo: https://res.cloudinary.com/papu/image/upload/v1618828004/icrisat/2General-Director/Director_General_cbam6k.svg
   - img: https://res.cloudinary.com/papu/image/upload/v1618831033/icrisat/4Requestor/Requisitioner_gdqhmt.svg
     name: Admin
+    subItems:
+      - img: https://res.cloudinary.com/papu/image/upload/v1663674029/AppKube/Provisioning%20and%20Automation/4%20Adding%20common%20services/AWS_Account_-_Asset_tree-2_wdyz4y.png
+        name: Adding Common Services
+        link: https://www.figma.com/file/tmzdMgCegtVSQLVgHR6uc3/Untitled?node-id=0%3A1
+        screenshots: https://res.cloudinary.com/papu/image/upload/v1663674029/AppKube/Provisioning%20and%20Automation/4%20Adding%20common%20services/AWS_Account_-_Asset_tree-2_wdyz4y.png
+        module: Provisioning & Automation
+        logo: https://res.cloudinary.com/papu/image/upload/v1618828004/icrisat/2General-Director/Director_General_cbam6k.svg
+        useCaseSlider:
+          - img: https://res.cloudinary.com/papu/image/upload/v1663674029/AppKube/Provisioning%20and%20Automation/4%20Adding%20common%20services/AWS_Account_-_Asset_tree-2_wdyz4y.png
+            name: Resources
+            text: Resources
+          - img: https://res.cloudinary.com/papu/image/upload/v1663674028/AppKube/Provisioning%20and%20Automation/4%20Adding%20common%20services/AWS_Account_-_Asset_tree_2-5_eam5dr.png
+            name: Tree
+            text: Tree
+          - img: https://res.cloudinary.com/papu/image/upload/v1663674028/AppKube/Provisioning%20and%20Automation/4%20Adding%20common%20services/AWS_Account_-_Asset_tree_2-6_k4grve.png
+            name: Services
+            text: Services
+          - img: https://res.cloudinary.com/papu/image/upload/v1663674029/AppKube/Provisioning%20and%20Automation/4%20Adding%20common%20services/AWS_Account_-Asset_tree_2-14_mqn1s0.png
+            name: Common Services
+            text: Common Services
   - img: https://res.cloudinary.com/papu/image/upload/v1618832633/icrisat/5Vendor-portal/Vendor_grre9u.svg
     name: DevSecOps
 slider:
