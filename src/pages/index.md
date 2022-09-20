@@ -32,7 +32,7 @@ scenarios:
     subItems:
       - img: https://res.cloudinary.com/papu/image/upload/v1663674029/AppKube/Provisioning%20and%20Automation/4%20Adding%20common%20services/AWS_Account_-_Asset_tree-2_wdyz4y.png
         name: Adding Common Services
-        link: https://www.figma.com/file/tmzdMgCegtVSQLVgHR6uc3/Untitled?node-id=0%3A1
+        link: https://www.figma.com/proto/tmzdMgCegtVSQLVgHR6uc3/Untitled?page-id=0%3A1&node-id=1%3A1437&viewport=76%2C239%2C0.07&scaling=scale-down&starting-point-node-id=1%3A1437
         screenshots: https://res.cloudinary.com/papu/image/upload/v1663674029/AppKube/Provisioning%20and%20Automation/4%20Adding%20common%20services/AWS_Account_-_Asset_tree-2_wdyz4y.png
         module: Provisioning & Automation
         logo: https://res.cloudinary.com/papu/image/upload/v1618828004/icrisat/2General-Director/Director_General_cbam6k.svg
