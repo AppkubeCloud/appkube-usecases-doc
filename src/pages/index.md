@@ -81,6 +81,22 @@ scenarios:
           - img: https://res.cloudinary.com/papu/image/upload/v1663745162/AppKube/Provisioning%20and%20Automation/1%20Create%20Landing%20Zone/AWS_Landing_zone_1_form_ltmqkj.png
             name: Landing Zone details form
             text: Landing Zone details form
+      - img: https://res.cloudinary.com/papu/image/upload/v1663746608/AppKube/Provisioning%20and%20Automation/2%20Add%20Product%20Enclave%20to%20Landing%20zone/DevCat2-2_uyqtfq.png
+        name: Add Product Enclave in Landing Zone
+        link: https://www.figma.com/proto/tmzdMgCegtVSQLVgHR6uc3/Netlifi-Usecase-file?page-id=0%3A1&node-id=21%3A6058&viewport=362%2C526%2C0.05&scaling=scale-down&starting-point-node-id=21%3A6058&show-proto-sidebar=1
+        screenshots: https://res.cloudinary.com/papu/image/upload/v1663746608/AppKube/Provisioning%20and%20Automation/2%20Add%20Product%20Enclave%20to%20Landing%20zone/DevCat2-2_uyqtfq.png
+        module: Provisioning & Automation
+        logo: https://res.cloudinary.com/papu/image/upload/v1618828004/icrisat/2General-Director/Director_General_cbam6k.svg
+        useCaseSlider:
+          - img: https://res.cloudinary.com/papu/image/upload/v1663746608/AppKube/Provisioning%20and%20Automation/2%20Add%20Product%20Enclave%20to%20Landing%20zone/DevCat2-2_uyqtfq.png
+            name: Catalogue main page
+            text: Catalogue main page
+          - img: https://res.cloudinary.com/papu/image/upload/v1663746608/AppKube/Provisioning%20and%20Automation/2%20Add%20Product%20Enclave%20to%20Landing%20zone/AWS_Product_enclave_1_mo7nhz.png
+            name: Add Product enclave intro
+            text: Add Product enclave intro
+          - img: https://res.cloudinary.com/papu/image/upload/v1663746608/AppKube/Provisioning%20and%20Automation/2%20Add%20Product%20Enclave%20to%20Landing%20zone/AWS_product_Enclave_2_wdvrv1.png
+            name: Add Enclave Form
+            text: Add Enclave Form
   - img: https://res.cloudinary.com/papu/image/upload/v1618832633/icrisat/5Vendor-portal/Vendor_grre9u.svg
     name: DevSecOps
 slider:
