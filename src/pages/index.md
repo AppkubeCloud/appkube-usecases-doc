@@ -65,6 +65,22 @@ scenarios:
           - img: https://res.cloudinary.com/papu/image/upload/v1663744302/AppKube/Provisioning%20and%20Automation/5%20Adding%20Product%20to%20Product%20Enclave/Component_34_u9tqud.png
             name: Add Product Option
             text: Add Product Option
+      - img: https://res.cloudinary.com/papu/image/upload/v1663745163/AppKube/Provisioning%20and%20Automation/1%20Create%20Landing%20Zone/DevCat2-2_v5mhtr.png
+        screenshots: https://res.cloudinary.com/papu/image/upload/v1663745163/AppKube/Provisioning%20and%20Automation/1%20Create%20Landing%20Zone/DevCat2-2_v5mhtr.png
+        name: Create Landing Zone in different Environment
+        link: https://www.figma.com/proto/tmzdMgCegtVSQLVgHR6uc3/Netlifi-Usecase-file?page-id=0%3A1&node-id=18%3A4668&viewport=285%2C615%2C0.1&scaling=scale-down&starting-point-node-id=18%3A4668&show-proto-sidebar=1
+        module: Provisioning & Automation
+        logo: https://res.cloudinary.com/papu/image/upload/v1618828004/icrisat/2General-Director/Director_General_cbam6k.svg
+        useCaseSlider:
+          - img: https://res.cloudinary.com/papu/image/upload/v1663745163/AppKube/Provisioning%20and%20Automation/1%20Create%20Landing%20Zone/DevCat2-2_v5mhtr.png
+            name: "Catalogue Main page "
+            text: "Catalogue Main page "
+          - img: https://res.cloudinary.com/papu/image/upload/v1663745162/AppKube/Provisioning%20and%20Automation/1%20Create%20Landing%20Zone/AWS_Landing_zone_1_gl2rwd.png
+            name: Landing Zone Intro
+            text: Landing Zone Intro
+          - img: https://res.cloudinary.com/papu/image/upload/v1663745162/AppKube/Provisioning%20and%20Automation/1%20Create%20Landing%20Zone/AWS_Landing_zone_1_form_ltmqkj.png
+            name: Landing Zone details form
+            text: Landing Zone details form
   - img: https://res.cloudinary.com/papu/image/upload/v1618832633/icrisat/5Vendor-portal/Vendor_grre9u.svg
     name: DevSecOps
 slider:
