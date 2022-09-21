@@ -49,6 +49,22 @@ scenarios:
           - img: https://res.cloudinary.com/papu/image/upload/v1663674029/AppKube/Provisioning%20and%20Automation/4%20Adding%20common%20services/AWS_Account_-Asset_tree_2-14_mqn1s0.png
             name: Common Services
             text: Common Services
+      - img: https://res.cloudinary.com/papu/image/upload/v1663744303/AppKube/Provisioning%20and%20Automation/5%20Adding%20Product%20to%20Product%20Enclave/Screenshot_pifpjl.png
+        name: Add Product to Product Enclave
+        link: https://www.figma.com/proto/tmzdMgCegtVSQLVgHR6uc3/Netlifi-Usecase-file?page-id=0%3A1&node-id=14%3A3754&viewport=102%2C78%2C0.17&scaling=scale-down&starting-point-node-id=14%3A3754&show-proto-sidebar=1
+        screenshots: https://res.cloudinary.com/papu/image/upload/v1663744303/AppKube/Provisioning%20and%20Automation/5%20Adding%20Product%20to%20Product%20Enclave/Screenshot_pifpjl.png
+        module: Provisioning & Automation
+        logo: https://res.cloudinary.com/papu/image/upload/v1618828004/icrisat/2General-Director/Director_General_cbam6k.svg
+        useCaseSlider:
+          - img: https://res.cloudinary.com/papu/image/upload/v1663744303/AppKube/Provisioning%20and%20Automation/5%20Adding%20Product%20to%20Product%20Enclave/Home_Dashboard_rbwlsx.png
+            name: Main Screen
+            text: Main Screen
+          - img: https://res.cloudinary.com/papu/image/upload/v1663744303/AppKube/Provisioning%20and%20Automation/5%20Adding%20Product%20to%20Product%20Enclave/Screenshot_pifpjl.png
+            name: Product Enclave Options
+            text: Product Enclave Options
+          - img: https://res.cloudinary.com/papu/image/upload/v1663744302/AppKube/Provisioning%20and%20Automation/5%20Adding%20Product%20to%20Product%20Enclave/Component_34_u9tqud.png
+            name: Add Product Option
+            text: Add Product Option
   - img: https://res.cloudinary.com/papu/image/upload/v1618832633/icrisat/5Vendor-portal/Vendor_grre9u.svg
     name: DevSecOps
 slider:
