@@ -122,6 +122,25 @@ scenarios:
           - img: https://res.cloudinary.com/papu/image/upload/v1663674029/AppKube/Provisioning%20and%20Automation/4%20Adding%20common%20services/AWS_Account_-Asset_tree_2-14_mqn1s0.png
             name: Common Services
             text: Common Services
+      - name: Appkube Home Dashboard
+        link: https://www.figma.com/proto/tmzdMgCegtVSQLVgHR6uc3/Netlifi-Usecase-file?page-id=0%3A1&node-id=31%3A12193&viewport=193%2C-98%2C0.04&scaling=scale-down&starting-point-node-id=31%3A12193&show-proto-sidebar=1
+        module: Cloud Asset Management and CMDB
+        logo: https://res.cloudinary.com/papu/image/upload/v1618828004/icrisat/2General-Director/Director_General_cbam6k.svg
+        screenshots: https://res.cloudinary.com/papu/image/upload/v1664016075/AppKube/Cloud%20Asset%20Management%20and%20CMDB/1%20Home%20Dashboard/Home_Dashboard_snc29c.png
+        img: https://res.cloudinary.com/papu/image/upload/v1664016075/AppKube/Cloud%20Asset%20Management%20and%20CMDB/1%20Home%20Dashboard/Home_Dashboard_snc29c.png
+        useCaseSlider:
+          - img: https://res.cloudinary.com/papu/image/upload/v1664016075/AppKube/Cloud%20Asset%20Management%20and%20CMDB/1%20Home%20Dashboard/Home_Dashboard_snc29c.png
+            name: Home Dashboard
+            text: Home Dashboard
+          - img: https://res.cloudinary.com/papu/image/upload/v1664016075/AppKube/Cloud%20Asset%20Management%20and%20CMDB/1%20Home%20Dashboard/Home_Dashboard_-_2_kbzy3f.png
+            name: Cost Analysis View
+            text: Cost Analysis View
+          - img: https://res.cloudinary.com/papu/image/upload/v1664016075/AppKube/Cloud%20Asset%20Management%20and%20CMDB/1%20Home%20Dashboard/Product_Pie_Chart_wwf25p.png
+            name: Detailed Cost Analysis - Pie Chart
+            text: Detailed Cost Analysis - Pie Chart
+          - img: https://res.cloudinary.com/papu/image/upload/v1664016075/AppKube/Cloud%20Asset%20Management%20and%20CMDB/1%20Home%20Dashboard/Product_Bar_chart_dhsyut.png
+            name: Detailed Cost Analysis - Bar Graph
+            text: Detailed Cost Analysis - Bar Graph
   - img: https://res.cloudinary.com/papu/image/upload/v1618832633/icrisat/5Vendor-portal/Vendor_grre9u.svg
     name: DevSecOps
 slider:
