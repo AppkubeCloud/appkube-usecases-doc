@@ -46,6 +46,31 @@ scenarios:
           - img: https://res.cloudinary.com/papu/image/upload/v1663745162/AppKube/Provisioning%20and%20Automation/1%20Create%20Landing%20Zone/AWS_Landing_zone_1_form_ltmqkj.png
             name: Landing Zone details form
             text: Landing Zone details form
+      - name: Create Landing Zone in AWS Environment using Wizard
+        link: https://www.figma.com/proto/tmzdMgCegtVSQLVgHR6uc3/Netlifi-Usecase-file?page-id=0%3A1&node-id=28%3A7444&viewport=319%2C848%2C0.08&scaling=scale-down&starting-point-node-id=28%3A7444&show-proto-sidebar=1
+        img: https://res.cloudinary.com/papu/image/upload/v1664012188/AppKube/Provisioning%20and%20Automation/1.1%20Create%20Landing%20Zone%20Using%20Wizard/New_Env_Wizard_1_dx0zci.png
+        screenshots: https://res.cloudinary.com/papu/image/upload/v1664012188/AppKube/Provisioning%20and%20Automation/1.1%20Create%20Landing%20Zone%20Using%20Wizard/New_Env_Wizard_1_dx0zci.png
+        module: Provisioning & Automation
+        logo: https://res.cloudinary.com/papu/image/upload/v1618828004/icrisat/2General-Director/Director_General_cbam6k.svg
+        useCaseSlider:
+          - img: https://res.cloudinary.com/papu/image/upload/v1664012188/AppKube/Provisioning%20and%20Automation/1.1%20Create%20Landing%20Zone%20Using%20Wizard/New_Env_Wizard_1_dx0zci.png
+            name: Wizard 1
+            text: Wizard 1
+          - img: https://res.cloudinary.com/papu/image/upload/v1664012188/AppKube/Provisioning%20and%20Automation/1.1%20Create%20Landing%20Zone%20Using%20Wizard/New_Env_Wizard_2_ychbik.png
+            name: Wizard 2
+            text: Wizard 2
+          - img: https://res.cloudinary.com/papu/image/upload/v1664012188/AppKube/Provisioning%20and%20Automation/1.1%20Create%20Landing%20Zone%20Using%20Wizard/New_Env_Wizard_3_ad6jn4.png
+            name: Wizard 3
+            text: Wizard 3
+          - img: https://res.cloudinary.com/papu/image/upload/v1664012188/AppKube/Provisioning%20and%20Automation/1.1%20Create%20Landing%20Zone%20Using%20Wizard/New_Env_Wizard_4_jyak0k.png
+            name: Wizard 4
+            text: Wizard 4
+          - img: https://res.cloudinary.com/papu/image/upload/v1664012188/AppKube/Provisioning%20and%20Automation/1.1%20Create%20Landing%20Zone%20Using%20Wizard/New_Env_Wizard_5_p5vq7p.png
+            name: Wizard 5
+            text: Wizard 5
+          - img: https://res.cloudinary.com/papu/image/upload/v1664012188/AppKube/Provisioning%20and%20Automation/1.1%20Create%20Landing%20Zone%20Using%20Wizard/New_Env_Wizard_6_othhj3.png
+            name: Wizard 6
+            text: Wizard 6
       - img: https://res.cloudinary.com/papu/image/upload/v1663746608/AppKube/Provisioning%20and%20Automation/2%20Add%20Product%20Enclave%20to%20Landing%20zone/DevCat2-2_uyqtfq.png
         name: Add Product Enclave in Landing Zone
         link: https://www.figma.com/proto/tmzdMgCegtVSQLVgHR6uc3/Netlifi-Usecase-file?page-id=0%3A1&node-id=21%3A6058&viewport=362%2C526%2C0.05&scaling=scale-down&starting-point-node-id=21%3A6058&show-proto-sidebar=1
@@ -97,31 +122,6 @@ scenarios:
           - img: https://res.cloudinary.com/papu/image/upload/v1663674029/AppKube/Provisioning%20and%20Automation/4%20Adding%20common%20services/AWS_Account_-Asset_tree_2-14_mqn1s0.png
             name: Common Services
             text: Common Services
-      - name: Create Landing Zone in AWS Environment using Wizard
-        link: https://www.figma.com/proto/tmzdMgCegtVSQLVgHR6uc3/Netlifi-Usecase-file?page-id=0%3A1&node-id=28%3A7444&viewport=319%2C848%2C0.08&scaling=scale-down&starting-point-node-id=28%3A7444&show-proto-sidebar=1
-        img: https://res.cloudinary.com/papu/image/upload/v1664012188/AppKube/Provisioning%20and%20Automation/1.1%20Create%20Landing%20Zone%20Using%20Wizard/New_Env_Wizard_1_dx0zci.png
-        screenshots: https://res.cloudinary.com/papu/image/upload/v1664012188/AppKube/Provisioning%20and%20Automation/1.1%20Create%20Landing%20Zone%20Using%20Wizard/New_Env_Wizard_1_dx0zci.png
-        module: Provisioning & Automation
-        logo: https://res.cloudinary.com/papu/image/upload/v1618828004/icrisat/2General-Director/Director_General_cbam6k.svg
-        useCaseSlider:
-          - img: https://res.cloudinary.com/papu/image/upload/v1664012188/AppKube/Provisioning%20and%20Automation/1.1%20Create%20Landing%20Zone%20Using%20Wizard/New_Env_Wizard_1_dx0zci.png
-            name: Wizard 1
-            text: Wizard 1
-          - img: https://res.cloudinary.com/papu/image/upload/v1664012188/AppKube/Provisioning%20and%20Automation/1.1%20Create%20Landing%20Zone%20Using%20Wizard/New_Env_Wizard_2_ychbik.png
-            name: Wizard 2
-            text: Wizard 2
-          - img: https://res.cloudinary.com/papu/image/upload/v1664012188/AppKube/Provisioning%20and%20Automation/1.1%20Create%20Landing%20Zone%20Using%20Wizard/New_Env_Wizard_3_ad6jn4.png
-            name: Wizard 3
-            text: Wizard 3
-          - img: https://res.cloudinary.com/papu/image/upload/v1664012188/AppKube/Provisioning%20and%20Automation/1.1%20Create%20Landing%20Zone%20Using%20Wizard/New_Env_Wizard_4_jyak0k.png
-            name: Wizard 4
-            text: Wizard 4
-          - img: https://res.cloudinary.com/papu/image/upload/v1664012188/AppKube/Provisioning%20and%20Automation/1.1%20Create%20Landing%20Zone%20Using%20Wizard/New_Env_Wizard_5_p5vq7p.png
-            name: Wizard 5
-            text: Wizard 5
-          - img: https://res.cloudinary.com/papu/image/upload/v1664012188/AppKube/Provisioning%20and%20Automation/1.1%20Create%20Landing%20Zone%20Using%20Wizard/New_Env_Wizard_6_othhj3.png
-            name: Wizard 6
-            text: Wizard 6
   - img: https://res.cloudinary.com/papu/image/upload/v1618832633/icrisat/5Vendor-portal/Vendor_grre9u.svg
     name: DevSecOps
 slider:
