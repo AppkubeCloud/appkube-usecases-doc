@@ -141,6 +141,31 @@ scenarios:
           - img: https://res.cloudinary.com/papu/image/upload/v1664016075/AppKube/Cloud%20Asset%20Management%20and%20CMDB/1%20Home%20Dashboard/Product_Bar_chart_dhsyut.png
             name: Detailed Cost Analysis - Bar Graph
             text: Detailed Cost Analysis - Bar Graph
+      - name: Discover Existing Cloud Account
+        link: https://www.figma.com/proto/tmzdMgCegtVSQLVgHR6uc3/Netlifi-Usecase-file?page-id=0%3A1&node-id=33%3A13345&viewport=302%2C-321%2C0.03&scaling=scale-down&starting-point-node-id=33%3A13345&show-proto-sidebar=1
+        img: https://res.cloudinary.com/papu/image/upload/v1664023620/AppKube/Cloud%20Asset%20Management%20and%20CMDB/2%20Discover%20Existing%20Cloud%20Accout/New_Env_Wizard_1_u7fvko.png
+        screenshots: https://res.cloudinary.com/papu/image/upload/v1664023620/AppKube/Cloud%20Asset%20Management%20and%20CMDB/2%20Discover%20Existing%20Cloud%20Accout/New_Env_Wizard_1_u7fvko.png
+        module: Cloud Asset Management and CMDB
+        logo: https://res.cloudinary.com/papu/image/upload/v1618828004/icrisat/2General-Director/Director_General_cbam6k.svg
+        useCaseSlider:
+          - img: https://res.cloudinary.com/papu/image/upload/v1664023620/AppKube/Cloud%20Asset%20Management%20and%20CMDB/2%20Discover%20Existing%20Cloud%20Accout/New_Env_Wizard_1_u7fvko.png
+            name: Wizard 1
+            text: Wizard 1
+          - img: https://res.cloudinary.com/papu/image/upload/v1664023620/AppKube/Cloud%20Asset%20Management%20and%20CMDB/2%20Discover%20Existing%20Cloud%20Accout/New_Env_Wizard_2_lgmjke.png
+            name: Wizard 2
+            text: Wizard 2
+          - img: https://res.cloudinary.com/papu/image/upload/v1664023620/AppKube/Cloud%20Asset%20Management%20and%20CMDB/2%20Discover%20Existing%20Cloud%20Accout/New_Env_Wizard_3_rimcvl.png
+            name: Wizard 3
+            text: Wizard 3
+          - img: https://res.cloudinary.com/papu/image/upload/v1664023620/AppKube/Cloud%20Asset%20Management%20and%20CMDB/2%20Discover%20Existing%20Cloud%20Accout/New_Env_Wizard_4_g1okez.png
+            name: Wizard 4
+            text: Wizard 4
+          - img: https://res.cloudinary.com/papu/image/upload/v1664023620/AppKube/Cloud%20Asset%20Management%20and%20CMDB/2%20Discover%20Existing%20Cloud%20Accout/New_Env_Wizard_5_khixk7.png
+            name: Wizard 5
+            text: Wizard 5
+          - img: https://res.cloudinary.com/papu/image/upload/v1664023620/AppKube/Cloud%20Asset%20Management%20and%20CMDB/2%20Discover%20Existing%20Cloud%20Accout/New_Env_Wizard_6_nit7oo.png
+            name: Wizard 6
+            text: Wizard 6
   - img: https://res.cloudinary.com/papu/image/upload/v1618832633/icrisat/5Vendor-portal/Vendor_grre9u.svg
     name: DevSecOps
 slider:
