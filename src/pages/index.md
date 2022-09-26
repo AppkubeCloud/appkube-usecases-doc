@@ -151,7 +151,7 @@ scenarios:
           - img: https://res.cloudinary.com/papu/image/upload/v1664178864/AppKube/Cloud%20Asset%20Management%20and%20CMDB/3%20Asset%20Overview%20Homepage/Home_Dashboard_g9kftn.png
             name: Asset Overview Homepage
             text: Asset Overview Homepage
-      - name: Discover  Cloud Elements in Product Enclaves
+      - name: Discover Cloud Elements in Product Enclaves
         module: Cloud Asset Management and CMDB
         logo: https://res.cloudinary.com/papu/image/upload/v1618828004/icrisat/2General-Director/Director_General_cbam6k.svg
         link: https://www.figma.com/proto/tmzdMgCegtVSQLVgHR6uc3/Netlifi-Usecase-file?page-id=0%3A1&node-id=37%3A16358&viewport=184%2C-681%2C0.04&scaling=scale-down&starting-point-node-id=37%3A16358&show-proto-sidebar=1
@@ -173,6 +173,37 @@ scenarios:
           - img: https://res.cloudinary.com/papu/image/upload/v1664179960/AppKube/Cloud%20Asset%20Management%20and%20CMDB/4%20Discover%20Cloud%20Elements%20in%20Product%20Enclaves/Node_Main_tab_-_2_at8fyf.png
             name: Explorer
             text: Explorer
+      - img: https://res.cloudinary.com/papu/image/upload/v1664186084/AppKube/Cloud%20Asset%20Management%20and%20CMDB/5%20Usecase%205_Show%20Services%20View%20in%20product%20enclaves/2AWS_Account_-_Asset_tree_1-2_mh61qd.png
+        name: Show Services View in product enclaves
+        link: https://www.figma.com/proto/tmzdMgCegtVSQLVgHR6uc3/Netlifi-Usecase-file?page-id=0%3A1&node-id=39%3A21520&viewport=479%2C-712%2C0.04&scaling=scale-down&starting-point-node-id=39%3A21520&show-proto-sidebar=1
+        screenshots: https://res.cloudinary.com/papu/image/upload/v1664186084/AppKube/Cloud%20Asset%20Management%20and%20CMDB/5%20Usecase%205_Show%20Services%20View%20in%20product%20enclaves/2AWS_Account_-_Asset_tree_1-2_mh61qd.png
+        module: Cloud Asset Management and CMDB
+        logo: https://res.cloudinary.com/papu/image/upload/v1618828004/icrisat/2General-Director/Director_General_cbam6k.svg
+        useCaseSlider:
+          - img: https://res.cloudinary.com/papu/image/upload/v1664186084/AppKube/Cloud%20Asset%20Management%20and%20CMDB/5%20Usecase%205_Show%20Services%20View%20in%20product%20enclaves/1AWS_Account_-_Asset_tree-2_jtgazb.png
+            name: Account page
+            text: Account page
+          - img: https://res.cloudinary.com/papu/image/upload/v1664186084/AppKube/Cloud%20Asset%20Management%20and%20CMDB/5%20Usecase%205_Show%20Services%20View%20in%20product%20enclaves/2AWS_Account_-_Asset_tree_1-2_mh61qd.png
+            name: Asset Tree
+            text: Asset Tree
+          - img: https://res.cloudinary.com/papu/image/upload/v1664186084/AppKube/Cloud%20Asset%20Management%20and%20CMDB/5%20Usecase%205_Show%20Services%20View%20in%20product%20enclaves/3AWS_Account_-_Asset_tree_2-5_vdvhtn.png
+            name: Asset Tree
+            text: Asset Tree
+          - img: https://res.cloudinary.com/papu/image/upload/v1664186085/AppKube/Cloud%20Asset%20Management%20and%20CMDB/5%20Usecase%205_Show%20Services%20View%20in%20product%20enclaves/4AWS_Account_-_Asset_tree_2-6_ft6dft.png
+            name: Asset Tree
+            text: Asset Tree
+          - img: https://res.cloudinary.com/papu/image/upload/v1664186085/AppKube/Cloud%20Asset%20Management%20and%20CMDB/5%20Usecase%205_Show%20Services%20View%20in%20product%20enclaves/5AWS_Account_-Asset_tree_2-14_jhzzuy.png
+            name: Asset Tree
+            text: Asset Tree
+          - img: https://res.cloudinary.com/papu/image/upload/v1664186084/AppKube/Cloud%20Asset%20Management%20and%20CMDB/5%20Usecase%205_Show%20Services%20View%20in%20product%20enclaves/6AWS_Account_-_Asset_tree_2-17_n53tuu.png
+            name: Asset Tree
+            text: Asset Tree
+          - img: https://res.cloudinary.com/papu/image/upload/v1664186084/AppKube/Cloud%20Asset%20Management%20and%20CMDB/5%20Usecase%205_Show%20Services%20View%20in%20product%20enclaves/7AWS_Account_-_Asset_tree_2-18_prg4f7.png
+            name: Common Services
+            text: Common Services
+          - name: Business Services
+            text: Business Services
+            img: https://res.cloudinary.com/papu/image/upload/v1664186084/AppKube/Cloud%20Asset%20Management%20and%20CMDB/5%20Usecase%205_Show%20Services%20View%20in%20product%20enclaves/8AWS_Account_-_Asset_tree_-_6_a4aecp.png
   - img: https://res.cloudinary.com/papu/image/upload/v1618828004/icrisat/2General-Director/Director_General_cbam6k.svg
     name: CTO
     subItems:
