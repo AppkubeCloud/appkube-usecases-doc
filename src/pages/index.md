@@ -2,31 +2,6 @@
 templateKey: index-page
 title: NewDashboardtest
 scenarios:
-  - img: https://res.cloudinary.com/papu/image/upload/v1618828004/icrisat/2General-Director/Director_General_cbam6k.svg
-    name: CTO
-    subItems:
-      - img: https://res.cloudinary.com/papu/image/upload/v1663068241/AppKube/Home_Dashboard_12_ysfsrm.png
-        name: Create Landing Zones in different cloud
-        screenshots: https://res.cloudinary.com/papu/image/upload/v1663068241/AppKube/Home_Dashboard_12_ysfsrm.png
-        link: https://www.figma.com/file/SGCgTiBkfzKwWs4hPVQ2XQ/Assets-Management?node-id=0%3A1
-        module: Provisioning & Automation
-        logo: https://res.cloudinary.com/papu/image/upload/v1618828004/icrisat/2General-Director/Director_General_cbam6k.svg
-        useCaseSlider:
-          - img: https://res.cloudinary.com/papu/image/upload/v1663068241/AppKube/Home_Dashboard_12_ysfsrm.png
-            name: https://res.cloudinary.com/papu/image/upload/v1663068241/AppKube/Home_Dashboard_12_ysfsrm.png
-            text: https://res.cloudinary.com/papu/image/upload/v1663068241/AppKube/Home_Dashboard_12_ysfsrm.png
-      - img: https://res.cloudinary.com/papu/image/upload/v1663068241/AppKube/Home_Dashboard_12_ysfsrm.png
-        link: https://res.cloudinary.com/papu/image/upload/v1663068241/AppKube/Home_Dashboard_12_ysfsrm.png
-        screenshots: https://res.cloudinary.com/papu/image/upload/v1663068241/AppKube/Home_Dashboard_12_ysfsrm.png
-        name: Add Product Enclave in Landing Zone
-        module: Provisioning & Automation
-        logo: https://res.cloudinary.com/papu/image/upload/v1618828004/icrisat/2General-Director/Director_General_cbam6k.svg
-      - img: https://res.cloudinary.com/papu/image/upload/v1663068241/AppKube/Home_Dashboard_12_ysfsrm.png
-        name: Appkube Home Dashboard
-        link: https://res.cloudinary.com/papu/image/upload/v1663068241/AppKube/Home_Dashboard_12_ysfsrm.png
-        screenshots: https://res.cloudinary.com/papu/image/upload/v1663068241/AppKube/Home_Dashboard_12_ysfsrm.png
-        module: Cloud Asset Management and CMDB
-        logo: https://res.cloudinary.com/papu/image/upload/v1618828004/icrisat/2General-Director/Director_General_cbam6k.svg
   - img: https://res.cloudinary.com/papu/image/upload/v1618831033/icrisat/4Requestor/Requisitioner_gdqhmt.svg
     name: Admin
     subItems:
@@ -166,6 +141,63 @@ scenarios:
           - img: https://res.cloudinary.com/papu/image/upload/v1664023620/AppKube/Cloud%20Asset%20Management%20and%20CMDB/2%20Discover%20Existing%20Cloud%20Accout/New_Env_Wizard_6_nit7oo.png
             name: Wizard 6
             text: Wizard 6
+      - name: Asset Overview Home Page
+        module: Cloud Asset Management and CMDB
+        logo: https://res.cloudinary.com/papu/image/upload/v1618828004/icrisat/2General-Director/Director_General_cbam6k.svg
+        link: https://www.figma.com/proto/tmzdMgCegtVSQLVgHR6uc3/Netlifi-Usecase-file?page-id=0%3A1&node-id=37%3A15763&viewport=279%2C-826%2C0.05&scaling=scale-down&starting-point-node-id=37%3A15763&show-proto-sidebar=1
+        img: https://res.cloudinary.com/papu/image/upload/v1664178864/AppKube/Cloud%20Asset%20Management%20and%20CMDB/3%20Asset%20Overview%20Homepage/Home_Dashboard_g9kftn.png
+        screenshots: https://res.cloudinary.com/papu/image/upload/v1664178864/AppKube/Cloud%20Asset%20Management%20and%20CMDB/3%20Asset%20Overview%20Homepage/Home_Dashboard_g9kftn.png
+        useCaseSlider:
+          - img: https://res.cloudinary.com/papu/image/upload/v1664178864/AppKube/Cloud%20Asset%20Management%20and%20CMDB/3%20Asset%20Overview%20Homepage/Home_Dashboard_g9kftn.png
+            name: Asset Overview Homepage
+            text: Asset Overview Homepage
+      - name: Discover  Cloud Elements in Product Enclaves
+        module: Cloud Asset Management and CMDB
+        logo: https://res.cloudinary.com/papu/image/upload/v1618828004/icrisat/2General-Director/Director_General_cbam6k.svg
+        link: https://www.figma.com/proto/tmzdMgCegtVSQLVgHR6uc3/Netlifi-Usecase-file?page-id=0%3A1&node-id=37%3A16358&viewport=184%2C-681%2C0.04&scaling=scale-down&starting-point-node-id=37%3A16358&show-proto-sidebar=1
+        screenshots: https://res.cloudinary.com/papu/image/upload/v1664179960/AppKube/Cloud%20Asset%20Management%20and%20CMDB/4%20Discover%20Cloud%20Elements%20in%20Product%20Enclaves/AWS_Account_otlxtz.png
+        img: https://res.cloudinary.com/papu/image/upload/v1664179960/AppKube/Cloud%20Asset%20Management%20and%20CMDB/4%20Discover%20Cloud%20Elements%20in%20Product%20Enclaves/AWS_Account_otlxtz.png
+        useCaseSlider:
+          - img: https://res.cloudinary.com/papu/image/upload/v1664179960/AppKube/Cloud%20Asset%20Management%20and%20CMDB/4%20Discover%20Cloud%20Elements%20in%20Product%20Enclaves/AWS_Account_otlxtz.png
+            name: AWS Account
+            text: AWS Account
+          - img: https://res.cloudinary.com/papu/image/upload/v1664179960/AppKube/Cloud%20Asset%20Management%20and%20CMDB/4%20Discover%20Cloud%20Elements%20in%20Product%20Enclaves/AWS_Account_-_Asset_tree_1_nkzh7k.png
+            name: "Asset Tree "
+            text: "Asset Tree "
+          - img: https://res.cloudinary.com/papu/image/upload/v1664179960/AppKube/Cloud%20Asset%20Management%20and%20CMDB/4%20Discover%20Cloud%20Elements%20in%20Product%20Enclaves/AWS_Account_-_Asset_tree_2_io9thy.png
+            name: "Asset Tree "
+            text: "Asset Tree "
+          - img: https://res.cloudinary.com/papu/image/upload/v1664179960/AppKube/Cloud%20Asset%20Management%20and%20CMDB/4%20Discover%20Cloud%20Elements%20in%20Product%20Enclaves/Node_Main_tab_-_2_at8fyf.png
+            name: Tree
+            text: Tree
+          - img: https://res.cloudinary.com/papu/image/upload/v1664179960/AppKube/Cloud%20Asset%20Management%20and%20CMDB/4%20Discover%20Cloud%20Elements%20in%20Product%20Enclaves/Node_Main_tab_-_2_at8fyf.png
+            name: Explorer
+            text: Explorer
+  - img: https://res.cloudinary.com/papu/image/upload/v1618828004/icrisat/2General-Director/Director_General_cbam6k.svg
+    name: CTO
+    subItems:
+      - img: https://res.cloudinary.com/papu/image/upload/v1663068241/AppKube/Home_Dashboard_12_ysfsrm.png
+        name: Create Landing Zones in different cloud
+        screenshots: https://res.cloudinary.com/papu/image/upload/v1663068241/AppKube/Home_Dashboard_12_ysfsrm.png
+        link: https://www.figma.com/file/SGCgTiBkfzKwWs4hPVQ2XQ/Assets-Management?node-id=0%3A1
+        module: Provisioning & Automation
+        logo: https://res.cloudinary.com/papu/image/upload/v1618828004/icrisat/2General-Director/Director_General_cbam6k.svg
+        useCaseSlider:
+          - img: https://res.cloudinary.com/papu/image/upload/v1663068241/AppKube/Home_Dashboard_12_ysfsrm.png
+            name: https://res.cloudinary.com/papu/image/upload/v1663068241/AppKube/Home_Dashboard_12_ysfsrm.png
+            text: https://res.cloudinary.com/papu/image/upload/v1663068241/AppKube/Home_Dashboard_12_ysfsrm.png
+      - img: https://res.cloudinary.com/papu/image/upload/v1663068241/AppKube/Home_Dashboard_12_ysfsrm.png
+        link: https://res.cloudinary.com/papu/image/upload/v1663068241/AppKube/Home_Dashboard_12_ysfsrm.png
+        screenshots: https://res.cloudinary.com/papu/image/upload/v1663068241/AppKube/Home_Dashboard_12_ysfsrm.png
+        name: Add Product Enclave in Landing Zone
+        module: Provisioning & Automation
+        logo: https://res.cloudinary.com/papu/image/upload/v1618828004/icrisat/2General-Director/Director_General_cbam6k.svg
+      - img: https://res.cloudinary.com/papu/image/upload/v1663068241/AppKube/Home_Dashboard_12_ysfsrm.png
+        name: Appkube Home Dashboard
+        link: https://res.cloudinary.com/papu/image/upload/v1663068241/AppKube/Home_Dashboard_12_ysfsrm.png
+        screenshots: https://res.cloudinary.com/papu/image/upload/v1663068241/AppKube/Home_Dashboard_12_ysfsrm.png
+        module: Cloud Asset Management and CMDB
+        logo: https://res.cloudinary.com/papu/image/upload/v1618828004/icrisat/2General-Director/Director_General_cbam6k.svg
   - img: https://res.cloudinary.com/papu/image/upload/v1618832633/icrisat/5Vendor-portal/Vendor_grre9u.svg
     name: DevSecOps
 slider:
