@@ -277,6 +277,40 @@ scenarios:
           - img: https://res.cloudinary.com/papu/image/upload/v1664188639/AppKube/Cloud%20Asset%20Management%20and%20CMDB/11%20Landing%20Zone%20Explorer/AWS_Account_-_Asset_tabs_4_qs19ic.png
             name: Tab 7
             text: Tab 7
+      - name: Cluster Explorer
+        img: https://res.cloudinary.com/papu/image/upload/v1664190499/AppKube/Cloud%20Asset%20Management%20and%20CMDB/13%20Cluster%20Explorer/Kubernetes_Overwiew_ekd39s.png
+        module: Cloud Asset Management and CMDB
+        logo: https://res.cloudinary.com/papu/image/upload/v1618828004/icrisat/2General-Director/Director_General_cbam6k.svg
+        link: https://www.figma.com/proto/tmzdMgCegtVSQLVgHR6uc3/Netlifi-Usecase-file?page-id=0%3A1&node-id=48%3A39639&viewport=231%2C-1262%2C0.04&scaling=scale-down&starting-point-node-id=48%3A39639&show-proto-sidebar=1
+        screenshots: https://res.cloudinary.com/papu/image/upload/v1664190499/AppKube/Cloud%20Asset%20Management%20and%20CMDB/13%20Cluster%20Explorer/Kubernetes_Overwiew_ekd39s.png
+        useCaseSlider:
+          - img: https://res.cloudinary.com/papu/image/upload/v1664190499/AppKube/Cloud%20Asset%20Management%20and%20CMDB/13%20Cluster%20Explorer/Home_Dashboard_fqhttd.png
+            name: DB
+            text: DB
+          - img: https://res.cloudinary.com/papu/image/upload/v1664190499/AppKube/Cloud%20Asset%20Management%20and%20CMDB/13%20Cluster%20Explorer/Kubernetes_Overwiew_ekd39s.png
+            name: Kubernetes DB
+            text: Kubernetes DB
+          - img: https://res.cloudinary.com/papu/image/upload/v1664190498/AppKube/Cloud%20Asset%20Management%20and%20CMDB/13%20Cluster%20Explorer/Kuber_Account_ue1zg1.png
+            name: explorer
+            text: explorer
+          - img: https://res.cloudinary.com/papu/image/upload/v1664190499/AppKube/Cloud%20Asset%20Management%20and%20CMDB/13%20Cluster%20Explorer/Kuber_Account_Tree_3_drdvsd.png
+            name: Tree
+            text: Tree
+          - img: https://res.cloudinary.com/papu/image/upload/v1664190498/AppKube/Cloud%20Asset%20Management%20and%20CMDB/13%20Cluster%20Explorer/Kuber_Account_Tree_5_ztzc7x.png
+            name: tree
+            text: tree
+          - img: https://res.cloudinary.com/papu/image/upload/v1664190499/AppKube/Cloud%20Asset%20Management%20and%20CMDB/13%20Cluster%20Explorer/Kuber_Account_Tree_6_eo4xxo.png
+            name: Tree 2
+            text: Tree 2
+          - img: https://res.cloudinary.com/papu/image/upload/v1664190498/AppKube/Cloud%20Asset%20Management%20and%20CMDB/13%20Cluster%20Explorer/Kuber_Account_Asset_Info_p2plhx.png
+            name: Tree Explorer
+            text: Tree Explorer
+          - img: https://res.cloudinary.com/papu/image/upload/v1664190499/AppKube/Cloud%20Asset%20Management%20and%20CMDB/13%20Cluster%20Explorer/Kuber_Account_Explorer_vkm6gp.png
+            name: Explorer
+            text: Explorer
+          - img: https://res.cloudinary.com/papu/image/upload/v1664190498/AppKube/Cloud%20Asset%20Management%20and%20CMDB/13%20Cluster%20Explorer/Kuber_Account_Explorer_Expended_iq1siv.png
+            name: Full explorer
+            text: Full explorer
   - img: https://res.cloudinary.com/papu/image/upload/v1618828004/icrisat/2General-Director/Director_General_cbam6k.svg
     name: CTO
     subItems:
