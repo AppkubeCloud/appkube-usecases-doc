@@ -233,6 +233,22 @@ scenarios:
           - img: https://res.cloudinary.com/papu/image/upload/v1664187856/AppKube/Cloud%20Asset%20Management%20and%20CMDB/7%20Product-Wise-Services%20Details%20for%20every%20ENV/Node_main_tab-5_k0akot.png
             name: https://res.cloudinary.com/papu/image/upload/v1664187856/AppKube/Cloud%20Asset%20Management%20and%20CMDB/7%20Product-Wise-Services%20Details%20for%20every%20ENV/Node_main_tab-5_k0akot.png
             text: https://res.cloudinary.com/papu/image/upload/v1664187856/AppKube/Cloud%20Asset%20Management%20and%20CMDB/7%20Product-Wise-Services%20Details%20for%20every%20ENV/Node_main_tab-5_k0akot.png
+      - img: https://res.cloudinary.com/papu/image/upload/v1664188326/AppKube/Cloud%20Asset%20Management%20and%20CMDB/10%20services-cost%20drilldown/Home_Dashboard_-_5_txeqg7.png
+        name: services-cost drilldown
+        module: Cloud Asset Management and CMDB
+        logo: https://res.cloudinary.com/papu/image/upload/v1618828004/icrisat/2General-Director/Director_General_cbam6k.svg
+        link: https://www.figma.com/proto/tmzdMgCegtVSQLVgHR6uc3/Netlifi-Usecase-file?page-id=0%3A1&node-id=44%3A30234&viewport=239%2C-2842%2C0.09&scaling=scale-down&starting-point-node-id=44%3A30234&show-proto-sidebar=1
+        screenshots: https://res.cloudinary.com/papu/image/upload/v1664188326/AppKube/Cloud%20Asset%20Management%20and%20CMDB/10%20services-cost%20drilldown/Home_Dashboard_-_5_txeqg7.png
+        useCaseSlider:
+          - img: https://res.cloudinary.com/papu/image/upload/v1664188326/AppKube/Cloud%20Asset%20Management%20and%20CMDB/10%20services-cost%20drilldown/Home_Dashboard_-_5_txeqg7.png
+            name: Cost Dashboard
+            text: Cost Dashboard
+          - img: https://res.cloudinary.com/papu/image/upload/v1664188326/AppKube/Cloud%20Asset%20Management%20and%20CMDB/10%20services-cost%20drilldown/Product_Pie_Chart_qzaqlu.png
+            name: Pie chart
+            text: Pie chart
+          - img: https://res.cloudinary.com/papu/image/upload/v1664188326/AppKube/Cloud%20Asset%20Management%20and%20CMDB/10%20services-cost%20drilldown/Product_Bar_chart_zlbgib.png
+            name: Bar Graph
+            text: Bar Graph
   - img: https://res.cloudinary.com/papu/image/upload/v1618828004/icrisat/2General-Director/Director_General_cbam6k.svg
     name: CTO
     subItems:
