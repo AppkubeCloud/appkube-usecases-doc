@@ -174,7 +174,7 @@ scenarios:
             name: Explorer
             text: Explorer
       - img: https://res.cloudinary.com/papu/image/upload/v1664186084/AppKube/Cloud%20Asset%20Management%20and%20CMDB/5%20Usecase%205_Show%20Services%20View%20in%20product%20enclaves/2AWS_Account_-_Asset_tree_1-2_mh61qd.png
-        name: Show Services View in product enclaves
+        name: Services View in product enclaves
         link: https://www.figma.com/proto/tmzdMgCegtVSQLVgHR6uc3/Netlifi-Usecase-file?page-id=0%3A1&node-id=39%3A21520&viewport=479%2C-712%2C0.04&scaling=scale-down&starting-point-node-id=39%3A21520&show-proto-sidebar=1
         screenshots: https://res.cloudinary.com/papu/image/upload/v1664186084/AppKube/Cloud%20Asset%20Management%20and%20CMDB/5%20Usecase%205_Show%20Services%20View%20in%20product%20enclaves/2AWS_Account_-_Asset_tree_1-2_mh61qd.png
         module: Cloud Asset Management and CMDB
@@ -204,6 +204,35 @@ scenarios:
           - name: Business Services
             text: Business Services
             img: https://res.cloudinary.com/papu/image/upload/v1664186084/AppKube/Cloud%20Asset%20Management%20and%20CMDB/5%20Usecase%205_Show%20Services%20View%20in%20product%20enclaves/8AWS_Account_-_Asset_tree_-_6_a4aecp.png
+      - name: Department-Wise-Product-Service Details
+        module: Cloud Asset Management and CMDB
+        logo: https://res.cloudinary.com/papu/image/upload/v1618828004/icrisat/2General-Director/Director_General_cbam6k.svg
+        img: https://res.cloudinary.com/papu/image/upload/v1664187355/AppKube/Cloud%20Asset%20Management%20and%20CMDB/6%20Department-Wise-Product-Service%20Details/Home_Dashboard_-_4_vo71nr.png
+        screenshots: https://res.cloudinary.com/papu/image/upload/v1664187355/AppKube/Cloud%20Asset%20Management%20and%20CMDB/6%20Department-Wise-Product-Service%20Details/Home_Dashboard_-_4_vo71nr.png
+        link: https://www.figma.com/proto/tmzdMgCegtVSQLVgHR6uc3/Netlifi-Usecase-file?page-id=0%3A1&node-id=42%3A23575&viewport=139%2C-2493%2C0.09&scaling=scale-down&starting-point-node-id=42%3A23575&show-proto-sidebar=1
+        useCaseSlider:
+          - img: https://res.cloudinary.com/papu/image/upload/v1664187355/AppKube/Cloud%20Asset%20Management%20and%20CMDB/6%20Department-Wise-Product-Service%20Details/Home_Dashboard_-_4_vo71nr.png
+            name: Dashboard
+            text: Dashboard
+          - img: https://res.cloudinary.com/papu/image/upload/v1664187355/AppKube/Cloud%20Asset%20Management%20and%20CMDB/6%20Department-Wise-Product-Service%20Details/Home_Dashboard_-_3_icb40f.png
+            name: Product details
+            text: Product details
+      - name: Product-Wise-Services Details for every ENV
+        link: https://www.figma.com/proto/tmzdMgCegtVSQLVgHR6uc3/Netlifi-Usecase-file?page-id=0%3A1&node-id=42%3A24816&viewport=521%2C-2154%2C0.07&scaling=scale-down&starting-point-node-id=42%3A24816&show-proto-sidebar=1
+        screenshots: https://res.cloudinary.com/papu/image/upload/v1664187856/AppKube/Cloud%20Asset%20Management%20and%20CMDB/7%20Product-Wise-Services%20Details%20for%20every%20ENV/Home_Dashboard_4_ftokyw.png
+        img: https://res.cloudinary.com/papu/image/upload/v1664187856/AppKube/Cloud%20Asset%20Management%20and%20CMDB/7%20Product-Wise-Services%20Details%20for%20every%20ENV/Home_Dashboard_4_ftokyw.png
+        module: Cloud Asset Management and CMDB
+        logo: https://res.cloudinary.com/papu/image/upload/v1618828004/icrisat/2General-Director/Director_General_cbam6k.svg
+        useCaseSlider:
+          - img: https://res.cloudinary.com/papu/image/upload/v1664187856/AppKube/Cloud%20Asset%20Management%20and%20CMDB/7%20Product-Wise-Services%20Details%20for%20every%20ENV/Home_Dashboard_4_ftokyw.png
+            name: https://res.cloudinary.com/papu/image/upload/v1664187856/AppKube/Cloud%20Asset%20Management%20and%20CMDB/7%20Product-Wise-Services%20Details%20for%20every%20ENV/Home_Dashboard_4_ftokyw.png
+            text: https://res.cloudinary.com/papu/image/upload/v1664187856/AppKube/Cloud%20Asset%20Management%20and%20CMDB/7%20Product-Wise-Services%20Details%20for%20every%20ENV/Home_Dashboard_4_ftokyw.png
+          - img: https://res.cloudinary.com/papu/image/upload/v1664187857/AppKube/Cloud%20Asset%20Management%20and%20CMDB/7%20Product-Wise-Services%20Details%20for%20every%20ENV/Home_Dashboard_2_hpnh0x.png
+            name: https://res.cloudinary.com/papu/image/upload/v1664187857/AppKube/Cloud%20Asset%20Management%20and%20CMDB/7%20Product-Wise-Services%20Details%20for%20every%20ENV/Home_Dashboard_2_hpnh0x.png
+            text: https://res.cloudinary.com/papu/image/upload/v1664187857/AppKube/Cloud%20Asset%20Management%20and%20CMDB/7%20Product-Wise-Services%20Details%20for%20every%20ENV/Home_Dashboard_2_hpnh0x.png
+          - img: https://res.cloudinary.com/papu/image/upload/v1664187856/AppKube/Cloud%20Asset%20Management%20and%20CMDB/7%20Product-Wise-Services%20Details%20for%20every%20ENV/Node_main_tab-5_k0akot.png
+            name: https://res.cloudinary.com/papu/image/upload/v1664187856/AppKube/Cloud%20Asset%20Management%20and%20CMDB/7%20Product-Wise-Services%20Details%20for%20every%20ENV/Node_main_tab-5_k0akot.png
+            text: https://res.cloudinary.com/papu/image/upload/v1664187856/AppKube/Cloud%20Asset%20Management%20and%20CMDB/7%20Product-Wise-Services%20Details%20for%20every%20ENV/Node_main_tab-5_k0akot.png
   - img: https://res.cloudinary.com/papu/image/upload/v1618828004/icrisat/2General-Director/Director_General_cbam6k.svg
     name: CTO
     subItems:
