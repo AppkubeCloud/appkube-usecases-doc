@@ -249,6 +249,34 @@ scenarios:
           - img: https://res.cloudinary.com/papu/image/upload/v1664188326/AppKube/Cloud%20Asset%20Management%20and%20CMDB/10%20services-cost%20drilldown/Product_Bar_chart_zlbgib.png
             name: Bar Graph
             text: Bar Graph
+      - name: Landing Zone Explorer
+        link: https://www.figma.com/proto/tmzdMgCegtVSQLVgHR6uc3/Netlifi-Usecase-file?page-id=0%3A1&node-id=44%3A31225&viewport=147%2C-13059%2C0.31&scaling=scale-down&starting-point-node-id=44%3A31225&show-proto-sidebar=1
+        img: https://res.cloudinary.com/papu/image/upload/v1664188639/AppKube/Cloud%20Asset%20Management%20and%20CMDB/11%20Landing%20Zone%20Explorer/AWS_Account_-_Asset_tabs_-_1_krhaah.png
+        screenshots: https://res.cloudinary.com/papu/image/upload/v1664188639/AppKube/Cloud%20Asset%20Management%20and%20CMDB/11%20Landing%20Zone%20Explorer/AWS_Account_-_Asset_tabs_-_1_krhaah.png
+        module: Cloud Asset Management and CMDB
+        logo: https://res.cloudinary.com/papu/image/upload/v1618828004/icrisat/2General-Director/Director_General_cbam6k.svg
+        useCaseSlider:
+          - img: https://res.cloudinary.com/papu/image/upload/v1664188639/AppKube/Cloud%20Asset%20Management%20and%20CMDB/11%20Landing%20Zone%20Explorer/AWS_Account_h7j0qt.png
+            name: Tab !
+            text: Tab !
+          - img: https://res.cloudinary.com/papu/image/upload/v1664188639/AppKube/Cloud%20Asset%20Management%20and%20CMDB/11%20Landing%20Zone%20Explorer/AWS_Account_-_Asset_tabs_-_1_krhaah.png
+            name: Tab 1
+            text: Tab 1
+          - img: https://res.cloudinary.com/papu/image/upload/v1664188639/AppKube/Cloud%20Asset%20Management%20and%20CMDB/11%20Landing%20Zone%20Explorer/AWS_Account_-_Asset_tabs_ti1ihn.png
+            name: Tab 3
+            text: TAb3
+          - img: https://res.cloudinary.com/papu/image/upload/v1664188639/AppKube/Cloud%20Asset%20Management%20and%20CMDB/11%20Landing%20Zone%20Explorer/AWS_Account_-_Asset_tabs_1_m8agyg.png
+            name: Tab 4
+            text: Tab 4
+          - img: https://res.cloudinary.com/papu/image/upload/v1664188640/AppKube/Cloud%20Asset%20Management%20and%20CMDB/11%20Landing%20Zone%20Explorer/AWS_Account_-_Asset_tabs_2_cxnuw7.png
+            name: Tab 5
+            text: Tab 5
+          - img: https://res.cloudinary.com/papu/image/upload/v1664188639/AppKube/Cloud%20Asset%20Management%20and%20CMDB/11%20Landing%20Zone%20Explorer/AWS_Account_-_Asset_tabs_3_jq2y6h.png
+            name: Tab 6
+            text: Tab 6
+          - img: https://res.cloudinary.com/papu/image/upload/v1664188639/AppKube/Cloud%20Asset%20Management%20and%20CMDB/11%20Landing%20Zone%20Explorer/AWS_Account_-_Asset_tabs_4_qs19ic.png
+            name: Tab 7
+            text: Tab 7
   - img: https://res.cloudinary.com/papu/image/upload/v1618828004/icrisat/2General-Director/Director_General_cbam6k.svg
     name: CTO
     subItems:
