@@ -7,7 +7,7 @@ scenarios:
     subItems:
       - img: https://res.cloudinary.com/papu/image/upload/v1663745163/AppKube/Provisioning%20and%20Automation/1%20Create%20Landing%20Zone/DevCat2-2_v5mhtr.png
         screenshots: https://res.cloudinary.com/papu/image/upload/v1663745163/AppKube/Provisioning%20and%20Automation/1%20Create%20Landing%20Zone/DevCat2-2_v5mhtr.png
-        name: Create Landing Zone in AWS Env via Catalogue
+        name: Create Landing Zone in AWS
         link: https://www.figma.com/proto/tmzdMgCegtVSQLVgHR6uc3/Netlifi-Usecase-file?page-id=0%3A1&node-id=18%3A4668&viewport=285%2C615%2C0.1&scaling=scale-down&starting-point-node-id=18%3A4668&show-proto-sidebar=1
         module: Provisioning & Automation
         logo: https://res.cloudinary.com/papu/image/upload/v1618828004/icrisat/2General-Director/Director_General_cbam6k.svg
@@ -21,7 +21,7 @@ scenarios:
           - img: https://res.cloudinary.com/papu/image/upload/v1663745162/AppKube/Provisioning%20and%20Automation/1%20Create%20Landing%20Zone/AWS_Landing_zone_1_form_ltmqkj.png
             name: Landing Zone details form
             text: Landing Zone details form
-      - name: Create Landing Zone in AWS Env via Wizard
+      - name: Discover Existing Landing Zone in AWS Env
         link: https://www.figma.com/proto/tmzdMgCegtVSQLVgHR6uc3/Netlifi-Usecase-file?page-id=0%3A1&node-id=28%3A7444&viewport=319%2C848%2C0.08&scaling=scale-down&starting-point-node-id=28%3A7444&show-proto-sidebar=1
         img: https://res.cloudinary.com/papu/image/upload/v1664012188/AppKube/Provisioning%20and%20Automation/1.1%20Create%20Landing%20Zone%20Using%20Wizard/New_Env_Wizard_1_dx0zci.png
         screenshots: https://res.cloudinary.com/papu/image/upload/v1664012188/AppKube/Provisioning%20and%20Automation/1.1%20Create%20Landing%20Zone%20Using%20Wizard/New_Env_Wizard_1_dx0zci.png
