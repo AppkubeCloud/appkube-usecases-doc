@@ -5,7 +5,7 @@ scenarios:
   - img: https://res.cloudinary.com/papu/image/upload/v1618831033/icrisat/4Requestor/Requisitioner_gdqhmt.svg
     name: Admin
     subItems:
-      - img: https://res.cloudinary.com/papu/image/upload/v1663745163/AppKube/Provisioning%20and%20Automation/1%20Create%20Landing%20Zone/DevCat2-2_v5mhtr.png
+      - img: https://res.cloudinary.com/papu/image/upload/v1667824946/AppKube/Provisioning%20and%20Automation/1%20Create%20Landing%20Zone/DevCat2-2_New_pslqtj.png
         screenshots: https://res.cloudinary.com/papu/image/upload/v1663745163/AppKube/Provisioning%20and%20Automation/1%20Create%20Landing%20Zone/DevCat2-2_v5mhtr.png
         name: Create Landing Zone in AWS
         link: https://www.figma.com/proto/tmzdMgCegtVSQLVgHR6uc3/Netlifi-Usecase-file?page-id=0%3A1&node-id=18%3A4668&viewport=285%2C615%2C0.1&scaling=scale-down&starting-point-node-id=18%3A4668&show-proto-sidebar=1
