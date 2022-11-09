@@ -80,6 +80,43 @@ scenarios:
           - img: https://res.cloudinary.com/papu/image/upload/v1667991491/AppKube/Provisioning%20and%20Automation/2%20Add%20Product%20Enclave%20to%20Landing%20zone/Product%20Enclave/wizard_2_xqx1jq.png
             name: Wizard 2
             text: Wizard 2
+      - img: https://res.cloudinary.com/papu/image/upload/v1667995479/Create%20Cluster%20in%20Product%20Enclave/Create%20Cluster/CAtalogue/CAtalogue_homepage_ohhhav.png
+        name: Create Cluster in Product Enclave
+        module: Cloud Asset Management and CMDB
+        logo: https://res.cloudinary.com/papu/image/upload/v1618828004/icrisat/2General-Director/Director_General_cbam6k.svg
+        screenshots: https://res.cloudinary.com/papu/image/upload/v1667995479/Create%20Cluster%20in%20Product%20Enclave/Create%20Cluster/CAtalogue/CAtalogue_homepage_ohhhav.png
+        link: https://res.cloudinary.com/papu/image/upload/v1664190499/AppKube/Cloud%20Asset%20Management%20and%20CMDB/13%20Cluster%20Explorer/Kubernetes_Overwiew_ekd39s.png
+        useCaseSlider:
+          - img: https://res.cloudinary.com/papu/image/upload/v1667995479/Create%20Cluster%20in%20Product%20Enclave/Create%20Cluster/CAtalogue/CAtalogue_homepage_ohhhav.png
+            name: Catalogue Home Page
+            text: Catalogue Home Page
+          - img: https://res.cloudinary.com/papu/image/upload/v1667995479/Create%20Cluster%20in%20Product%20Enclave/Create%20Cluster/CAtalogue/Catalogue_1_zrugmx.png
+            name: Catalogue 1
+            text: Catalogue 1
+          - img: https://res.cloudinary.com/papu/image/upload/v1667995479/Create%20Cluster%20in%20Product%20Enclave/Create%20Cluster/CAtalogue/Catalogue_2_exb05k.png
+            name: Catalogue 2
+            text: Catalogue 2
+          - img: https://res.cloudinary.com/papu/image/upload/v1667995479/Create%20Cluster%20in%20Product%20Enclave/Create%20Cluster/CAtalogue/Catalogue_3_aury9h.png
+            name: Catalogue 3
+            text: Catalogue 3
+          - img: https://res.cloudinary.com/papu/image/upload/v1667995479/Create%20Cluster%20in%20Product%20Enclave/Create%20Cluster/CAtalogue/Catalogue__hkqcs9.png
+            name: Catalogue 4
+            text: Catalogue 4
+          - img: https://res.cloudinary.com/papu/image/upload/v1667995728/Create%20Cluster%20in%20Product%20Enclave/Create%20Cluster/Product_Enclave_icehhs.png
+            name: Product Enclave
+            text: Product Enclave
+          - img: https://res.cloudinary.com/papu/image/upload/v1667995480/Create%20Cluster%20in%20Product%20Enclave/Create%20Cluster/Wizard_1_miji76.png
+            name: Wizard 1
+            text: Wizard 1
+          - img: https://res.cloudinary.com/papu/image/upload/v1667995480/Create%20Cluster%20in%20Product%20Enclave/Create%20Cluster/Wizard_2_ieznib.png
+            name: Wizard 2
+            text: Wizard 2
+          - img: https://res.cloudinary.com/papu/image/upload/v1667995480/Create%20Cluster%20in%20Product%20Enclave/Create%20Cluster/Wizard_3_ugdgbq.png
+            name: Wizard 3
+            text: Wizard 3
+          - img: https://res.cloudinary.com/papu/image/upload/v1667995480/Create%20Cluster%20in%20Product%20Enclave/Create%20Cluster/Wizard_4_znznar.png
+            name: Wizard 4
+            text: Wizard 4
       - img: https://res.cloudinary.com/papu/image/upload/v1663744303/AppKube/Provisioning%20and%20Automation/5%20Adding%20Product%20to%20Product%20Enclave/Screenshot_pifpjl.png
         name: Add Product to Product Enclave
         link: https://www.figma.com/proto/tmzdMgCegtVSQLVgHR6uc3/Netlifi-Usecase-file?page-id=0%3A1&node-id=14%3A3754&viewport=102%2C78%2C0.17&scaling=scale-down&starting-point-node-id=14%3A3754&show-proto-sidebar=1
