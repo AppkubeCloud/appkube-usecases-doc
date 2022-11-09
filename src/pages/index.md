@@ -71,7 +71,7 @@ scenarios:
           - img: https://res.cloudinary.com/papu/image/upload/v1667820706/AppKube/Provisioning%20and%20Automation/2%20Add%20Product%20Enclave%20to%20Landing%20zone/AWS_product_Enclave_2_liay8b.png
             name: Add Enclave Form
             text: Add Enclave Form
-          - img: https://res.cloudinary.com/papu/image/upload/v1667991490/AppKube/Provisioning%20and%20Automation/2%20Add%20Product%20Enclave%20to%20Landing%20zone/Product%20Enclave/Home_Dashboard_qavjwv.png
+          - img: https://res.cloudinary.com/papu/image/upload/v1667991850/AppKube/Provisioning%20and%20Automation/2%20Add%20Product%20Enclave%20to%20Landing%20zone/Product%20Enclave/Home_Dashboard_gqkres.png
             name: Home Page
             text: Home Page
           - img: https://res.cloudinary.com/papu/image/upload/v1667991491/AppKube/Provisioning%20and%20Automation/2%20Add%20Product%20Enclave%20to%20Landing%20zone/Product%20Enclave/wizard_1_qvzvvx.png
