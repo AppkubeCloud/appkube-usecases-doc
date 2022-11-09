@@ -21,24 +21,15 @@ scenarios:
           - img: https://res.cloudinary.com/papu/image/upload/v1663745162/AppKube/Provisioning%20and%20Automation/1%20Create%20Landing%20Zone/AWS_Landing_zone_1_form_ltmqkj.png
             name: Landing Zone details form
             text: Landing Zone details form
-          - img: https://res.cloudinary.com/papu/image/upload/v1667824934/AppKube/Provisioning%20and%20Automation/1.1%20Create%20Landing%20Zone%20Using%20Wizard/New_Env_Wizard_1_New_b6ui5y.png
+          - img: https://res.cloudinary.com/papu/image/upload/v1667990409/AppKube/Provisioning%20and%20Automation/1%20Create%20Landing%20Zone/Landing%20Zone%20wizard/Home_Dashboard_bigirg.png
+            name: Home Dashboard
+            text: Home Dashboard
+          - img: https://res.cloudinary.com/papu/image/upload/v1667990408/AppKube/Provisioning%20and%20Automation/1%20Create%20Landing%20Zone/Landing%20Zone%20wizard/Wizard_1_j2ftxs.png
             name: Wizard 1
             text: Wizard 1
-          - img: https://res.cloudinary.com/papu/image/upload/v1664012188/AppKube/Provisioning%20and%20Automation/1.1%20Create%20Landing%20Zone%20Using%20Wizard/New_Env_Wizard_2_ychbik.png
+          - img: https://res.cloudinary.com/papu/image/upload/v1667990408/AppKube/Provisioning%20and%20Automation/1%20Create%20Landing%20Zone/Landing%20Zone%20wizard/Wizard_2_juu7yx.png
             name: Wizard 2
             text: Wizard 2
-          - img: https://res.cloudinary.com/papu/image/upload/v1664012188/AppKube/Provisioning%20and%20Automation/1.1%20Create%20Landing%20Zone%20Using%20Wizard/New_Env_Wizard_3_ad6jn4.png
-            name: Wizard 3
-            text: Wizard 3
-          - img: https://res.cloudinary.com/papu/image/upload/v1664012188/AppKube/Provisioning%20and%20Automation/1.1%20Create%20Landing%20Zone%20Using%20Wizard/New_Env_Wizard_4_jyak0k.png
-            name: Wizard 4
-            text: Wizard 4
-          - img: https://res.cloudinary.com/papu/image/upload/v1664012188/AppKube/Provisioning%20and%20Automation/1.1%20Create%20Landing%20Zone%20Using%20Wizard/New_Env_Wizard_5_p5vq7p.png
-            name: Wizard 5
-            text: Wizard 5
-          - img: https://res.cloudinary.com/papu/image/upload/v1664012188/AppKube/Provisioning%20and%20Automation/1.1%20Create%20Landing%20Zone%20Using%20Wizard/New_Env_Wizard_6_othhj3.png
-            name: Wizard 6
-            text: Wizard 6
       - name: Discover Existing Landing Zone in AWS Env
         link: https://www.figma.com/proto/tmzdMgCegtVSQLVgHR6uc3/Netlifi-Usecase-file?page-id=0%3A1&node-id=28%3A7444&viewport=319%2C848%2C0.08&scaling=scale-down&starting-point-node-id=28%3A7444&show-proto-sidebar=1
         img: https://res.cloudinary.com/papu/image/upload/v1664012188/AppKube/Provisioning%20and%20Automation/1.1%20Create%20Landing%20Zone%20Using%20Wizard/New_Env_Wizard_1_dx0zci.png
@@ -64,14 +55,14 @@ scenarios:
           - img: https://res.cloudinary.com/papu/image/upload/v1664012188/AppKube/Provisioning%20and%20Automation/1.1%20Create%20Landing%20Zone%20Using%20Wizard/New_Env_Wizard_6_othhj3.png
             name: Wizard 6
             text: Wizard 6
-      - img: https://res.cloudinary.com/papu/image/upload/v1663746608/AppKube/Provisioning%20and%20Automation/2%20Add%20Product%20Enclave%20to%20Landing%20zone/DevCat2-2_uyqtfq.png
+      - img: https://res.cloudinary.com/papu/image/upload/v1667824946/AppKube/Provisioning%20and%20Automation/1%20Create%20Landing%20Zone/DevCat2-2_New_pslqtj.png
         name: Add Product Enclave in Landing Zone
         link: https://www.figma.com/proto/tmzdMgCegtVSQLVgHR6uc3/Netlifi-Usecase-file?page-id=0%3A1&node-id=21%3A6058&viewport=362%2C526%2C0.05&scaling=scale-down&starting-point-node-id=21%3A6058&show-proto-sidebar=1
         screenshots: https://res.cloudinary.com/papu/image/upload/v1663746608/AppKube/Provisioning%20and%20Automation/2%20Add%20Product%20Enclave%20to%20Landing%20zone/DevCat2-2_uyqtfq.png
         module: Provisioning & Automation
         logo: https://res.cloudinary.com/papu/image/upload/v1618828004/icrisat/2General-Director/Director_General_cbam6k.svg
         useCaseSlider:
-          - img: https://res.cloudinary.com/papu/image/upload/v1663746608/AppKube/Provisioning%20and%20Automation/2%20Add%20Product%20Enclave%20to%20Landing%20zone/DevCat2-2_uyqtfq.png
+          - img: https://res.cloudinary.com/papu/image/upload/v1667824946/AppKube/Provisioning%20and%20Automation/1%20Create%20Landing%20Zone/DevCat2-2_New_pslqtj.png
             name: Catalogue main page
             text: Catalogue main page
           - img: https://res.cloudinary.com/papu/image/upload/v1663746608/AppKube/Provisioning%20and%20Automation/2%20Add%20Product%20Enclave%20to%20Landing%20zone/AWS_Product_enclave_1_mo7nhz.png
@@ -80,6 +71,15 @@ scenarios:
           - img: https://res.cloudinary.com/papu/image/upload/v1667820706/AppKube/Provisioning%20and%20Automation/2%20Add%20Product%20Enclave%20to%20Landing%20zone/AWS_product_Enclave_2_liay8b.png
             name: Add Enclave Form
             text: Add Enclave Form
+          - img: https://res.cloudinary.com/papu/image/upload/v1667991490/AppKube/Provisioning%20and%20Automation/2%20Add%20Product%20Enclave%20to%20Landing%20zone/Product%20Enclave/Home_Dashboard_qavjwv.png
+            name: Home Page
+            text: Home Page
+          - img: https://res.cloudinary.com/papu/image/upload/v1667991491/AppKube/Provisioning%20and%20Automation/2%20Add%20Product%20Enclave%20to%20Landing%20zone/Product%20Enclave/wizard_1_qvzvvx.png
+            name: Wizard 1
+            text: Wizard 1
+          - img: https://res.cloudinary.com/papu/image/upload/v1667991491/AppKube/Provisioning%20and%20Automation/2%20Add%20Product%20Enclave%20to%20Landing%20zone/Product%20Enclave/wizard_2_xqx1jq.png
+            name: Wizard 2
+            text: Wizard 2
       - img: https://res.cloudinary.com/papu/image/upload/v1663744303/AppKube/Provisioning%20and%20Automation/5%20Adding%20Product%20to%20Product%20Enclave/Screenshot_pifpjl.png
         name: Add Product to Product Enclave
         link: https://www.figma.com/proto/tmzdMgCegtVSQLVgHR6uc3/Netlifi-Usecase-file?page-id=0%3A1&node-id=14%3A3754&viewport=102%2C78%2C0.17&scaling=scale-down&starting-point-node-id=14%3A3754&show-proto-sidebar=1
