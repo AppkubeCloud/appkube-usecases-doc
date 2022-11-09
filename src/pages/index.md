@@ -27,7 +27,7 @@ scenarios:
           - img: https://res.cloudinary.com/papu/image/upload/v1667994415/AppKube/Provisioning%20and%20Automation/1%20Create%20Landing%20Zone/Landing%20Zone%20wizard/Wizard_1_nvw45k.png
             name: Wizard 1
             text: Wizard 1
-          - img: https://res.cloudinary.com/papu/image/upload/v1667994415/AppKube/Provisioning%20and%20Automation/1%20Create%20Landing%20Zone/Landing%20Zone%20wizard/Wizard_1_nvw45k.png
+          - img: https://res.cloudinary.com/papu/image/upload/v1667994413/AppKube/Provisioning%20and%20Automation/1%20Create%20Landing%20Zone/Landing%20Zone%20wizard/Wizard_2_di1l3r.png
             name: Wizard 2
             text: Wizard 2
       - name: Discover Existing Landing Zone in AWS Env
