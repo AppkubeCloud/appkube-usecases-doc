@@ -62,7 +62,7 @@ scenarios:
         module: Provisioning & Automation
         logo: https://res.cloudinary.com/papu/image/upload/v1618828004/icrisat/2General-Director/Director_General_cbam6k.svg
         useCaseSlider:
-          - img: https://res.cloudinary.com/papu/image/upload/v1667824946/AppKube/Provisioning%20and%20Automation/1%20Create%20Landing%20Zone/DevCat2-2_New_pslqtj.png
+          - img: https://res.cloudinary.com/papu/image/upload/v1667994267/AppKube/Provisioning%20and%20Automation/2%20Add%20Product%20Enclave%20to%20Landing%20zone/Home_Dashboard_fpzkmz.png
             name: Catalogue main page
             text: Catalogue main page
           - img: https://res.cloudinary.com/papu/image/upload/v1663746608/AppKube/Provisioning%20and%20Automation/2%20Add%20Product%20Enclave%20to%20Landing%20zone/AWS_Product_enclave_1_mo7nhz.png
