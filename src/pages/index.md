@@ -291,13 +291,13 @@ scenarios:
           - img: https://res.cloudinary.com/papu/image/upload/v1668778295/AppKube/Cloud%20Asset%20Management%20and%20CMDB/7%20Product-Wise-Services%20Details%20for%20every%20ENV/Product%20wise%20service%20details%20of%20all%20ENV/1_3_Home_Dashboard_Service_details_dkgjy2.png
             name: Service Details
             text: Service Details
-          - img: https://res.cloudinary.com/papu/image/upload/v1668778295/AppKube/Cloud%20Asset%20Management%20and%20CMDB/7%20Product-Wise-Services%20Details%20for%20every%20ENV/Product%20wise%20service%20details%20of%20all%20ENV/2_Home_Dashboard_Topology_View_xuztqv.png
+          - img: https://res.cloudinary.com/papu/image/upload/v1668780691/AppKube/Cloud%20Asset%20Management%20and%20CMDB/7%20Product-Wise-Services%20Details%20for%20every%20ENV/Product%20wise%20service%20details%20of%20all%20ENV/2_Home_Dashboard_Topology_View_hblxif.png
             name: Topology View
             text: Topology View
-          - img: https://res.cloudinary.com/papu/image/upload/v1668778296/AppKube/Cloud%20Asset%20Management%20and%20CMDB/7%20Product-Wise-Services%20Details%20for%20every%20ENV/Product%20wise%20service%20details%20of%20all%20ENV/2_1_Topology_view_details_qp5jtc.png
+          - img: https://res.cloudinary.com/papu/image/upload/v1668780691/AppKube/Cloud%20Asset%20Management%20and%20CMDB/7%20Product-Wise-Services%20Details%20for%20every%20ENV/Product%20wise%20service%20details%20of%20all%20ENV/2_1_Topology_view_details_guewef.png
             name: Topology View Details
             text: Topology View Details
-          - img: https://res.cloudinary.com/papu/image/upload/v1668778296/AppKube/Cloud%20Asset%20Management%20and%20CMDB/7%20Product-Wise-Services%20Details%20for%20every%20ENV/Product%20wise%20service%20details%20of%20all%20ENV/2_2_Topology_view_details_ij1tby.png
+          - img: https://res.cloudinary.com/papu/image/upload/v1668780692/AppKube/Cloud%20Asset%20Management%20and%20CMDB/7%20Product-Wise-Services%20Details%20for%20every%20ENV/Product%20wise%20service%20details%20of%20all%20ENV/2_2_Topology_view_details_k7tq1a.png
             name: Topology View Details
             text: Topology View Details
       - img: https://res.cloudinary.com/papu/image/upload/v1664188326/AppKube/Cloud%20Asset%20Management%20and%20CMDB/10%20services-cost%20drilldown/Home_Dashboard_-_5_txeqg7.png
