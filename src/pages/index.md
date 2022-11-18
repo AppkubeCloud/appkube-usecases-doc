@@ -228,6 +228,9 @@ scenarios:
           - img: https://res.cloudinary.com/papu/image/upload/v1664179960/AppKube/Cloud%20Asset%20Management%20and%20CMDB/4%20Discover%20Cloud%20Elements%20in%20Product%20Enclaves/Node_Main_tab_-_2_at8fyf.png
             name: Explorer
             text: Explorer
+          - img: https://res.cloudinary.com/papu/image/upload/v1668771609/AppKube/Cloud%20Asset%20Management%20and%20CMDB/4%20Discover%20Cloud%20Elements%20in%20Product%20Enclaves/Application_tab_Infra_view_qoaih8.png
+            name: Application Tab Infra View
+            text: Application Tab Infra View
       - img: https://res.cloudinary.com/papu/image/upload/v1664186084/AppKube/Cloud%20Asset%20Management%20and%20CMDB/5%20Usecase%205_Show%20Services%20View%20in%20product%20enclaves/2AWS_Account_-_Asset_tree_1-2_mh61qd.png
         name: Services View in product enclaves
         link: https://www.figma.com/proto/tmzdMgCegtVSQLVgHR6uc3/Netlifi-Usecase-file?page-id=0%3A1&node-id=39%3A21520&viewport=479%2C-712%2C0.04&scaling=scale-down&starting-point-node-id=39%3A21520&show-proto-sidebar=1
@@ -279,15 +282,24 @@ scenarios:
         module: Cloud Asset Management and CMDB
         logo: https://res.cloudinary.com/papu/image/upload/v1618828004/icrisat/2General-Director/Director_General_cbam6k.svg
         useCaseSlider:
-          - img: https://res.cloudinary.com/papu/image/upload/v1664187856/AppKube/Cloud%20Asset%20Management%20and%20CMDB/7%20Product-Wise-Services%20Details%20for%20every%20ENV/Home_Dashboard_4_ftokyw.png
-            name: https://res.cloudinary.com/papu/image/upload/v1664187856/AppKube/Cloud%20Asset%20Management%20and%20CMDB/7%20Product-Wise-Services%20Details%20for%20every%20ENV/Home_Dashboard_4_ftokyw.png
-            text: https://res.cloudinary.com/papu/image/upload/v1664187856/AppKube/Cloud%20Asset%20Management%20and%20CMDB/7%20Product-Wise-Services%20Details%20for%20every%20ENV/Home_Dashboard_4_ftokyw.png
-          - img: https://res.cloudinary.com/papu/image/upload/v1664187857/AppKube/Cloud%20Asset%20Management%20and%20CMDB/7%20Product-Wise-Services%20Details%20for%20every%20ENV/Home_Dashboard_2_hpnh0x.png
-            name: https://res.cloudinary.com/papu/image/upload/v1664187857/AppKube/Cloud%20Asset%20Management%20and%20CMDB/7%20Product-Wise-Services%20Details%20for%20every%20ENV/Home_Dashboard_2_hpnh0x.png
-            text: https://res.cloudinary.com/papu/image/upload/v1664187857/AppKube/Cloud%20Asset%20Management%20and%20CMDB/7%20Product-Wise-Services%20Details%20for%20every%20ENV/Home_Dashboard_2_hpnh0x.png
-          - img: https://res.cloudinary.com/papu/image/upload/v1664187856/AppKube/Cloud%20Asset%20Management%20and%20CMDB/7%20Product-Wise-Services%20Details%20for%20every%20ENV/Node_main_tab-5_k0akot.png
-            name: https://res.cloudinary.com/papu/image/upload/v1664187856/AppKube/Cloud%20Asset%20Management%20and%20CMDB/7%20Product-Wise-Services%20Details%20for%20every%20ENV/Node_main_tab-5_k0akot.png
-            text: https://res.cloudinary.com/papu/image/upload/v1664187856/AppKube/Cloud%20Asset%20Management%20and%20CMDB/7%20Product-Wise-Services%20Details%20for%20every%20ENV/Node_main_tab-5_k0akot.png
+          - img: https://res.cloudinary.com/papu/image/upload/v1668778295/AppKube/Cloud%20Asset%20Management%20and%20CMDB/7%20Product-Wise-Services%20Details%20for%20every%20ENV/Product%20wise%20service%20details%20of%20all%20ENV/1_Home_Dashboard_4_pdlbca.png
+            name: Home Dashboard
+            text: Home Dashboard
+          - img: https://res.cloudinary.com/papu/image/upload/v1668778295/AppKube/Cloud%20Asset%20Management%20and%20CMDB/7%20Product-Wise-Services%20Details%20for%20every%20ENV/Product%20wise%20service%20details%20of%20all%20ENV/1_1_Home_Dashboard_details_uct0ct.png
+            name: Home Dashboard Details
+            text: Home Dashboard Details
+          - img: https://res.cloudinary.com/papu/image/upload/v1668778295/AppKube/Cloud%20Asset%20Management%20and%20CMDB/7%20Product-Wise-Services%20Details%20for%20every%20ENV/Product%20wise%20service%20details%20of%20all%20ENV/1_3_Home_Dashboard_Service_details_dkgjy2.png
+            name: Service Details
+            text: Service Details
+          - img: https://res.cloudinary.com/papu/image/upload/v1668778295/AppKube/Cloud%20Asset%20Management%20and%20CMDB/7%20Product-Wise-Services%20Details%20for%20every%20ENV/Product%20wise%20service%20details%20of%20all%20ENV/2_Home_Dashboard_Topology_View_xuztqv.png
+            name: Topology View
+            text: Topology View
+          - img: https://res.cloudinary.com/papu/image/upload/v1668778296/AppKube/Cloud%20Asset%20Management%20and%20CMDB/7%20Product-Wise-Services%20Details%20for%20every%20ENV/Product%20wise%20service%20details%20of%20all%20ENV/2_1_Topology_view_details_qp5jtc.png
+            name: Topology View Details
+            text: Topology View Details
+          - img: https://res.cloudinary.com/papu/image/upload/v1668778296/AppKube/Cloud%20Asset%20Management%20and%20CMDB/7%20Product-Wise-Services%20Details%20for%20every%20ENV/Product%20wise%20service%20details%20of%20all%20ENV/2_2_Topology_view_details_ij1tby.png
+            name: Topology View Details
+            text: Topology View Details
       - img: https://res.cloudinary.com/papu/image/upload/v1664188326/AppKube/Cloud%20Asset%20Management%20and%20CMDB/10%20services-cost%20drilldown/Home_Dashboard_-_5_txeqg7.png
         name: services-cost drilldown
         module: Cloud Asset Management and CMDB
