@@ -62,6 +62,22 @@ scenarios:
           - img: https://res.cloudinary.com/papu/image/upload/v1668780692/AppKube/Cloud%20Asset%20Management%20and%20CMDB/7%20Product-Wise-Services%20Details%20for%20every%20ENV/Product%20wise%20service%20details%20of%20all%20ENV/2_2_Topology_view_details_k7tq1a.png
             name: Topology View Details
             text: Topology View Details
+      - img: https://res.cloudinary.com/papu/image/upload/v1664188326/AppKube/Cloud%20Asset%20Management%20and%20CMDB/10%20services-cost%20drilldown/Home_Dashboard_-_5_txeqg7.png
+        name: 2.2 Prod Vs Non Prod services-cost drilldown
+        module: Cloud Asset Management and CMDB
+        logo: https://res.cloudinary.com/papu/image/upload/v1618828004/icrisat/2General-Director/Director_General_cbam6k.svg
+        link: https://www.figma.com/proto/tmzdMgCegtVSQLVgHR6uc3/Netlifi-Usecase-file?page-id=0%3A1&node-id=44%3A30234&viewport=239%2C-2842%2C0.09&scaling=scale-down&starting-point-node-id=44%3A30234&show-proto-sidebar=1
+        screenshots: https://res.cloudinary.com/papu/image/upload/v1664188326/AppKube/Cloud%20Asset%20Management%20and%20CMDB/10%20services-cost%20drilldown/Home_Dashboard_-_5_txeqg7.png
+        useCaseSlider:
+          - img: https://res.cloudinary.com/papu/image/upload/v1664188326/AppKube/Cloud%20Asset%20Management%20and%20CMDB/10%20services-cost%20drilldown/Home_Dashboard_-_5_txeqg7.png
+            name: Cost Dashboard
+            text: Cost Dashboard
+          - img: https://res.cloudinary.com/papu/image/upload/v1664188326/AppKube/Cloud%20Asset%20Management%20and%20CMDB/10%20services-cost%20drilldown/Product_Pie_Chart_qzaqlu.png
+            name: Pie chart
+            text: Pie chart
+          - img: https://res.cloudinary.com/papu/image/upload/v1664188326/AppKube/Cloud%20Asset%20Management%20and%20CMDB/10%20services-cost%20drilldown/Product_Bar_chart_zlbgib.png
+            name: Bar Graph
+            text: Bar Graph
       - img: https://res.cloudinary.com/papu/image/upload/v1667824946/AppKube/Provisioning%20and%20Automation/1%20Create%20Landing%20Zone/DevCat2-2_New_pslqtj.png
         screenshots: https://res.cloudinary.com/papu/image/upload/v1663745163/AppKube/Provisioning%20and%20Automation/1%20Create%20Landing%20Zone/DevCat2-2_v5mhtr.png
         name: Create Landing Zone in AWS
@@ -300,22 +316,6 @@ scenarios:
           - name: Business Services
             text: Business Services
             img: https://res.cloudinary.com/papu/image/upload/v1664186084/AppKube/Cloud%20Asset%20Management%20and%20CMDB/5%20Usecase%205_Show%20Services%20View%20in%20product%20enclaves/8AWS_Account_-_Asset_tree_-_6_a4aecp.png
-      - img: https://res.cloudinary.com/papu/image/upload/v1664188326/AppKube/Cloud%20Asset%20Management%20and%20CMDB/10%20services-cost%20drilldown/Home_Dashboard_-_5_txeqg7.png
-        name: services-cost drilldown
-        module: Cloud Asset Management and CMDB
-        logo: https://res.cloudinary.com/papu/image/upload/v1618828004/icrisat/2General-Director/Director_General_cbam6k.svg
-        link: https://www.figma.com/proto/tmzdMgCegtVSQLVgHR6uc3/Netlifi-Usecase-file?page-id=0%3A1&node-id=44%3A30234&viewport=239%2C-2842%2C0.09&scaling=scale-down&starting-point-node-id=44%3A30234&show-proto-sidebar=1
-        screenshots: https://res.cloudinary.com/papu/image/upload/v1664188326/AppKube/Cloud%20Asset%20Management%20and%20CMDB/10%20services-cost%20drilldown/Home_Dashboard_-_5_txeqg7.png
-        useCaseSlider:
-          - img: https://res.cloudinary.com/papu/image/upload/v1664188326/AppKube/Cloud%20Asset%20Management%20and%20CMDB/10%20services-cost%20drilldown/Home_Dashboard_-_5_txeqg7.png
-            name: Cost Dashboard
-            text: Cost Dashboard
-          - img: https://res.cloudinary.com/papu/image/upload/v1664188326/AppKube/Cloud%20Asset%20Management%20and%20CMDB/10%20services-cost%20drilldown/Product_Pie_Chart_qzaqlu.png
-            name: Pie chart
-            text: Pie chart
-          - img: https://res.cloudinary.com/papu/image/upload/v1664188326/AppKube/Cloud%20Asset%20Management%20and%20CMDB/10%20services-cost%20drilldown/Product_Bar_chart_zlbgib.png
-            name: Bar Graph
-            text: Bar Graph
       - name: Landing Zone Explorer
         link: https://www.figma.com/proto/tmzdMgCegtVSQLVgHR6uc3/Netlifi-Usecase-file?page-id=0%3A1&node-id=44%3A31225&viewport=147%2C-13059%2C0.31&scaling=scale-down&starting-point-node-id=44%3A31225&show-proto-sidebar=1
         img: https://res.cloudinary.com/papu/image/upload/v1664188639/AppKube/Cloud%20Asset%20Management%20and%20CMDB/11%20Landing%20Zone%20Explorer/AWS_Account_-_Asset_tabs_-_1_krhaah.png
