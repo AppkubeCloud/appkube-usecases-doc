@@ -5,6 +5,25 @@ scenarios:
   - img: https://res.cloudinary.com/papu/image/upload/v1618831033/icrisat/4Requestor/Requisitioner_gdqhmt.svg
     name: Admin
     subItems:
+      - name: 1. Appkube Home Dashboard
+        link: https://www.figma.com/proto/tmzdMgCegtVSQLVgHR6uc3/Netlifi-Usecase-file?page-id=0%3A1&node-id=31%3A12193&viewport=193%2C-98%2C0.04&scaling=scale-down&starting-point-node-id=31%3A12193&show-proto-sidebar=1
+        module: Cloud Asset Management and CMDB
+        logo: https://res.cloudinary.com/papu/image/upload/v1618828004/icrisat/2General-Director/Director_General_cbam6k.svg
+        screenshots: https://res.cloudinary.com/papu/image/upload/v1664016075/AppKube/Cloud%20Asset%20Management%20and%20CMDB/1%20Home%20Dashboard/Home_Dashboard_snc29c.png
+        img: https://res.cloudinary.com/papu/image/upload/v1664016075/AppKube/Cloud%20Asset%20Management%20and%20CMDB/1%20Home%20Dashboard/Home_Dashboard_snc29c.png
+        useCaseSlider:
+          - img: https://res.cloudinary.com/papu/image/upload/v1664016075/AppKube/Cloud%20Asset%20Management%20and%20CMDB/1%20Home%20Dashboard/Home_Dashboard_snc29c.png
+            name: Home Dashboard
+            text: Home Dashboard
+          - img: https://res.cloudinary.com/papu/image/upload/v1664016075/AppKube/Cloud%20Asset%20Management%20and%20CMDB/1%20Home%20Dashboard/Home_Dashboard_-_2_kbzy3f.png
+            name: Cost Analysis View
+            text: Cost Analysis View
+          - img: https://res.cloudinary.com/papu/image/upload/v1664016075/AppKube/Cloud%20Asset%20Management%20and%20CMDB/1%20Home%20Dashboard/Product_Pie_Chart_wwf25p.png
+            name: Detailed Cost Analysis - Pie Chart
+            text: Detailed Cost Analysis - Pie Chart
+          - img: https://res.cloudinary.com/papu/image/upload/v1664016075/AppKube/Cloud%20Asset%20Management%20and%20CMDB/1%20Home%20Dashboard/Product_Bar_chart_dhsyut.png
+            name: Detailed Cost Analysis - Bar Graph
+            text: Detailed Cost Analysis - Bar Graph
       - img: https://res.cloudinary.com/papu/image/upload/v1667824946/AppKube/Provisioning%20and%20Automation/1%20Create%20Landing%20Zone/DevCat2-2_New_pslqtj.png
         screenshots: https://res.cloudinary.com/papu/image/upload/v1663745163/AppKube/Provisioning%20and%20Automation/1%20Create%20Landing%20Zone/DevCat2-2_v5mhtr.png
         name: Create Landing Zone in AWS
@@ -152,25 +171,6 @@ scenarios:
           - img: https://res.cloudinary.com/papu/image/upload/v1663674029/AppKube/Provisioning%20and%20Automation/4%20Adding%20common%20services/AWS_Account_-Asset_tree_2-14_mqn1s0.png
             name: Common Services
             text: Common Services
-      - name: Appkube Home Dashboard
-        link: https://www.figma.com/proto/tmzdMgCegtVSQLVgHR6uc3/Netlifi-Usecase-file?page-id=0%3A1&node-id=31%3A12193&viewport=193%2C-98%2C0.04&scaling=scale-down&starting-point-node-id=31%3A12193&show-proto-sidebar=1
-        module: Cloud Asset Management and CMDB
-        logo: https://res.cloudinary.com/papu/image/upload/v1618828004/icrisat/2General-Director/Director_General_cbam6k.svg
-        screenshots: https://res.cloudinary.com/papu/image/upload/v1664016075/AppKube/Cloud%20Asset%20Management%20and%20CMDB/1%20Home%20Dashboard/Home_Dashboard_snc29c.png
-        img: https://res.cloudinary.com/papu/image/upload/v1664016075/AppKube/Cloud%20Asset%20Management%20and%20CMDB/1%20Home%20Dashboard/Home_Dashboard_snc29c.png
-        useCaseSlider:
-          - img: https://res.cloudinary.com/papu/image/upload/v1664016075/AppKube/Cloud%20Asset%20Management%20and%20CMDB/1%20Home%20Dashboard/Home_Dashboard_snc29c.png
-            name: Home Dashboard
-            text: Home Dashboard
-          - img: https://res.cloudinary.com/papu/image/upload/v1664016075/AppKube/Cloud%20Asset%20Management%20and%20CMDB/1%20Home%20Dashboard/Home_Dashboard_-_2_kbzy3f.png
-            name: Cost Analysis View
-            text: Cost Analysis View
-          - img: https://res.cloudinary.com/papu/image/upload/v1664016075/AppKube/Cloud%20Asset%20Management%20and%20CMDB/1%20Home%20Dashboard/Product_Pie_Chart_wwf25p.png
-            name: Detailed Cost Analysis - Pie Chart
-            text: Detailed Cost Analysis - Pie Chart
-          - img: https://res.cloudinary.com/papu/image/upload/v1664016075/AppKube/Cloud%20Asset%20Management%20and%20CMDB/1%20Home%20Dashboard/Product_Bar_chart_dhsyut.png
-            name: Detailed Cost Analysis - Bar Graph
-            text: Detailed Cost Analysis - Bar Graph
       - name: Discover Existing Cloud Account
         link: https://www.figma.com/proto/tmzdMgCegtVSQLVgHR6uc3/Netlifi-Usecase-file?page-id=0%3A1&node-id=33%3A13345&viewport=302%2C-321%2C0.03&scaling=scale-down&starting-point-node-id=33%3A13345&show-proto-sidebar=1
         img: https://res.cloudinary.com/papu/image/upload/v1664023620/AppKube/Cloud%20Asset%20Management%20and%20CMDB/2%20Discover%20Existing%20Cloud%20Accout/New_Env_Wizard_1_u7fvko.png
