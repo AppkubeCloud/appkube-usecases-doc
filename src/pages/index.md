@@ -40,7 +40,7 @@ scenarios:
           - img: https://res.cloudinary.com/papu/image/upload/v1664187355/AppKube/Cloud%20Asset%20Management%20and%20CMDB/6%20Department-Wise-Product-Service%20Details/Home_Dashboard_-_3_icb40f.png
             name: Product details
             text: Product details
-      - name: 2.1 Product-Wise-Services Details for every ENV & Topology View
+      - name: 2.1 Product-Wise-Services Details for every ENV
         link: https://www.figma.com/proto/tmzdMgCegtVSQLVgHR6uc3/Netlifi-Usecase-file?page-id=0%3A1&node-id=42%3A24816&viewport=521%2C-2154%2C0.07&scaling=scale-down&starting-point-node-id=42%3A24816&show-proto-sidebar=1
         screenshots: https://res.cloudinary.com/papu/image/upload/v1664187856/AppKube/Cloud%20Asset%20Management%20and%20CMDB/7%20Product-Wise-Services%20Details%20for%20every%20ENV/Home_Dashboard_4_ftokyw.png
         img: https://res.cloudinary.com/papu/image/upload/v1664187856/AppKube/Cloud%20Asset%20Management%20and%20CMDB/7%20Product-Wise-Services%20Details%20for%20every%20ENV/Home_Dashboard_4_ftokyw.png
@@ -107,7 +107,7 @@ scenarios:
             text: https://res.cloudinary.com/papu/image/upload/v1675765009/AppKube/Cloud%20Asset%20Management%20and%20CMDB/New2.3%20Service%20Explorer%20from%20Product%20environment/5_Noid_Main_Tab_nww2kr.png
             name: Service Explorer
       - img: https://res.cloudinary.com/papu/image/upload/v1668780691/AppKube/Cloud%20Asset%20Management%20and%20CMDB/7%20Product-Wise-Services%20Details%20for%20every%20ENV/Product%20wise%20service%20details%20of%20all%20ENV/2_Home_Dashboard_Topology_View_hblxif.png
-        name: 2.4 Network Topology - Product Wise
+        name: 2.4 Topology View of Product-Wise-Services Details for every ENV
         link: https://res.cloudinary.com/papu/image/upload/v1668780691/AppKube/Cloud%20Asset%20Management%20and%20CMDB/7%20Product-Wise-Services%20Details%20for%20every%20ENV/Product%20wise%20service%20details%20of%20all%20ENV/2_Home_Dashboard_Topology_View_hblxif.png
         screenshots: https://res.cloudinary.com/papu/image/upload/v1668780691/AppKube/Cloud%20Asset%20Management%20and%20CMDB/7%20Product-Wise-Services%20Details%20for%20every%20ENV/Product%20wise%20service%20details%20of%20all%20ENV/2_Home_Dashboard_Topology_View_hblxif.png
         module: Cloud Asset Management and CMDB
