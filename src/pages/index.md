@@ -381,6 +381,31 @@ scenarios:
           - img: https://res.cloudinary.com/papu/image/upload/v1664190498/AppKube/Cloud%20Asset%20Management%20and%20CMDB/13%20Cluster%20Explorer/Kuber_Account_Explorer_Expended_iq1siv.png
             name: Full explorer
             text: Full explorer
+      - img: https://res.cloudinary.com/papu/image/upload/v1675765425/AppKube/Cloud%20Asset%20Management%20and%20CMDB/New2.3%20Service%20Explorer%20from%20Product%20environment/Cover_v0tw1d.png
+        name: 2.3 Service Explorer from Product
+        link: https://res.cloudinary.com/papu/image/upload/v1675765425/AppKube/Cloud%20Asset%20Management%20and%20CMDB/New2.3%20Service%20Explorer%20from%20Product%20environment/Cover_v0tw1d.png
+        screenshots: https://res.cloudinary.com/papu/image/upload/v1675765425/AppKube/Cloud%20Asset%20Management%20and%20CMDB/New2.3%20Service%20Explorer%20from%20Product%20environment/Cover_v0tw1d.png
+        module: Cloud Asset Management and CMDB
+        logo: https://res.cloudinary.com/papu/image/upload/v1618828004/icrisat/2General-Director/Director_General_cbam6k.svg
+        useCaseSlider:
+          - img: https://res.cloudinary.com/papu/image/upload/v1675765009/AppKube/Cloud%20Asset%20Management%20and%20CMDB/New2.3%20Service%20Explorer%20from%20Product%20environment/1_Home_Dashboard_hducj7.png
+            name: Home Page
+            text: https://res.cloudinary.com/papu/image/upload/v1675765009/AppKube/Cloud%20Asset%20Management%20and%20CMDB/New2.3%20Service%20Explorer%20from%20Product%20environment/1_Home_Dashboard_hducj7.png
+          - img: https://res.cloudinary.com/papu/image/upload/v1675765009/AppKube/Cloud%20Asset%20Management%20and%20CMDB/New2.3%20Service%20Explorer%20from%20Product%20environment/2_Home_Dashboard_tvf2e8.png
+            text: https://res.cloudinary.com/papu/image/upload/v1675765009/AppKube/Cloud%20Asset%20Management%20and%20CMDB/New2.3%20Service%20Explorer%20from%20Product%20environment/2_Home_Dashboard_tvf2e8.png
+            name: Service Explorer 1
+          - img: https://res.cloudinary.com/papu/image/upload/v1675765009/AppKube/Cloud%20Asset%20Management%20and%20CMDB/New2.3%20Service%20Explorer%20from%20Product%20environment/2_Home_Dashboard_tvf2e8.png
+            text: https://res.cloudinary.com/papu/image/upload/v1675765009/AppKube/Cloud%20Asset%20Management%20and%20CMDB/New2.3%20Service%20Explorer%20from%20Product%20environment/2_Home_Dashboard_tvf2e8.png
+            name: Service Explorer 2
+          - img: https://res.cloudinary.com/papu/image/upload/v1675765009/AppKube/Cloud%20Asset%20Management%20and%20CMDB/New2.3%20Service%20Explorer%20from%20Product%20environment/3_Home_Dashboard_tdckzk.png
+            text: https://res.cloudinary.com/papu/image/upload/v1675765009/AppKube/Cloud%20Asset%20Management%20and%20CMDB/New2.3%20Service%20Explorer%20from%20Product%20environment/3_Home_Dashboard_tdckzk.png
+            name: Service Explorer 3
+          - img: https://res.cloudinary.com/papu/image/upload/v1675765009/AppKube/Cloud%20Asset%20Management%20and%20CMDB/New2.3%20Service%20Explorer%20from%20Product%20environment/4_Home_Dashboard_hnvkkn.png
+            text: https://res.cloudinary.com/papu/image/upload/v1675765009/AppKube/Cloud%20Asset%20Management%20and%20CMDB/New2.3%20Service%20Explorer%20from%20Product%20environment/4_Home_Dashboard_hnvkkn.png
+            name: Service Explorer 4
+          - img: https://res.cloudinary.com/papu/image/upload/v1675765009/AppKube/Cloud%20Asset%20Management%20and%20CMDB/New2.3%20Service%20Explorer%20from%20Product%20environment/5_Noid_Main_Tab_nww2kr.png
+            text: https://res.cloudinary.com/papu/image/upload/v1675765009/AppKube/Cloud%20Asset%20Management%20and%20CMDB/New2.3%20Service%20Explorer%20from%20Product%20environment/5_Noid_Main_Tab_nww2kr.png
+            name: Service Explorer
   - img: https://res.cloudinary.com/papu/image/upload/v1618828004/icrisat/2General-Director/Director_General_cbam6k.svg
     name: CTO
     subItems:
