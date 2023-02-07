@@ -9,8 +9,8 @@ scenarios:
         link: https://www.figma.com/proto/tmzdMgCegtVSQLVgHR6uc3/Netlifi-Usecase-file?page-id=0%3A1&node-id=31%3A12193&viewport=193%2C-98%2C0.04&scaling=scale-down&starting-point-node-id=31%3A12193&show-proto-sidebar=1
         module: Cloud Asset Management and CMDB
         logo: https://res.cloudinary.com/papu/image/upload/v1618828004/icrisat/2General-Director/Director_General_cbam6k.svg
-        screenshots: https://res.cloudinary.com/papu/image/upload/v1664016075/AppKube/Cloud%20Asset%20Management%20and%20CMDB/1%20Home%20Dashboard/Home_Dashboard_snc29c.png
-        img: https://res.cloudinary.com/papu/image/upload/v1664016075/AppKube/Cloud%20Asset%20Management%20and%20CMDB/1%20Home%20Dashboard/Home_Dashboard_snc29c.png
+        screenshots: https://res.cloudinary.com/papu/image/upload/v1675758379/AppKube/Cloud%20Asset%20Management%20and%20CMDB/1%20Home%20Dashboard/Dashboard_gep9rv.png
+        img: https://res.cloudinary.com/papu/image/upload/v1675758379/AppKube/Cloud%20Asset%20Management%20and%20CMDB/1%20Home%20Dashboard/Dashboard_gep9rv.png
         useCaseSlider:
           - img: https://res.cloudinary.com/papu/image/upload/v1675758379/AppKube/Cloud%20Asset%20Management%20and%20CMDB/1%20Home%20Dashboard/Dashboard_gep9rv.png
             name: Spend Analysis - Home page
