@@ -407,7 +407,7 @@ scenarios:
             name: Full explorer
             text: Full explorer
       - img: https://res.cloudinary.com/papu/image/upload/v1668780691/AppKube/Cloud%20Asset%20Management%20and%20CMDB/7%20Product-Wise-Services%20Details%20for%20every%20ENV/Product%20wise%20service%20details%20of%20all%20ENV/2_Home_Dashboard_Topology_View_hblxif.png
-        name: Network Topology - Product Wise
+        name: 2.4 Network Topology - Product Wise
         link: https://res.cloudinary.com/papu/image/upload/v1668780691/AppKube/Cloud%20Asset%20Management%20and%20CMDB/7%20Product-Wise-Services%20Details%20for%20every%20ENV/Product%20wise%20service%20details%20of%20all%20ENV/2_Home_Dashboard_Topology_View_hblxif.png
         screenshots: https://res.cloudinary.com/papu/image/upload/v1668780691/AppKube/Cloud%20Asset%20Management%20and%20CMDB/7%20Product-Wise-Services%20Details%20for%20every%20ENV/Product%20wise%20service%20details%20of%20all%20ENV/2_Home_Dashboard_Topology_View_hblxif.png
         module: Cloud Asset Management and CMDB
