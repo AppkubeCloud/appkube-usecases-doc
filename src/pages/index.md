@@ -12,6 +12,9 @@ scenarios:
         screenshots: https://res.cloudinary.com/papu/image/upload/v1664016075/AppKube/Cloud%20Asset%20Management%20and%20CMDB/1%20Home%20Dashboard/Home_Dashboard_snc29c.png
         img: https://res.cloudinary.com/papu/image/upload/v1664016075/AppKube/Cloud%20Asset%20Management%20and%20CMDB/1%20Home%20Dashboard/Home_Dashboard_snc29c.png
         useCaseSlider:
+          - img: https://res.cloudinary.com/papu/image/upload/v1675758379/AppKube/Cloud%20Asset%20Management%20and%20CMDB/1%20Home%20Dashboard/Dashboard_gep9rv.png
+            name: Spend Analysis - Home page
+            text: Spend Analysis - Home page
           - img: https://res.cloudinary.com/papu/image/upload/v1664016075/AppKube/Cloud%20Asset%20Management%20and%20CMDB/1%20Home%20Dashboard/Home_Dashboard_snc29c.png
             name: Home Dashboard
             text: Home Dashboard
