@@ -157,24 +157,27 @@ scenarios:
         module: Provisioning & Automation
         logo: https://res.cloudinary.com/papu/image/upload/v1618828004/icrisat/2General-Director/Director_General_cbam6k.svg
         useCaseSlider:
-          - img: https://res.cloudinary.com/papu/image/upload/v1664012188/AppKube/Provisioning%20and%20Automation/1.1%20Create%20Landing%20Zone%20Using%20Wizard/New_Env_Wizard_1_dx0zci.png
+          - img: https://res.cloudinary.com/papu/image/upload/v1676382592/AppKube/Cloud%20Asset%20Management%20and%20CMDB/2%20Discover%20Existing%20Cloud%20Accout/Updated/New_Env_Wizard_1_jx9ret.png
             name: Wizard 1
             text: Wizard 1
-          - img: https://res.cloudinary.com/papu/image/upload/v1664012188/AppKube/Provisioning%20and%20Automation/1.1%20Create%20Landing%20Zone%20Using%20Wizard/New_Env_Wizard_2_ychbik.png
+          - img: https://res.cloudinary.com/papu/image/upload/v1676382592/AppKube/Cloud%20Asset%20Management%20and%20CMDB/2%20Discover%20Existing%20Cloud%20Accout/Updated/New_Env_Wizard_2_xebluz.png
             name: Wizard 2
             text: Wizard 2
-          - img: https://res.cloudinary.com/papu/image/upload/v1664012188/AppKube/Provisioning%20and%20Automation/1.1%20Create%20Landing%20Zone%20Using%20Wizard/New_Env_Wizard_3_ad6jn4.png
+          - img: https://res.cloudinary.com/papu/image/upload/v1676382592/AppKube/Cloud%20Asset%20Management%20and%20CMDB/2%20Discover%20Existing%20Cloud%20Accout/Updated/New_Env_Wizard_3_hwvn8x.png
             name: Wizard 3
             text: Wizard 3
-          - img: https://res.cloudinary.com/papu/image/upload/v1664012188/AppKube/Provisioning%20and%20Automation/1.1%20Create%20Landing%20Zone%20Using%20Wizard/New_Env_Wizard_4_jyak0k.png
+          - img: https://res.cloudinary.com/papu/image/upload/v1676382592/AppKube/Cloud%20Asset%20Management%20and%20CMDB/2%20Discover%20Existing%20Cloud%20Accout/Updated/New_Env_Wizard_4_kjncen.png
             name: Wizard 4
             text: Wizard 4
-          - img: https://res.cloudinary.com/papu/image/upload/v1664012188/AppKube/Provisioning%20and%20Automation/1.1%20Create%20Landing%20Zone%20Using%20Wizard/New_Env_Wizard_5_p5vq7p.png
+          - img: https://res.cloudinary.com/papu/image/upload/v1676382592/AppKube/Cloud%20Asset%20Management%20and%20CMDB/2%20Discover%20Existing%20Cloud%20Accout/Updated/New_Env_Wizard_5_z1exty.png
             name: Wizard 5
             text: Wizard 5
-          - img: https://res.cloudinary.com/papu/image/upload/v1664012188/AppKube/Provisioning%20and%20Automation/1.1%20Create%20Landing%20Zone%20Using%20Wizard/New_Env_Wizard_6_othhj3.png
+          - img: https://res.cloudinary.com/papu/image/upload/v1676382592/AppKube/Cloud%20Asset%20Management%20and%20CMDB/2%20Discover%20Existing%20Cloud%20Accout/Updated/New_Env_Wizard_6_b6iebz.png
             name: Wizard 6
             text: Wizard 6
+          - img: https://res.cloudinary.com/papu/image/upload/v1676382593/AppKube/Cloud%20Asset%20Management%20and%20CMDB/2%20Discover%20Existing%20Cloud%20Accout/Updated/New_Env_Wizard_7_jrholl.png
+            name: Wizard 7
+            text: Wizard 7
       - img: https://res.cloudinary.com/papu/image/upload/v1667824946/AppKube/Provisioning%20and%20Automation/1%20Create%20Landing%20Zone/DevCat2-2_New_pslqtj.png
         name: Add Product Enclave in Landing Zone
         link: https://www.figma.com/proto/tmzdMgCegtVSQLVgHR6uc3/Netlifi-Usecase-file?page-id=0%3A1&node-id=21%3A6058&viewport=362%2C526%2C0.05&scaling=scale-down&starting-point-node-id=21%3A6058&show-proto-sidebar=1
