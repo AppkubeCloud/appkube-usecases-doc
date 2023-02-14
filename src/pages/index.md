@@ -152,8 +152,8 @@ scenarios:
             text: Wizard 2
       - name: Discover Existing Landing Zone in AWS Env
         link: https://www.figma.com/proto/tmzdMgCegtVSQLVgHR6uc3/Netlifi-Usecase-file?page-id=0%3A1&node-id=28%3A7444&viewport=319%2C848%2C0.08&scaling=scale-down&starting-point-node-id=28%3A7444&show-proto-sidebar=1
-        img: https://res.cloudinary.com/papu/image/upload/v1664012188/AppKube/Provisioning%20and%20Automation/1.1%20Create%20Landing%20Zone%20Using%20Wizard/New_Env_Wizard_1_dx0zci.png
-        screenshots: https://res.cloudinary.com/papu/image/upload/v1664012188/AppKube/Provisioning%20and%20Automation/1.1%20Create%20Landing%20Zone%20Using%20Wizard/New_Env_Wizard_1_dx0zci.png
+        img: https://res.cloudinary.com/papu/image/upload/v1676382592/AppKube/Cloud%20Asset%20Management%20and%20CMDB/2%20Discover%20Existing%20Cloud%20Accout/Updated/New_Env_Wizard_1_jx9ret.png
+        screenshots: https://res.cloudinary.com/papu/image/upload/v1676382592/AppKube/Cloud%20Asset%20Management%20and%20CMDB/2%20Discover%20Existing%20Cloud%20Accout/Updated/New_Env_Wizard_1_jx9ret.png
         module: Provisioning & Automation
         logo: https://res.cloudinary.com/papu/image/upload/v1618828004/icrisat/2General-Director/Director_General_cbam6k.svg
         useCaseSlider:
