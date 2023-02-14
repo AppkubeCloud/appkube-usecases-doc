@@ -310,7 +310,7 @@ scenarios:
           - img: https://res.cloudinary.com/papu/image/upload/v1664178864/AppKube/Cloud%20Asset%20Management%20and%20CMDB/3%20Asset%20Overview%20Homepage/Home_Dashboard_g9kftn.png
             name: Asset Overview Homepage
             text: Asset Overview Homepage
-      - name: Discover Cloud Elements in Product Enclaves
+      - name: Cloud Explorer
         module: Cloud Asset Management and CMDB
         logo: https://res.cloudinary.com/papu/image/upload/v1618828004/icrisat/2General-Director/Director_General_cbam6k.svg
         link: https://www.figma.com/proto/tmzdMgCegtVSQLVgHR6uc3/Netlifi-Usecase-file?page-id=0%3A1&node-id=37%3A16358&viewport=184%2C-681%2C0.04&scaling=scale-down&starting-point-node-id=37%3A16358&show-proto-sidebar=1
