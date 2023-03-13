@@ -428,6 +428,46 @@ scenarios:
           - img: https://res.cloudinary.com/papu/image/upload/v1664190498/AppKube/Cloud%20Asset%20Management%20and%20CMDB/13%20Cluster%20Explorer/Kuber_Account_Explorer_Expended_iq1siv.png
             name: Full explorer
             text: Full explorer
+      - img: https://res.cloudinary.com/papu/image/upload/v1678696631/AppKube/Cloud%20Asset%20Management%20and%20CMDB/Associate%20Discovered%20Element/Home_Dashboard_hggoe0.png
+        name: "Associate Discovered Elements "
+        link: https://res.cloudinary.com/papu/image/upload/v1678696631/AppKube/Cloud%20Asset%20Management%20and%20CMDB/Associate%20Discovered%20Element/Home_Dashboard_hggoe0.png
+        screenshots: https://res.cloudinary.com/papu/image/upload/v1678696631/AppKube/Cloud%20Asset%20Management%20and%20CMDB/Associate%20Discovered%20Element/Home_Dashboard_hggoe0.png
+        module: Cloud Asset Management and CMDB
+        logo: https://res.cloudinary.com/papu/image/upload/v1618828004/icrisat/2General-Director/Director_General_cbam6k.svg
+        useCaseSlider:
+          - img: https://res.cloudinary.com/papu/image/upload/v1678696631/AppKube/Cloud%20Asset%20Management%20and%20CMDB/Associate%20Discovered%20Element/Home_Dashboard_hggoe0.png
+            name: Discovered Element list
+            text: Discovered Element listv
+          - img: https://res.cloudinary.com/papu/image/upload/v1678696631/AppKube/Cloud%20Asset%20Management%20and%20CMDB/Associate%20Discovered%20Element/New_Env_Wizard_1_jf9jqo.png
+            name: Wizard 1
+            text: Wizard 1
+          - img: https://res.cloudinary.com/papu/image/upload/v1678696631/AppKube/Cloud%20Asset%20Management%20and%20CMDB/Associate%20Discovered%20Element/New_Env_Wizard_2_d7tlpa.png
+            name: Wizard 2
+            text: Wizard 2
+          - img: https://res.cloudinary.com/papu/image/upload/v1678696631/AppKube/Cloud%20Asset%20Management%20and%20CMDB/Associate%20Discovered%20Element/New_Env_Wizard_3_hdb3w2.png
+            name: Wizard 3
+            text: Wizard 3
+          - img: https://res.cloudinary.com/papu/image/upload/v1678696631/AppKube/Cloud%20Asset%20Management%20and%20CMDB/Associate%20Discovered%20Element/New_Env_Wizard_4_vrw69h.png
+            name: Wizard 4
+            text: Wizard 4
+          - img: https://res.cloudinary.com/papu/image/upload/v1678696631/AppKube/Cloud%20Asset%20Management%20and%20CMDB/Associate%20Discovered%20Element/New_Env_Wizard_5_thasv8.png
+            name: Wizard 5
+            text: Wizard 5
+          - img: https://res.cloudinary.com/papu/image/upload/v1678696632/AppKube/Cloud%20Asset%20Management%20and%20CMDB/Associate%20Discovered%20Element/New_Env_Wizard_6_elbtcs.png
+            name: Wizard 6
+            text: Wizard 6
+          - img: https://res.cloudinary.com/papu/image/upload/v1678696632/AppKube/Cloud%20Asset%20Management%20and%20CMDB/Associate%20Discovered%20Element/New_Env_Wizard_7_fedeth.png
+            name: Wizard 7
+            text: Wizard 7
+          - img: https://res.cloudinary.com/papu/image/upload/v1678696632/AppKube/Cloud%20Asset%20Management%20and%20CMDB/Associate%20Discovered%20Element/New_Env_Wizard_8_pwf3zo.png
+            name: Wizard 8
+            text: Wizard 8
+          - img: https://res.cloudinary.com/papu/image/upload/v1678696632/AppKube/Cloud%20Asset%20Management%20and%20CMDB/Associate%20Discovered%20Element/New_Env_Wizard_9_ccbgqv.png
+            name: Wizard 9
+            text: Wizard 9
+          - img: https://res.cloudinary.com/papu/image/upload/v1678696631/AppKube/Cloud%20Asset%20Management%20and%20CMDB/Associate%20Discovered%20Element/New_Env_Wizard_10_s6tau6.png
+            name: Wizard 10
+            text: Wizard 10
   - img: https://res.cloudinary.com/papu/image/upload/v1618828004/icrisat/2General-Director/Director_General_cbam6k.svg
     name: CTO
     subItems:
