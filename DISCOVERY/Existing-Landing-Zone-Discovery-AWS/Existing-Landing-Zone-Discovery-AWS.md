@@ -1,5 +1,7 @@
 ﻿**Use Case:  Existing Landing Zone Discovery AWS**
 
+**CMDB Base Url:** http://34.199.12.114:6057/api
+
 ![](Aspose.Words.24f46fa6-f3a9-4c4e-83c8-c86519f57e71.001.png)
 
 ![](Aspose.Words.24f46fa6-f3a9-4c4e-83c8-c86519f57e71.002.png)

@@ -1,5 +1,7 @@
 **Use Case: Show Infra Element Explorer AWS**
 
+**CMDB Base Url:** http://34.199.12.114:6057/api
+
 Environments Page
 
 1.  **Environment summary**
