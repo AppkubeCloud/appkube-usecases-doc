@@ -1,185 +1,209 @@
-﻿**Use Case:  Show Infra Element Explorer AWS**
+**Use Case: Show Infra Element Explorer AWS**
 
 Environments Page
 
-1. **Environment summary**
+1.  **Environment summary**
 
-CMDB service stores appconfig details of each landingzone in cloud\_element\_summary table
+CMDB service stores appconfig details of each landingzone in
+cloud_element_summary table
 
-![](Aspose.Words.2c1699c0-ef3b-4dac-b2c3-63de147bc4ed.001.png)
+![](./image1.png)
 
 CMDB Apis
 
-1. Api to create above view 
+1.  Api to create above view
 
-GET:  **/query/organization/:orgId/environment/count** 
+GET: **/query/organization/:orgId/environment/count**
 
 (e.g /query/organization/1/environment/count)
 
+2.  Apis to store landingzone specific appconfig summary in
+    cloud_element_summary table
 
+> There are two ways to do it.
 
-1. Apis to store landingzone specific appconfig summary in cloud\_element\_summary table 
+2.1 Direct CMDB POST Api to store information in cloud_element_summary
+table
 
-There are two ways to do it. 
+POST: **/cloud-element-summary**
 
-`	`2.1	Direct CMDB POST Api to store information in cloud\_element\_summary table
+2.2 **Discover AWS element - appconfig**.
 
-`	`POST: **/cloud-element-summary**
-
-2\.2	**Discover AWS element - appconfig**. 
-
-GET**: /infra-discovery/organization/:orgId/aws**
-
-Above CMDB Api will call respective awsx-api based on the elementType parameter and store information in cloud\_element\_summary table
+> GET**: /infra-discovery/organization/:orgId/aws**
+>
+> Above CMDB Api will call respective awsx-api based on the elementType
+> parameter and store information in cloud_element_summary table
 
 Parameters
 
-`		`orgId  (required) (e.g. 1)
+orgId (required) (e.g. 1)
 
-`    		`landingZone  (required) (e.g. 657907747545)
+landingZone (required) (e.g. 657907747545)
 
-elementType  (required) (**APP\_CONFIG\_SUMMARY**)
+> elementType (required) (**APP_CONFIG_SUMMARY**)
+>
+> This **APP_CONFIG_SUMMARY** static identifier to call awsx-api
 
-`	`This **APP\_CONFIG\_SUMMARY** static identifier to call awsx-api**   
+awsRegion (optional)
 
-`    		`awsRegion  (optional)
+> awsRegion is optional. If not provided system uses default region
+> us-east-1
 
-awsRegion is optional. If not provided system uses default region us-east-1
+Sudo code:
 
-`		`Sudo code:
+1.  CMDB **/infra-discovery/organization/:orgId/aws** API call awsx-api
 
-1. CMDB **/infra-discovery/organization/:orgId/aws** API call awsx-api
-   1. Based on the element type(**APP\_CONFIG\_SUMMARY**) It call **AppConfigHandler.java.** This handler calls **/appconfig** API from awsx-api go micro-service and save the response in cloud\_element\_summary table
-   1. awsx-api: GET: [http://localhost:7000/awsx/:elementType ](http://localhost:7000/awsx/appconfig)
+    a.  Based on the element type(**APP_CONFIG_SUMMARY**) It call
+        **AppConfigHandler.java.** This handler calls **/appconfig** API
+        from awsx-api go micro-service and save the response in
+        cloud_element_summary table
 
-Parameters:
+    b.  awsx-api: GET:
+        [http://localhost:7000/awsx/:elementType](http://localhost:7000/awsx/appconfig)
 
-`	`vaultUrl: http://34.199.12.114:8200/v1/kv-v1	 
+> Parameters:
+>
+> vaultUrl: http://34.199.12.114:8200/v1/kv-v1
+>
+> vaultToken: a29LEjdI1LYKAKr7OpVlXx54y30kBem2QNdqn2FqUJ4=
+>
+> accountId (its a vault key - e.g. SYNECTIKS/HR/AWS/062041849235)
+>
+> zone (it is optional AWS region. if not provided, system uses the
+> default region us-east-1)
 
-`	`vaultToken: a29LEjdI1LYKAKr7OpVlXx54y30kBem2QNdqn2FqUJ4=
+2 . **Environment details**
 
-`	`accountId (its a vault key - e.g. SYNECTIKS/HR/AWS/062041849235)
-
-zone (it is optional AWS region. if not provided, system uses the default region us-east-1)
-
-2 . 	**Environment details** 
-
-![](Aspose.Words.2c1699c0-ef3b-4dac-b2c3-63de147bc4ed.002.png)
-
-`	`CMDB API for above view:
-
-`	`GET:	 /query/organization/:orgId/environment/summary-list
-
-
-
-
-
-3\. **Environments – Infra Topology**
-
-![](Aspose.Words.2c1699c0-ef3b-4dac-b2c3-63de147bc4ed.003.png)
-
-The above screen has two parts
-
-3\.1 ![](Aspose.Words.2c1699c0-ef3b-4dac-b2c3-63de147bc4ed.004.png)
-
-CMDB API for above view: 
-
-GET - /query/organization/1/environment/cloud/AWS/landing-zone/657907747545/count
-
-3\.2
-
-![](Aspose.Words.2c1699c0-ef3b-4dac-b2c3-63de147bc4ed.005.png)
+![](./image2.png)
 
 CMDB API for above view:
 
-GET: /query/organization/1/infra-topology/landing-zone-id/:landingzoneId (e.g. 3)
+GET: /query/organization/:orgId/environment/summary-list
 
-3\.3 Topology view (Product enclave wise)
+3\. **Environments -- Infra Topology**
 
-![](Aspose.Words.2c1699c0-ef3b-4dac-b2c3-63de147bc4ed.006.png)
+![](./image3.png)
+
+The above screen has two parts
+
+3.1 ![](./image4.png)
+
+CMDB API for above view:
+
+GET -
+/query/organization/1/environment/cloud/AWS/landing-zone/657907747545/count
+
+3.2
+
+![](./image5.png)
+
+CMDB API for above view:
+
+GET: /query/organization/1/infra-topology/landing-zone-id/:landingzoneId
+(e.g. 3)
+
+3.3 Topology view (Product enclave wise)
+
+![](./image6.png)
 
 CMDB API: Two APIs for above view
 
-3\.3.1 - GET: /query/organization/:orgId/infra-topology/landing-zone/:landingZone/product-enclave/:instanceId/cloud-elements
+3.3.1 - GET:
+/query/organization/:orgId/infra-topology/landing-zone/:landingZone/product-enclave/:instanceId/cloud-elements
 
-3\.3.2 - GET: /query/organization//:orgId/infra-topology/landing-zone//:landingZone /product-enclave//:instanceId/category-wise-summary
+3.3.2 - GET:
+/query/organization//:orgId/infra-topology/landing-zone//:landingZone
+/product-enclave//:instanceId/category-wise-summary
 
-3\.4 Infra to Service Association
+3.4 Infra to Service Association
 
-![](Aspose.Words.2c1699c0-ef3b-4dac-b2c3-63de147bc4ed.007.png)
+![](./image7.png)
 
 CMDB API: Associate cloud-element with business element
 
 POST: /cloud-element/associate
 
-**Discover AWS element** 
+**Discover AWS element**
 
-1. **VPC**. 
+1.  **VPC**.
 
-GET**: /infra-discovery/organization/:orgId/aws**
-
-Above CMDB Api will call respective awsx-api based on the elementType parameter and store information in product\_enclave table
-
-Parameters
-
-`		`orgId  (required) (e.g. 1)
-
-`    		`landingZone  (required) (e.g. 657907747545)
-
-elementType  (required) (**VPC**)
-
-`	`**VPC** is a** static identifier to call awsx-api**   
-
-awsRegion  (optional) it is optional. If not provided system uses default region us-east-1
-
-`		`Sudo code:
-
-1. CMDB **/infra-discovery/organization/:orgId/aws** API call awsx-api
-   1. Based on the element type(**VPC**) It call **VpcHandler.java.** This handler calls **/vpc** API from awsx-api go micro-service and save the response in product\_enclave table
-   1. awsx-api: GET: [http://localhost:7000/awsx/:elementType ](http://localhost:7000/awsx/vpc)
-
-Parameters:
-
-`	`vaultUrl: http://34.199.12.114:8200/v1/kv-v1	 
-
-`	`vaultToken: a29LEjdI1LYKAKr7OpVlXx54y30kBem2QNdqn2FqUJ4=
-
-`	`accountId (its a vault key - e.g. SYNECTIKS/HR/AWS/062041849235)
-
-zone (it is optional AWS region. if not provided, system uses the default region us-east-1)
-
-1. **CDN, DynamoDB, EC2, ECS, EKS, Kinesys, Lambda, RDS, S3**
-
-GET**: /infra-discovery/organization/:orgId/aws**
-
-Above CMDB Api will call respective awsx-api based on the elementType parameter and store information in product\_enclave table
+> GET**: /infra-discovery/organization/:orgId/aws**
+>
+> Above CMDB Api will call respective awsx-api based on the elementType
+> parameter and store information in product_enclave table
 
 Parameters
 
-`		`orgId  (required) (e.g. 1)
+orgId (required) (e.g. 1)
 
-`    		`landingZone  (required) (e.g. 657907747545)
+landingZone (required) (e.g. 657907747545)
 
-elementType  (required) (CDN, DynamoDB, EC2, ECS, EKS, Kinesys, Lambda, RDS, S3)
+> elementType (required) (**VPC**)
+>
+> **VPC** is a static identifier to call awsx-api
+>
+> awsRegion (optional) it is optional. If not provided system uses
+> default region us-east-1
 
-awsRegion  (optional) 
+Sudo code:
 
-it is optional. If not provided system uses default region us-east-1
+1.  CMDB **/infra-discovery/organization/:orgId/aws** API call awsx-api
 
-`		`Sudo code:
+    a.  Based on the element type(**VPC**) It call **VpcHandler.java.**
+        This handler calls **/vpc** API from awsx-api go micro-service
+        and save the response in product_enclave table
 
-1. CMDB **/infra-discovery/organization/:orgId/aws** API call awsx-api
-   1. Based on the element type(**VPC**) It call **VpcHandler.java.** This handler calls **/vpc** API from awsx-api go micro-service and save the response in product\_enclave table
-   1. awsx-api: GET: <http://localhost:7000/awsx/:elementType>
+    b.  awsx-api: GET:
+        [http://localhost:7000/awsx/:elementType](http://localhost:7000/awsx/vpc)
 
-Parameters:
+> Parameters:
+>
+> vaultUrl: http://34.199.12.114:8200/v1/kv-v1
+>
+> vaultToken: a29LEjdI1LYKAKr7OpVlXx54y30kBem2QNdqn2FqUJ4=
+>
+> accountId (its a vault key - e.g. SYNECTIKS/HR/AWS/062041849235)
+>
+> zone (it is optional AWS region. if not provided, system uses the
+> default region us-east-1)
 
-`	`vaultUrl: http://34.199.12.114:8200/v1/kv-v1	 
+2.  **CDN, DynamoDB, EC2, ECS, EKS, Kinesys, Lambda, RDS, S3**
 
-`	`vaultToken: a29LEjdI1LYKAKr7OpVlXx54y30kBem2QNdqn2FqUJ4=
+> GET**: /infra-discovery/organization/:orgId/aws**
+>
+> Above CMDB Api will call respective awsx-api based on the elementType
+> parameter and store information in product_enclave table
 
-`	`accountId (its a vault key - e.g. SYNECTIKS/HR/AWS/062041849235)
+Parameters
 
-zone (it is optional AWS region. if not provided, system uses the default region us-east-1)
+orgId (required) (e.g. 1)
 
+landingZone (required) (e.g. 657907747545)
 
+> elementType (required) (CDN, DynamoDB, EC2, ECS, EKS, Kinesys, Lambda,
+> RDS, S3)
+>
+> awsRegion (optional)
+>
+> it is optional. If not provided system uses default region us-east-1
+
+Sudo code:
+
+2.  CMDB **/infra-discovery/organization/:orgId/aws** API call awsx-api
+
+    a.  Based on the element type(**VPC**) It call **VpcHandler.java.**
+        This handler calls **/vpc** API from awsx-api go micro-service
+        and save the response in product_enclave table
+
+    b.  awsx-api: GET: <http://localhost:7000/awsx/:elementType>
+
+> Parameters:
+>
+> vaultUrl: http://34.199.12.114:8200/v1/kv-v1
+>
+> vaultToken: a29LEjdI1LYKAKr7OpVlXx54y30kBem2QNdqn2FqUJ4=
+>
+> accountId (its a vault key - e.g. SYNECTIKS/HR/AWS/062041849235)
+>
+> zone (it is optional AWS region. if not provided, system uses the
+> default region us-east-1)
