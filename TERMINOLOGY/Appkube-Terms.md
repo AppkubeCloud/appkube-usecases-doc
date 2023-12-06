@@ -91,20 +91,44 @@ This is service monitoring , often referred to as SRE(system reliability enginee
 ## SLE
 service level expectations -- this is the different performance / availability / reliability / endusage expectations define as KPA.
 
-Developer
-Security 
-Operations
-DevOps
-SecOps
+## Developer
+Responsibile for code development and testing.
+
+## Operations
+Responsibile for infrastructure management and taking care of Application Management and different operations.
+
+## Security
+
+Responsibile for security management and taking care of Infrastructure and Application security management.
+
+## DevOps
+A methodology where developers not only create applications but also take responsibility of maintaining the application and solving operations issues.
+
+## DevSecOps
+
+A methodology where developers does take care of operations and security issues.
+
+## DevOps Tooling
+The SRE framework that does monitor Performance / Availability/ Reliability / Security / End Usage / Data Protection 
+
+# SecOps Tooling
+Continuous security and operation management tooling
+
+## Cloud Element
+We refer to the Cloud Element as the all available infrastructure elements like Node / Clusters / Databases / Cloud Managed Services / Serverless Framework  etc
+
+## Business Element
+We refer to the Business Element as the all available logical elements like organizations/ departments / products / environments / services ..
+
+## Business to INFRA Mapping
+
 FinOps
 AIOps
 GITOps
 ChargeBack
 Budget
 Business ROI
-Business to INFRA Mapping
 Topology
-Cloud Element
 Api Gateway
 Load Balancer
 
