@@ -81,10 +81,10 @@ Caching: Storing frequently requested data to reduce latency and improve perform
 
 API Gateways are particularly useful in microservices architectures, where applications are composed of small, independent services that communicate through APIs. They help manage the complexity of multiple microservices by providing a centralized point for managing various concerns such as security, routing, and monitoring.
 
-** In appkube , mostly applications are exposed through API gateways, and the services are either deployed in cluster or lambdas. When a service is deployed in cluster , the routes are 
-    Internet -> Api GW -> NLB -> Cluster Ingress -> Services
+In appkube , mostly applications are exposed through API gateways, and the services are either deployed in cluster or lambdas. When a service is deployed in cluster , the routes are 
+    **Internet -> Api GW -> NLB -> Cluster Ingress -> Services**
 For Serverless its 
-    Internet -> Api GW -> Lamdas **
+    **Internet -> Api GW -> Lamdas**
 
 ## Load Balancer
 
@@ -112,10 +112,17 @@ Enterprise Cloud Native Products in AWS and Azure
 
 ![Alt text](image-7.png)
 
-Service Code Repository
-Container Repository
+## Service Code Repository
+
+When we write a service, we implement a set of APIs and that code repository is referred as source code repository. This repository is kept in github.com.
+
+## Container Repository
+
+Application Services are either deplyoed as container in container cluster or deployed as serverless.We need to create containers from the application source code and store them in repository so that that application can be run to any container cluster by refering that container image. This is referred as container repository. We mostly use docker hub container repository, also every cloud providers and github also delivers shared services for container repositories.
+
 
 ## Service Deployment  
+
 App services are deployed either in cluster or serverless manner or some legacy service are deployed in pure node.Data services are deplyed eiether in cluster or data services are sometime cloudmanaged services.
 
 ## Container Cluster
