@@ -232,6 +232,7 @@ As a Cloud Admin we would like to see the following correlation between the logi
     All Dev / Sec / Ops tools that determine the COST & SLA's of every product & services
 
 ## FinOps
+
 This refers to the all tools that takes care of the cost of Infrastructure & Services and optimize them.
 
 ## AIOps
@@ -255,11 +256,26 @@ That budget is closely monitored against the expense of that business unit.
 
 Every business unit use software / infrastructure / operations and that incurs cost.Business units performance are measured from the outcome of the software product and justified against the cost it incurrs.Some software performance are very direct and some does indirect performance, like a ecommerce software product performance is evaluated based on the sales revenue whereas a HRMS product performance is measured by the no of employees data that is maintained or how much process improvements are done by the application of software. This SLE's are defined at business and software level and closely monitored against the expected performance and cost it incurrs.This two comparisons are referred as ROIs.  
 
-Specific Element Manager
-Cloud Element Manager
-Service Manager
-SLE Explorer
-Process Explorer
+## Cloud Element Manager
+
+For every cloud providers, we would like to monitor the elements as aggregate like Nodes/ Clusters/ Databases / Serverless / Other Services. For example , for AWS EC2 instances, we would like to monitor the overall EC2 nodes , their usage , performance and cost etc.So we will have AWS EC2 element manager.
+
+## Individual Cloud Element Manager
+
+Appkube will also monitor the individual cloud elements like all individual EC2 / EKS / ECS / clusters etc and any RDS instances. This is referred to as individual cloud element manager.
+
+## Service Manager
+
+This is responsible for monitoring application services, for every app and data service, we would like to monitor them individually, their performance,availability,reliability,resilliance etc.., and appkube standalone UI should be able to open the individual service monitors for all services.
+
+## SLE Explorer
+
+For every infrastructure and service, we would like to to evaluate the score of the performance/availability/reliability/resilliance of the services. We would also like to drill down into the score of the performance/availability/resilliance and look at the contributing factors of the score.
+This feature is referred as SLE Explorer.
+
+## Process Explorer
+
+We would like to to have visibility on every engineering process be it Dev/Sec/Ops etc. We would collect the data from all DevSecOps tooling components and score the process performance with the detailed visibility of processes through the drill down explorer. 
 
 
 
