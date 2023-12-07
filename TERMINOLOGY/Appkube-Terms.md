@@ -94,6 +94,24 @@ Load balancers play a crucial role in ensuring the scalability, availability, an
 
 ## Deployment Architecture
 
+Deployment architecture refers to the arrangement and organization of software components, services, and infrastructure in a system to support the deployment and operation of an application. It encompasses the design and layout of the various elements involved in making an application available for use, typically focusing on aspects such as scalability, reliability, and performance.
+
+Few deployed architectures that we use in Appkube  are as follows:
+
+Lightweight mobile Apps in AWS and Azure -
+
+![Alt text](image-3.png)
+
+![Alt text](image-4.png)
+
+Enterprise Cloud Native Products in AWS and Azure
+
+![Alt text](image-5.png)
+
+![Alt text](image-6.png)
+
+![Alt text](image-7.png)
+
 Service Code Repository
 Container Repository
 
