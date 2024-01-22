@@ -30,7 +30,7 @@ As a Cloud Admin we would like to see the following
 
 # Table of content
 
-| Module | Usecase | Prototype link | Usecase  |Tech Flow |TestCase
+| Module | Usecase Title | Prototype link | Tech Flow  | Usecase Doc | TestCase
 | - | - | - | - |  - |  - | 
 | Discovery |  |  |  |
 |  | Existing Landing Zone Discovery | [📚 Figma](https://www.figma.com/proto/Gi2V8cyDzL6epvmclPKpAP/AppKube-usecase?page-id=0%3A1&type=design&node-id=32-55641&viewport=307%2C703%2C0.18&t=SN48ramSZjnLkITh-1&scaling=min-zoom&starting-point-node-id=1%3A2103&mode=design)  | [📚 appkube-usecases-doc/DISCOVERY/Existing-Landing-Zone-Discovery-AWS/Existing-Landing-Zone-Discovery-AWS.md at main · AppkubeCloud/appkube-usecases-doc](https://github.com/AppkubeCloud/appkube-usecases-doc/blob/main/DISCOVERY/Existing-Landing-Zone-Discovery-AWS/Existing-Landing-Zone-Discovery-AWS.md)  |  |  
