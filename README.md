@@ -89,7 +89,7 @@ As a Cloud Admin we would like to see the following
 |  | Cost per product/feature/env/ customer/team |  |  |
 |  |  |  |  |
 | Password Change/Auth/RBAC |  |  |  |
-|  | Manage Password |   |  |
+|  | Manage Password |   |[📚appkube-usecases-doc\AUTH-RBAC\Password-change\Password-change.md](https://github.com/AppkubeCloud/appkube-usecases-doc/blob/main/AUTH-RBAC/Password-change/Password-change.md)  |
 |  | Manage Organization / Departments |   |  |
 |  | Manage User/ Group / Role / Transaction | [📚 Figma](https://www.figma.com/proto/Gi2V8cyDzL6epvmclPKpAP/AppKube-usecase?page-id=0%3A1&type=design&node-id=20-50724&viewport=231%2C-2305%2C0.04&t=UC7CnfafviXhTBiZ-1&scaling=min-zoom&starting-point-node-id=1%3A2103&mode=design)  |  |
 |  | Manage Access on Transaction |  |  |
