@@ -1,77 +1,95 @@
-﻿**Use Case Description**:
+﻿**Use Case: Existing Landing Zone Discovery**
 
-The Landing Zone Discovery Wizard facilitates the configuration of the landing zone for cloud resources.
+**Use Case Description**:
+
+The Landing Zone Discovery Wizard provides a streamlined process for adding an AWS environment to the system. Users can initiate the wizard from the Environment Overview page, select AWS environment, and follow a series of steps to configure the environment, including choosing the mode (Ready Only or Automation), preparing IAM policies, creating roles, and associating organizational units (OUs) or creating new ones.
 
 **Actors**:
 
-**User**: Initiates the landing zone discovery process.
-
-**System**: Guides the user through the wizard and manages the configuration steps.
+1\. User: Initiates the Landing Zone Discovery Wizard to configure an AWS environment.
 
 **Triggers**:
 
-User initiates the landing zone discovery process when setting up a new cloud environment or refining an existing one.
+\- User logs into the system.
+
+\- From the Environment Overview page, the user selects the option to add a new environment and chooses AWS.
 
 **Preconditions**:
 
-User has access to the Landing Zone Discovery Wizard.
+1\. User has access to the system.
 
-Necessary permissions and credentials are available for configuring IAM policies and roles.
+2\. The Environment Overview page is accessible.
+
+3\. No existing configuration for the selected AWS environment.
 
 **Postconditions**:
 
-Landing zone is configured based on user's selections.
+1\. The AWS environment is successfully added to the system with the configured settings.
 
-IAM policies, roles, and organizational units are appropriately set up.
+2\. IAM policies, roles, and organizational units are appropriately set up for the added AWS environment.
 
-Accounts are successfully added to the landing zone.
+**Normal** **Flow**:
 
-**Normal Flow**:
+1\. **User initiates the Landing Zone Discovery Wizard**:
 
-**User initiates the wizard**:
+`   `- Logs into the system.
 
-The user opens the Landing Zone Discovery Wizard.
+`   `- Navigates to the Environment Overview page.
 
-User selects Ready Only or Automation mode:
+`   `- Selects the option to add a new environment and chooses AWS.
 
-The user decides between "Ready Only" for manual configuration or "Automation" for an automated setup.
+2\. **System displays the Landing Zone Discovery Wizard**:
 
-**User prepares IAM policies**:
+`   `- The wizard prompts the user to configure the AWS environment.
 
-In the selected mode, the user defines and configures IAM policies based on security and access requirements.
+3\. **User selects Ready Only or Automation mode**:
 
-**User creates a role**:
+`   `- Chooses between "Ready Only" for manual configuration or "Automation" for an automated setup.
 
-The user defines a role with specific permissions needed for the landing zone.
+4\. **User prepares IAM policies**:
 
-The user specifies trust relationships as required.
+`   `- Defines and configures IAM policies based on security and access requirements.
 
-**User associates OU**:
+5\. **User creates a role**:
 
-The user chooses between:
+`   `- Defines a role with specific permissions needed for the landing zone.
 
-Selecting an existing Organizational Unit (OU).
+`   `- Specifies trust relationships as required.
 
-Creating a new OU by filling out a form with necessary details.
+6\. **User associates OU**:
 
-**User adds accounts**:
+`   `- Chooses between:
 
-The user specifies the accounts to be added to the landing zone.
+`     `- Selecting existing OU:
 
-**Alternative Flows**:
+`       `- User picks an existing Organizational Unit from a list.
 
-**Invalid IAM Policy Configuration**:
+`     `- Creating a new OU:
 
-If the IAM policy configuration is invalid, the system prompts the user to rectify the issues before proceeding.
+`       `- Fills out a form to add a new OU, defining its structure and properties.
 
-**Existing OU Not Found**:
+7\. **User adds the AWS account**:
 
-If the user chooses to associate with an existing OU that does not exist, the system notifies the user and provides the option to select a different OU.
+`   `- Specifies the AWS account to be added to the landing zone.
 
-**Role Creation Failure**:
+**Alternative** **Flows**:
 
-If the role creation fails, the system provides details on the error and guides the user to correct the configuration.
+1\. **Invalid IAM Policy Configuration**:
 
-**Account Addition Issues**:
+`   `- If the IAM policy configuration is invalid, the system prompts the user to rectify the issues before proceeding.
 
-If there are issues adding accounts, such as invalid credentials, the system notifies the user and guides them to resolve the issues.
+2\. **Existing OU Not Found**:
+
+`   `- If the user chooses to associate with an existing OU that does not exist, the system notifies the user and provides the option to select a different OU.
+
+3\. **Role Creation Failure**:
+
+`   `- If the role creation fails, the system provides details on the error and guides the user to correct the configuration.
+
+4\. **Account Addition Issues**:
+
+`   `- If there are issues adding the AWS account, such as invalid credentials, the system notifies the user and guides them to resolve the issues.
+
+**Exceptions**:
+
+\- If at any point the user encounters an error or wishes to cancel the wizard, they have the option to exit with the changes rolled back to the previous state.
