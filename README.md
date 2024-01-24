@@ -94,8 +94,8 @@ As a Cloud Admin we would like to see the following
 |  | Manage User/ Group / Role / Transaction | [📚 Figma](https://www.figma.com/proto/Gi2V8cyDzL6epvmclPKpAP/AppKube-usecase?page-id=0%3A1&type=design&node-id=20-50724&viewport=231%2C-2305%2C0.04&t=UC7CnfafviXhTBiZ-1&scaling=min-zoom&starting-point-node-id=1%3A2103&mode=design)  |  |
 |  | Manage Access on Transaction |  |  |
 |  | Product Landing Page |  |  |
-|  | Product Login(email /password )Github/ Goggle/ Microsoft integration |  |[📚appkube-usecases-doc/AUTH-RBAC/Product-Login-email-password/Sign_In.md at main · AppkubeCloud/appkube-usecases-doc](https://github.com/AppkubeCloud/appkube-usecases-doc/blob/main/AUTH-RBAC/Product-Login-email-password/Sign_In.md) |
-|  | Product Signup(email /password ) |  |[📚appkube-usecases-doc\AUTH-RBAC\Product-Login-email-password\Sign_up.md](https://github.com/AppkubeCloud/appkube-usecases-doc/blob/main/AUTH-RBAC/Product-Login-email-password/Sign_up.md) |
+|  | Product Login(email /password )Github/ Goggle/ Microsoft integration |  |[📚appkube-usecases-doc/AUTH-RBAC/Product-Login-email-password/Sign_In.md at main · AppkubeCloud/appkube-usecases-doc](https://github.com/AppkubeCloud/appkube-usecases-doc/blob/main/AUTH-RBAC/Product-Login-email-password/Sign_In.md) | |[Sign-In-TC](https://github.com/AppkubeCloud/appkube-usecases-doc/blob/main/AUTH-RBAC/Product-Login-email-password/Sign%20In-TC.md)
+| | Product Signup(email /password ) |  |[📚appkube-usecases-doc\AUTH-RBAC\Product-Login-email-password\Sign_up.md](https://github.com/AppkubeCloud/appkube-usecases-doc/blob/main/AUTH-RBAC/Product-Login-email-password/Sign_up.md) |
 |  
  | Logout |  |  |
 | Alert |  |  |  |
