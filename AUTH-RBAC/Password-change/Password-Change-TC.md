@@ -17,14 +17,15 @@
 | | | | |
 |Test case: Change Password with invalid(New password)| | | |
 |Step|Action|Excepted result|Actual result|
-| 1 login the application with user name and passwors 2 click on continue button  3 click on setting|1 Log in to the application using your New password credentials|1The system should not accept the password change.|1 An error message should be displayed, indicating that the new password entered is invalid.|
+| 1 login the application with user name and passwors   2 click on continue button  3 click on setting|1 Log in to the application using your New password credentials|1The system should not accept the password change.|1 An error message should be displayed, indicating that the new password entered is invalid.|
 |2 default page open account feature then you will get change password format|2Navigate to the "Change Password" section.|2 An error message should be displayed, indicating that the new password entered is invalid.|2The system should not accept the password change.|
 |3 change password format you will get three option curren password , New password confirm password.|3 Enter an incorrect New password, a new password, and confirm the new password|3The error message should be clear, concise, and provide guidance on the password requirements|3 message will be display (please enter strong password)|
 |4  In format four Instructions is there between 8 to 20 character 1 lowercase latter 1upper case latter 1 special character|4Click on the "Change Password" button |4 message will be display (please enter strong password)|4 click on submit button instructoin message display  |
 | | | | |
 |Test case: Change Password with invalid (confirm password)| | | |
 |Step|Action|Excepted result|Actual result|
-| 1 login the application with user name and passwors 2 click on continue button  3 click on setting|1 Enter the correct current password.|1 The system should not accept the password change.|1After entering an incorrect confirm password and clicking on the "Change Password" button, |
+| 1 login the application with user name and passwors
+ 2 click on continue button  3 click on setting|1 Enter the correct current password.|1 The system should not accept the password change.|1After entering an incorrect confirm password and clicking on the "Change Password" button, |
 |2 default page open account feature then you will get change password format|2 Enter a valid new password in the "New Password" field.|2 An error message should be displayed, indicating that the confirmation password does not match the new password.|2 The system displays a prominent error message: "Invalid confirm password. Please enter the correct confirm  password."|
 |3 change password format you will get three option curren password , New password confirm password.|3 Enter a different or invalid value in the "Confirm Password" field.|3 The error message should be clear, concise, and guide the user to ensure the confirmation password matches the new password.|3The system does not proceed with the password change process|
 |4  In format four Instructions is there between 8 to 20 character 1 lowercase latter 1upper case latter 1 special character|4 Click on the "Change Password" button.|4 The system should not proceed with the password change process until a matching confirm password is provided.|4There is no change                                             message is display on confirm password                                                 New password and confirm password should be matched|
