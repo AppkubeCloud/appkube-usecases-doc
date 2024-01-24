@@ -95,7 +95,7 @@ As a Cloud Admin we would like to see the following
 |  | Manage Access on Transaction |  |  |
 |  | Product Landing Page |  |  |
 |  | Product Login(email /password )Github/ Goggle/ Microsoft integration |  |[📚appkube-usecases-doc/AUTH-RBAC/Product-Login-email-password/Sign_In.md at main · AppkubeCloud/appkube-usecases-doc](https://github.com/AppkubeCloud/appkube-usecases-doc/blob/main/AUTH-RBAC/Product-Login-email-password/Sign_In.md) | |[Sign-In-TC](https://github.com/AppkubeCloud/appkube-usecases-doc/blob/main/AUTH-RBAC/Product-Login-email-password/Sign%20In-TC.md)
-| | Product Signup(email /password ) |  |[📚appkube-usecases-doc\AUTH-RBAC\Product-Login-email-password\Sign_up.md](https://github.com/AppkubeCloud/appkube-usecases-doc/blob/main/AUTH-RBAC/Product-Login-email-password/Sign_up.md) |
+| | Product Signup(email /password ) |  |[📚appkube-usecases-doc\AUTH-RBAC\Product-Login-email-password\Sign_up.md](https://github.com/AppkubeCloud/appkube-usecases-doc/blob/main/AUTH-RBAC/Product-Login-email-password/Sign_up.md) | |[Sign-Up-TC](https://github.com/AppkubeCloud/appkube-usecases-doc/blob/main/AUTH-RBAC/Product-Login-email-password/Sign%20Up-TC.md)
 |  
  | Logout |  |  |
 | Alert |  |  |  |
