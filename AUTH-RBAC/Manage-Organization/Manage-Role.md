@@ -26,29 +26,32 @@
 3. Admin provides Role Name, Role Description, and selects policies from the dropdown.
    ![Image](./assets/create%20role%20button.png)
 4. Admin clicks "Create" to add the new role.
-   ![Image](path/to/image2.png)
+   ![Image](./assets/add%20new%20role.png)
 5. System updates the Role Screen with the new role information.
-   ![Image](path/to/image3.png)
 6. If canceled, the admin lands back on the Role Screen.
-   ![Image](path/to/image4.png)
 
 ### Search Roles:
 1. Admin uses the generic search to find specific roles.
+![Image](./assets/Search%20Role.png)
 2. System filters and displays relevant roles based on the search criteria.
 
 ### View Role Details:
 1. Admin clicks on a specific role in the Role Screen.
+![Image](./assets/view%20policy.png)
 2. System redirects to the Role Overview Screen for the selected role.
 
 ### Manage Role Policies:
 1. In the Role Overview Screen, admin views the Role Description and the allowed policy set table.
 2. Admin clicks "Add Policy" button.
+![Image](./assets/add%20policy.png)
 3. System displays a popup with available policies, and admin can use a search box to find specific policies.
 4. Admin selects one or more policies and clicks "Add Policy" to associate them with the role.
+![Image](./assets/Policy%20Popup.png)
 5. System updates the Role Overview Screen with the added policies.
 
 ### Delete Role Policy:
 1. In the Role Overview Screen, admin clicks "Delete Policy" button.
+![Image](./assets/Delete%20Policy.png)
 2. System allows admin to select and detach policies from the role.
 3. Default policies created by the system cannot be deleted.
 4. System updates the Role Overview Screen after policy detachment.
