@@ -84,7 +84,7 @@
    - On the Disallowed Permissions tab, admin views the number of disallowed permissions.
    - Admin can see a table with all disallowed permissions.
 
-    ![Image](./assets/Disallowed%20Permissions.png)
+    ![Image](./assets/disallowed.png)
 
 ## Alternative Flows:
 - If there are no existing groups, the Group Screen may prompt the admin to create a new group.
