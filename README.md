@@ -43,7 +43,7 @@ As a Cloud Admin we would like to see the following
 | Topology |  |  |  |
 |  | Show App List  | [📚 Figma](https://www.figma.com/proto/Gi2V8cyDzL6epvmclPKpAP/AppKube-usecase?page-id=0%3A1&type=design&node-id=6-19742&viewport=109%2C-283%2C0.08&t=5wjVyTYIHJZrRdDi-1&scaling=min-zoom&starting-point-node-id=1%3A2103&mode=design)  |  |[Usecase Doc](https://github.com/AppkubeCloud/appkube-usecases-doc/blob/main/DISCOVERY/Existing-Landing-Zone-Discovery-AWS/Topology-Show-App-List-UC.md)
 |  | Show App Topology 3 Tier | [📚 Figma](https://www.figma.com/proto/Gi2V8cyDzL6epvmclPKpAP/AppKube-usecase?page-id=0%3A1&type=design&node-id=6-20747&viewport=471%2C-433%2C0.03&t=V5Tioyzl2eAxy6iE-1&scaling=min-zoom&starting-point-node-id=1%3A2103&mode=design)  |  |[Usecase Doc](https://github.com/AppkubeCloud/appkube-usecases-doc/blob/main/DISCOVERY/Existing-Landing-Zone-Discovery-AWS/Show-App-Topology-3Tier-UC.md)
-|  | Show App Topology Microservices | [📚 Figma](https://www.figma.com/proto/Gi2V8cyDzL6epvmclPKpAP/AppKube-usecase?page-id=0%3A1&type=design&node-id=6-23678&viewport=471%2C-485%2C0.03&t=ZMeRbsbt2hVktRrv-1&scaling=min-zoom&starting-point-node-id=1%3A2103&mode=design)  |  |
+|  | Show App Topology Microservices | [📚 Figma](https://www.figma.com/proto/Gi2V8cyDzL6epvmclPKpAP/AppKube-usecase?page-id=0%3A1&type=design&node-id=6-23678&viewport=471%2C-485%2C0.03&t=ZMeRbsbt2hVktRrv-1&scaling=min-zoom&starting-point-node-id=1%3A2103&mode=design)  |  |[Usecase Doc](https://github.com/AppkubeCloud/appkube-usecases-doc/blob/main/DISCOVERY/Existing-Landing-Zone-Discovery-AWS/Show-App-Topology-SOA-UC.md)
 |  | Show App and Data Services Explorer |  | Screens Not ready |
 |  |  |  |  |
 | Business to Infra Mapping |  |  |  |
@@ -91,7 +91,7 @@ As a Cloud Admin we would like to see the following
 | Password Change/Auth/RBAC |  |  |  |
 |  | Manage Password |   |  |[Usecase Doc](https://github.com/AppkubeCloud/appkube-usecases-doc/blob/main/AUTH-RBAC/Password-change/Password-change.md) |[Manage Password TC](https://github.com/AppkubeCloud/appkube-usecases-doc/blob/main/AUTH-RBAC/Password-change/Password-Change-TC.md)
 |  | Manage Organization / Departments |   |  |
-|  | Manage User/ Group / Role / Transaction | [📚 Figma](https://www.figma.com/proto/Gi2V8cyDzL6epvmclPKpAP/AppKube-usecase?page-id=0%3A1&type=design&node-id=20-50724&viewport=231%2C-2305%2C0.04&t=UC7CnfafviXhTBiZ-1&scaling=min-zoom&starting-point-node-id=1%3A2103&mode=design)  |  |
+|  | Manage User/ Group / Role / Transaction | [📚 Figma](https://www.figma.com/proto/Gi2V8cyDzL6epvmclPKpAP/AppKube-usecase?page-id=0%3A1&type=design&node-id=20-50724&viewport=231%2C-2305%2C0.04&t=UC7CnfafviXhTBiZ-1&scaling=min-zoom&starting-point-node-id=1%3A2103&mode=design)  |  | |[Role-TC](https://github.com/AppkubeCloud/appkube-usecases-doc/blob/main/AUTH-RBAC/Manage-Organization/Role-TC.md)
 |  | Manage Access on Transaction |  |  |
 |  | Product Landing Page |  |  |
 |  | Product Login(email /password )Github/ Goggle/ Microsoft integration |  | |[Usecase Doc](https://github.com/AppkubeCloud/appkube-usecases-doc/blob/main/AUTH-RBAC/Product-Login-email-password/Sign_In.md) |[Sign-In-TC](https://github.com/AppkubeCloud/appkube-usecases-doc/blob/main/AUTH-RBAC/Product-Login-email-password/Sign%20In-TC.md)
