@@ -89,13 +89,13 @@ As a Cloud Admin we would like to see the following
 |  | Cost per product/feature/env/ customer/team |  |  |
 |  |  |  |  |
 | Password Change/Auth/RBAC |  |  |  |
-|  | Manage Password |   |  |[📚appkube-usecases-doc\AUTH-RBAC\Password-change\Password-change.md](https://github.com/AppkubeCloud/appkube-usecases-doc/blob/main/AUTH-RBAC/Password-change/Password-change.md) |[Manage Password TC](https://github.com/AppkubeCloud/appkube-usecases-doc/blob/main/AUTH-RBAC/Password-change/Password-Change-TC.md)
+|  | Manage Password |   |  |[Usecase Doc](https://github.com/AppkubeCloud/appkube-usecases-doc/blob/main/AUTH-RBAC/Password-change/Password-change.md) |[Manage Password TC](https://github.com/AppkubeCloud/appkube-usecases-doc/blob/main/AUTH-RBAC/Password-change/Password-Change-TC.md)
 |  | Manage Organization / Departments |   |  |
 |  | Manage User/ Group / Role / Transaction | [📚 Figma](https://www.figma.com/proto/Gi2V8cyDzL6epvmclPKpAP/AppKube-usecase?page-id=0%3A1&type=design&node-id=20-50724&viewport=231%2C-2305%2C0.04&t=UC7CnfafviXhTBiZ-1&scaling=min-zoom&starting-point-node-id=1%3A2103&mode=design)  |  |
 |  | Manage Access on Transaction |  |  |
 |  | Product Landing Page |  |  |
-|  | Product Login(email /password )Github/ Goggle/ Microsoft integration |  | |[📚appkube-usecases-doc/AUTH-RBAC/Product-Login-email-password/Sign_In.md at main · AppkubeCloud/appkube-usecases-doc](https://github.com/AppkubeCloud/appkube-usecases-doc/blob/main/AUTH-RBAC/Product-Login-email-password/Sign_In.md) |[Sign-In-TC](https://github.com/AppkubeCloud/appkube-usecases-doc/blob/main/AUTH-RBAC/Product-Login-email-password/Sign%20In-TC.md)
-| | Product Signup(email /password ) |  | |[📚appkube-usecases-doc\AUTH-RBAC\Product-Login-email-password\Sign_up.md](https://github.com/AppkubeCloud/appkube-usecases-doc/blob/main/AUTH-RBAC/Product-Login-email-password/Sign_up.md) |[Sign-Up-TC](https://github.com/AppkubeCloud/appkube-usecases-doc/blob/main/AUTH-RBAC/Product-Login-email-password/Sign%20Up-TC.md)
+|  | Product Login(email /password )Github/ Goggle/ Microsoft integration |  | |[Usecase Doc](https://github.com/AppkubeCloud/appkube-usecases-doc/blob/main/AUTH-RBAC/Product-Login-email-password/Sign_In.md) |[Sign-In-TC](https://github.com/AppkubeCloud/appkube-usecases-doc/blob/main/AUTH-RBAC/Product-Login-email-password/Sign%20In-TC.md)
+| | Product Signup(email /password ) |  | |[Usecase Doc](https://github.com/AppkubeCloud/appkube-usecases-doc/blob/main/AUTH-RBAC/Product-Login-email-password/Sign_up.md) |[Sign-Up-TC](https://github.com/AppkubeCloud/appkube-usecases-doc/blob/main/AUTH-RBAC/Product-Login-email-password/Sign%20Up-TC.md)
 |  
  | Logout |  |  |
 | Alert |  |  |  |
