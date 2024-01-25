@@ -29,20 +29,27 @@
 
    ![Image](./assets/create%20user%20in%20user.png)
 
-      - Stage 1: input fields for username, email address, and an option to add a second user.
-      ![Image](./assets/1stage.png)
+   # Stage 1: Input fields for username, email address, and an option to add a second user.
+   
+   ![Image](./assets/1stage.png)
 
-      - Stage 2: Add user to a particular group or create new groups.
-      ![Image](./assets/2stag.png)
 
-      - Stage 3: Review details and create the user in the system.
-      ![Image](./assets/3stage.png)
+   # Stage 2: Add user to a particular group or create new groups.
+
+   ![Image](./assets/2stag.png)
+
+   # Stage 3: Review details and create the user in the system.
+
+   ![Image](./assets/3stage.png)
+
    - If groups are not created, the user is added to a basic user group with minimal policies and limited permissions.
    - User receives an email for system access.
 
 ### 3. View User Details:
    - Admin can access details about a particular user by clicking on their name on the User Screen.
    - System redirects to the User Profile page for the selected user.
+
+   ![Image](./assets/veiw%20user.png)
 
 ### 4. User Profile Page:
    - User Profile page displays the user's picture, creation date, last activity, and application access rights.
@@ -51,6 +58,7 @@
       - Second Tab: Displays user groups and allows admins to remove or add groups.
       - Third Tab: Security credentials, including last password update, last sign-in information, and two-factor authentication status.
    - Admin can use the "Delete User" button to delete users.
+      ![Image](./assets/delete%20users.png)
    - Admin can use the "Reset Password" button to reset user passwords.
 
 ## Alternative Flows:
