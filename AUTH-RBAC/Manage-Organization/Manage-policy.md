@@ -30,9 +30,9 @@
       - Search bar for permissions.
    - Admin selects a permission and clicks "Create Policy."
    - If canceled, the admin is redirected to the Policy Screen.
+   ![Image](./assets/create%20policy.png)
 
-        ![Image](./assets/create%20policy.png)
-        
+
 ### 3. View Default Policies:
    - System displays two default policies: "All Access" for administrators and "Minimal Access" for basic users.
    - These default policies cannot be deleted and are attached to the default group in the Group Screen.
