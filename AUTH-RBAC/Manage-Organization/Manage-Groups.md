@@ -78,15 +78,13 @@
    - On the Permissions tab, admin views the number of allowed permissions.
    - Admin can see a table with all allowed permissions.
    
-
-    ![Image](./assets/Allowed%20permissions.png)
+   ![Image](./assets/Allowed%20permissions.png)
 
 ### 9. Manage Disallowed Permissions in Group:
    - On the Disallowed Permissions tab, admin views the number of disallowed permissions.
    - Admin can see a table with all disallowed permissions.
 
     ![Image](./assets/Disallowed%20Permissions.png)
-
 
 ## Alternative Flows:
 - If there are no existing groups, the Group Screen may prompt the admin to create a new group.
