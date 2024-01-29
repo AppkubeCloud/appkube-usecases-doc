@@ -56,11 +56,31 @@
    - Tabs for:
       - First Tab: Shows the number of permissions each user has.
       - Second Tab: Displays user groups and allows admins to remove or add groups.
+
+      ![Image](./assets/add%20user%20in%20group.png)
+
+      - Admin clicks on the Add User Group button.
+
+      ![Image](./assets/add%20user%20in%20group.png)
+
+      - system displays add user to groups screen.
+      -  the admin can select a single or multiple group. If a group has not yet been created, the administrator can click on create a group.
+
+         ![Image](./assets/Ag.png)
+
+       - admin select groups from group table and click on remove button and user detached from the all the group after removing user from the group. 
+
+       The admin selects groups from the group table and clicks on the remove button. The user is then detached from all the groups once the user has been removed from the group. 
+
+         ![Image](./assets/Remove%20groups.png)
+
       - Third Tab: Security credentials, including last password update, last sign-in information, and two-factor authentication status.
    - Admin can use the "Delete User" button to delete users.
       ![Image](./assets/delete%20users.png)
    - Admin can use the "Reset Password" button to reset user passwords.
+   
 
+   
 ## Alternative Flows:
 - If the admin cancels the user creation at any stage, the process is terminated, and the user is not created.
 - If the admin does not select or create any groups during user creation, the user is added to a default basic user group.
