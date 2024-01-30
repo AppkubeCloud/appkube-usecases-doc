@@ -2,7 +2,7 @@
 - Please Rename the “Fast name” Alert to “Last Name”
 - Please view the below Image
 
-![](Aspose.Words.e688d74a-6159-4767-9636-133b91cfcb66.001.png)
+![Alt Text](Aspose.Words.e688d74a-6159-4767-9636-133b91cfcb66.001.png)
 
 - In AppKube sign up Page
 - First & Last name accepts numbers & Special characters
