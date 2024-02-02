@@ -94,6 +94,12 @@ Setting configuration
 -	Add Group (Admin, Product-Owners)
 -	Edit Group (Admin, Product-Owners)
 -	Delete Group(Admin, Product-Owners)
+-	Create Role (Admin, Product-Owners)
+-	Edit Role (Admin, Product-Owners)
+-	Delete Role (Admin, Product-Owners)
+-	Create Policy (Admin, Product-Owners)
+-	Edit Policy (Admin, Product-Owners)
+-	Delete Policy (Admin, Product-Owners)
 
 Reports 
 
