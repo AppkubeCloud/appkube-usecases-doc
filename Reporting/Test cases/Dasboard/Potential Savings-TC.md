@@ -1,0 +1,21 @@
+| | | |
+|-|-|-|
+|Potential Savings Widget| | |
+|Steps|Action|Expected Result|
+|Logging in and navigating to the dashboard|1. Log in to the App Kube Application with valid credentials . 2. Navigate to the dashboard.|The user should successfully log in and be directed to the dashboard.|
+|Locating the Potential Savings widget on the dashboard|1. On the dashboard, locate the Potential Savings widget.|The Potential Savings widget should be visible and clearly identifiable on the dashboard.|
+|Clicking the "View Details" button |1. Locate the "View Details" button on the Potential Savings widget.                                       2. Click on the "View Details" button.|The user should be directed to the detailed potential savings report page.|
+|Verifying the presence of buttons on the detailed potential savings page|1. Check for the presence of the Filter and Duration buttons on the detailed potential savings page.|Both buttons should be present on the top right corner of the screen.|
+|Functionality of the click "Filter" button.|1. Click on the Filter button.                                   2. Check the options displayed including All regions, All departments, and All products.|The Filter button should display the options correctly, including sub-options for regions, departments, and products.|
+|Functionality of the click "Duration" button.|1. Click on the Duration button.                                        2. Check the options displayed for selecting the duration.|The Duration button should display options for selecting the duration correctly.|
+|Verifying the presence of four cards|Check if four cards showing This month’s savings, Forecasted savings, Last month’s savings, and Total savings are present.|All four cards should be visible below the buttons.|
+|User see the presence of two widgets|Verify if the Total savings widget and the Monthly Savings graph widget are present below the cards.|Both widgets should be visible below the cards.|
+|User see the content of the Total Savings widget|Check if the Total Savings widget displays the total amount of savings for the selected time duration.|The Total Savings widget should accurately display the total savings amount.|
+|Verifying the content of the Monthly Savings graph widget|Check if the Monthly Savings graph widget displays graphical data of savings for each month.|The Monthly Savings graph widget should accurately display graphical data for savings.|
+|User see the presence and content of the data table|Verify if the data table "Top RI recommendation" is present below the widgets, and if it shows the specified information.|The data table should be visible, showing information about resource type, instance id, recommendation, current instance, recommended instance, terms, payment mode, upfront cost, per hour cost, estimated savings, and total spend.|
+| | | |
+|Alternative Flow| | |
+|Steps|Actions|Expected Result|
+|1. Navigate to the overview dashboard.               2. Select a different widget other than the Spending Overview widget.|Select a widget such as "Performance Metrics", "Resource Utilization", or "Cost Breakdown".|The corresponding data related to the selected widget is displayed without errors.|
+|1. Navigate to the overview dashboard.                2. Attempt to access the Spending Overview widget.|Click on the Spending Overview widget.|- If the widget loads successfully, the spending overview data should be displayed. <br> - If an error occurs: <br> -- An error message should be displayed. <br> -- Troubleshooting steps or recommendations to contact support for assistance should be provided. <br> -- Optionally, the user may be prompted to refresh the page and retry accessing the widget.|
+|1. Navigate to the detailed spending reports section.|Click on the link or button to access detailed spending reports.|- If the reports load successfully, the detailed spending reports should be displayed. <br> - If an error occurs: <br> -- An error message should be displayed. <br> -- Troubleshooting steps or recommendations to contact support for assistance should be provided. <br> -- Optionally, the user may be prompted to refresh the page and retry accessing the reports.|
