@@ -1,6 +1,6 @@
 | | | |
 |-|-|-|
-|Monthly cost and budget overview(Normal Flow )| | |
+|Monthly cost and budget overview / Invoice generation| | |
 | | | |
 |Test Steps|Actions|Expected Result|
 |User logs into the AppKube application and navigates to the dashboard containing the Financial Status Table widget.|User enters credentials and selects the dashboard option containing the Financial Status Table widget.|The user is successfully logged in and directed to the dashboard interface displaying the Financial Status Table widget.|
