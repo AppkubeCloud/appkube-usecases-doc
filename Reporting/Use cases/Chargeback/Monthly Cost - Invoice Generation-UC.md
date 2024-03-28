@@ -1,6 +1,6 @@
 ﻿![](Aspose.Words.488cba7a-e4bb-445b-b5ea-fb309caac72b.001.png)
 
-**Use Case: Monthly cost and budget overview** 
+**Use Case: Monthly cost and budget overview/Invoice generation** 
 
 **Use Case Description:** This use case focuses on providing users with a detailed overview of the financial status of different departments within an organization through an interactive table. The table reports on budget allocation, actual spending, variances, and payment status, and offers a "view more" action for detailed insights.
 
