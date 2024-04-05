@@ -1,18 +1,5 @@
 ﻿**Use Case Of Top Accounts With More Products.**
 
-![A screenshot of a dashboard
-
-Description automatically generated](Aspose.Words.284fd2e9-6278-4edc-bf0e-d38831bdafed.001.jpeg)
-
-![A screenshot of a computer
-
-Description automatically generated](Aspose.Words.284fd2e9-6278-4edc-bf0e-d38831bdafed.002.jpeg)
-
-
-![A screenshot of a computer
-
-Description automatically generated](Aspose.Words.284fd2e9-6278-4edc-bf0e-d38831bdafed.003.jpeg)
-
 
 **Title:** Use Case of Top Accounts With More Products.
 
@@ -61,31 +48,7 @@ Description automatically generated](Aspose.Words.284fd2e9-6278-4edc-bf0e-d38831
 
 **Regions:**
 
-![](Aspose.Words.284fd2e9-6278-4edc-bf0e-d38831bdafed.004.jpeg)
 
-![A screenshot of a computer
-
-Description automatically generated](Aspose.Words.284fd2e9-6278-4edc-bf0e-d38831bdafed.005.jpeg)
-
-` `![A screenshot of a computer
-
-Description automatically generated](Aspose.Words.284fd2e9-6278-4edc-bf0e-d38831bdafed.006.jpeg)
-
-![A screenshot of a computer
-
-Description automatically generated](Aspose.Words.284fd2e9-6278-4edc-bf0e-d38831bdafed.007.jpeg)
-
-![A screen shot of a graph
-
-Description automatically generated]
-
-![A screenshot of a graph
-
-Description automatically generated]
-
-![A screenshot of a graph
-
-Description automatically generated]
 
 **Normal flow:**
 
@@ -117,49 +80,7 @@ Description automatically generated]
 
 **Products:**
 
-![A screenshot of a computer
 
-Description automatically generated](Aspose.Words.284fd2e9-6278-4edc-bf0e-d38831bdafed.011.jpeg)
-
-![A screenshot of a computer
-
-Description automatically generated]
-
-![A screenshot of a computer
-
-Description automatically generated]
-
-![A screenshot of a computer
-
-Description automatically generated]
-
-![A screenshot of a computer
-
-Description automatically generated]
-
-![A screenshot of a computer
-
-Description automatically generated]
-
-![A screenshot of a computer
-
-Description automatically generated]
-
-![A screenshot of a computer
-
-Description automatically generated]
-
-![A screen shot of a graph
-
-Description automatically generated]
-
-![A screenshot of a graph
-
-Description automatically generated]
-
-![A screenshot of a graph
-
-Description automatically generated]
 
 **Normal flow:**
 
@@ -198,43 +119,9 @@ Description automatically generated]
 
 **IF the user Click on the SOA Product.**
 
-![A screenshot of a computer
 
-Description automatically generated]
 
-![A screenshot of a computer
-
-Description automatically generated]
-
-![A screenshot of a computer
-
-Description automatically generated]
-
-![A screenshot of a computer
-
-Description automatically generated]
-
-![A screenshot of a computer
-
-Description automatically generated]
-
-![A screenshot of a computer
-
-Description automatically generated]
-
-![A screen shot of a graph
-
-Description automatically generated]
-
-![A screenshot of a graph
-
-Description automatically generated]
-
-![A screenshot of a graph
-
-Description automatically generated]
-
-**Normal Flow:**
+**SOA Product:**
 
 1. If the product is a SOA product, the user is redirected to the SOA product page.
 1. A breadcrumb trail at the top of the screen provides navigation options.
@@ -259,35 +146,8 @@ Description automatically generated]
 
 **Overall Services:**
 
-![A screenshot of a computer
 
-Description automatically generated](Aspose.Words.284fd2e9-6278-4edc-bf0e-d38831bdafed.025.jpeg)
 
-![A screenshot of a computer
-
-Description automatically generated]
-
-![A screenshot of a computer
-
-Description automatically generated](Aspose.Words.284fd2e9-6278-4edc-bf0e-d38831bdafed.027.jpeg)
-
-![A screenshot of a computer
-
-Description automatically generated]
-
-![A screen shot of a graph
-
-Description automatically generated]
-
-![A screenshot of a graph
-
-Description automatically generated]
-
-![A screenshot of a graph
-
-Description automatically generated]
-
-**Normal flow:**
 
 1. User clicks on the total number of AWS services displayed in the Cloud Summary widget.
 1. User is redirected to the Overall services page where all the services are shown in count.
@@ -312,51 +172,8 @@ Description automatically generated]
 
 **About the Product Category Widget:**
 
-`	`**![A screenshot of a computer
+`
 
-Description automatically generated](Aspose.Words.284fd2e9-6278-4edc-bf0e-d38831bdafed.029.jpeg)**
-
-![A screenshot of a computer
-
-Description automatically generated]
-
-![A screenshot of a computer
-
-Description automatically generated]
-
-![A screenshot of a computer
-
-Description automatically generated]
-
-![A screenshot of a computer
-
-Description automatically generated]
-
-![A screenshot of a computer
-
-Description automatically generated]
-
-![A screenshot of a computer
-
-Description automatically generated]
-
-![A screenshot of a computer
-
-Description automatically generated]
-
-![A screen shot of a graph
-
-Description automatically generated]
-
-![A screenshot of a graph
-
-Description automatically generated]
-
-![A screenshot of a graph
-
-Description automatically generated]
-
-**Normal flow:**
 
 1. If the user clicks one the view details (CTA) on the product Category widget.
 1. The user is redirected to the product list page, on the top of the page there’s a breadcrumb to go back to the previous pages.
@@ -394,43 +211,9 @@ Description automatically generated]
 
 **IF the user Click on the SOA Product.**
 
-![A screenshot of a computer
 
-Description automatically generated]
 
-![A screenshot of a computer
 
-Description automatically generated]
-
-![A screenshot of a computer
-
-Description automatically generated]
-
-![A screenshot of a computer
-
-Description automatically generated]
-
-![A screenshot of a computer
-
-Description automatically generated]
-
-![A screenshot of a computer
-
-Description automatically generated]
-
-![A screen shot of a graph
-
-Description automatically generated]
-
-![A screenshot of a graph
-
-Description automatically generated]
-
-![A screenshot of a graph
-
-Description automatically generated]
-
-**Normal Flow:**
 
 1. If the product is a SOA product, the user is redirected to the SOA product page.
 1. A breadcrumb trail at the top of the screen provides navigation options.
@@ -455,29 +238,6 @@ Description automatically generated]
 
 **About the Potential Savings Widget:**
 
-![](Aspose.Words.284fd2e9-6278-4edc-bf0e-d38831bdafed.030.jpeg)
-
-![A screenshot of a computer
-
-Description automatically generated](Aspose.Words.284fd2e9-6278-4edc-bf0e-d38831bdafed.031.jpeg)
-
-![A screenshot of a computer
-
-Description automatically generated](Aspose.Words.284fd2e9-6278-4edc-bf0e-d38831bdafed.032.jpeg)
-
-![A screen shot of a graph
-
-Description automatically generated](Aspose.Words.284fd2e9-6278-4edc-bf0e-d38831bdafed.033.jpeg)
-
-![A screenshot of a graph
-
-Description automatically generated](Aspose.Words.284fd2e9-6278-4edc-bf0e-d38831bdafed.034.jpeg)
-
-![A screenshot of a graph
-
-Description automatically generated](Aspose.Words.284fd2e9-6278-4edc-bf0e-d38831bdafed.035.jpeg)
-
-**Normal Flow:**
 
 1. If user clicks on the view details(CTA ) on potential savings widgets in single account dashboard, to see the services which is in the saving state.
 1. User redirected to the Savings state page. On the top of the page There’s a breadcrumb to go back to previous pages.
@@ -503,43 +263,6 @@ Description automatically generated](Aspose.Words.284fd2e9-6278-4edc-bf0e-d38831
 
 **About the Status of Analysed Services Widget:**
 
-![A screenshot of a computer
-
-Description automatically generated](Aspose.Words.284fd2e9-6278-4edc-bf0e-d38831bdafed.036.jpeg)
-
-![A screenshot of a computer
-
-Description automatically generated](Aspose.Words.284fd2e9-6278-4edc-bf0e-d38831bdafed.037.jpeg)
-
-![A screenshot of a computer
-
-Description automatically generated](Aspose.Words.284fd2e9-6278-4edc-bf0e-d38831bdafed.038.jpeg)
-
-![A screenshot of a computer
-
-Description automatically generated](Aspose.Words.284fd2e9-6278-4edc-bf0e-d38831bdafed.039.jpeg)
-
-![A screenshot of a computer
-
-Description automatically generated](Aspose.Words.284fd2e9-6278-4edc-bf0e-d38831bdafed.040.jpeg)
-
-![A screenshot of a computer
-
-Description automatically generated](Aspose.Words.284fd2e9-6278-4edc-bf0e-d38831bdafed.041.jpeg)
-
-![A screen shot of a graph
-
-Description automatically generated]
-
-![A screenshot of a graph
-
-Description automatically generated]
-
-![A screenshot of a graph
-
-Description automatically generated]
-
-**Normal Flow:**
 
 1. In a single account dashboard shows the status of analysed services in donut chart
 1. which displays the services categorized into savings, optimal, risk, and not analysed states.
@@ -568,31 +291,6 @@ Description automatically generated]
 
 **About the top used Services widget:**
 
-![A screenshot of a computer
-
-Description automatically generated](Aspose.Words.284fd2e9-6278-4edc-bf0e-d38831bdafed.042.jpeg)
-
-![A screenshot of a computer
-
-Description automatically generated]
-
-![A screenshot of a computer
-
-Description automatically generated]
-
-![A screen shot of a graph
-
-Description automatically generated]
-
-![A screenshot of a graph
-
-Description automatically generated]
-
-![A screenshot of a graph
-
-Description automatically generated]
-
-**Normal flow:**
 
 1. If user clicks on the View details( CTA ) on the top used services.
 1. User is redirected to the Overall services page where all the services are shown in count.
@@ -637,58 +335,3 @@ Description automatically generated]
 
 
 
-
-[A screen shot of a graph
-
-Description automatically generated]: Aspose.Words.284fd2e9-6278-4edc-bf0e-d38831bdafed.008.jpeg
-[A screenshot of a graph
-
-Description automatically generated]: Aspose.Words.284fd2e9-6278-4edc-bf0e-d38831bdafed.009.jpeg
-[A screenshot of a graph
-
-Description automatically generated]: Aspose.Words.284fd2e9-6278-4edc-bf0e-d38831bdafed.010.jpeg
-[A screenshot of a computer
-
-Description automatically generated]: Aspose.Words.284fd2e9-6278-4edc-bf0e-d38831bdafed.012.jpeg
-[A screenshot of a computer
-
-Description automatically generated]: Aspose.Words.284fd2e9-6278-4edc-bf0e-d38831bdafed.013.jpeg
-[A screenshot of a computer
-
-Description automatically generated]: Aspose.Words.284fd2e9-6278-4edc-bf0e-d38831bdafed.014.jpeg
-[A screenshot of a computer
-
-Description automatically generated]: Aspose.Words.284fd2e9-6278-4edc-bf0e-d38831bdafed.015.jpeg
-[A screenshot of a computer
-
-Description automatically generated]: Aspose.Words.284fd2e9-6278-4edc-bf0e-d38831bdafed.016.jpeg
-[A screenshot of a computer
-
-Description automatically generated]: Aspose.Words.284fd2e9-6278-4edc-bf0e-d38831bdafed.017.jpeg
-[A screenshot of a computer
-
-Description automatically generated]: Aspose.Words.284fd2e9-6278-4edc-bf0e-d38831bdafed.018.jpeg
-[A screenshot of a computer
-
-Description automatically generated]: Aspose.Words.284fd2e9-6278-4edc-bf0e-d38831bdafed.019.jpeg
-[A screenshot of a computer
-
-Description automatically generated]: Aspose.Words.284fd2e9-6278-4edc-bf0e-d38831bdafed.020.jpeg
-[A screenshot of a computer
-
-Description automatically generated]: Aspose.Words.284fd2e9-6278-4edc-bf0e-d38831bdafed.021.jpeg
-[A screenshot of a computer
-
-Description automatically generated]: Aspose.Words.284fd2e9-6278-4edc-bf0e-d38831bdafed.022.jpeg
-[A screenshot of a computer
-
-Description automatically generated]: Aspose.Words.284fd2e9-6278-4edc-bf0e-d38831bdafed.023.jpeg
-[A screenshot of a computer
-
-Description automatically generated]: Aspose.Words.284fd2e9-6278-4edc-bf0e-d38831bdafed.024.jpeg
-[A screenshot of a computer
-
-Description automatically generated]: Aspose.Words.284fd2e9-6278-4edc-bf0e-d38831bdafed.026.jpeg
-[A screenshot of a computer
-
-Description automatically generated]: Aspose.Words.284fd2e9-6278-4edc-bf0e-d38831bdafed.028.jpeg
