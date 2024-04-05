@@ -1,40 +1,5 @@
 ﻿**Use Case Of Status of Analysed Services.**
 
-![A screenshot of a dashboard
-
-Description automatically generated](Aspose.Words.0f9234a1-c88b-4372-ab82-9f1fbfae9845.001.jpeg)
-
-![A screenshot of a computer
-
-Description automatically generated](Aspose.Words.0f9234a1-c88b-4372-ab82-9f1fbfae9845.002.jpeg)
-
-![A screenshot of a computer
-
-Description automatically generated](Aspose.Words.0f9234a1-c88b-4372-ab82-9f1fbfae9845.003.jpeg)
-
-![A screenshot of a computer
-
-Description automatically generated](Aspose.Words.0f9234a1-c88b-4372-ab82-9f1fbfae9845.004.jpeg)
-
-![A screenshot of a computer
-
-Description automatically generated](Aspose.Words.0f9234a1-c88b-4372-ab82-9f1fbfae9845.005.jpeg)
-
-![A screenshot of a computer
-
-Description automatically generated](Aspose.Words.0f9234a1-c88b-4372-ab82-9f1fbfae9845.006.jpeg)
-
-![A screenshot of a phone
-
-Description automatically generated](Aspose.Words.0f9234a1-c88b-4372-ab82-9f1fbfae9845.007.jpeg)
-
-![A screenshot of a graph
-
-Description automatically generated](Aspose.Words.0f9234a1-c88b-4372-ab82-9f1fbfae9845.008.jpeg)
-
-![A screenshot of a graph
-
-Description automatically generated](Aspose.Words.0f9234a1-c88b-4372-ab82-9f1fbfae9845.009.jpeg)
 
 **Title:** Status of Analysed Services Use Case
 
