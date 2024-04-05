@@ -1,45 +1,7 @@
 ﻿
 **Use Case Of Product category. ![](Aspose.Words.114d307a-cf94-4d68-a545-07d15320dec3.001.jpeg)**
 
-![A screenshot of a computer
 
-Description automatically generated](Aspose.Words.114d307a-cf94-4d68-a545-07d15320dec3.002.jpeg)
-
-![A screenshot of a computer
-
-Description automatically generated](Aspose.Words.114d307a-cf94-4d68-a545-07d15320dec3.003.jpeg)
-
-![A screenshot of a computer
-
-Description automatically generated](Aspose.Words.114d307a-cf94-4d68-a545-07d15320dec3.004.jpeg)
-
-![A screenshot of a computer
-
-Description automatically generated](Aspose.Words.114d307a-cf94-4d68-a545-07d15320dec3.005.jpeg)
-
-![A screenshot of a computer
-
-Description automatically generated](Aspose.Words.114d307a-cf94-4d68-a545-07d15320dec3.006.jpeg)
-
-![A screenshot of a computer
-
-Description automatically generated](Aspose.Words.114d307a-cf94-4d68-a545-07d15320dec3.007.jpeg)
-
-![A screenshot of a computer
-
-Description automatically generated](Aspose.Words.114d307a-cf94-4d68-a545-07d15320dec3.008.jpeg)
-
-![A screen shot of a graph
-
-Description automatically generated]
-
-![A screenshot of a graph
-
-Description automatically generated]
-
-![A screenshot of a graph
-
-Description automatically generated]
 
 **Title:** Use case of Product Category. 
 
@@ -96,43 +58,6 @@ Description automatically generated]
 
 **If User Select the SOA Product:**
 
-![A screenshot of a computer
-
-Description automatically generated](Aspose.Words.114d307a-cf94-4d68-a545-07d15320dec3.012.jpeg)
-
-![A screenshot of a computer
-
-Description automatically generated](Aspose.Words.114d307a-cf94-4d68-a545-07d15320dec3.013.jpeg)
-
-![A screenshot of a computer
-
-Description automatically generated](Aspose.Words.114d307a-cf94-4d68-a545-07d15320dec3.014.jpeg)
-
-`	`![A screenshot of a computer
-
-Description automatically generated](Aspose.Words.114d307a-cf94-4d68-a545-07d15320dec3.015.jpeg)
-
-![A screenshot of a computer
-
-Description automatically generated](Aspose.Words.114d307a-cf94-4d68-a545-07d15320dec3.016.jpeg)
-
-![A screenshot of a computer
-
-Description automatically generated](Aspose.Words.114d307a-cf94-4d68-a545-07d15320dec3.017.jpeg)
-
-![A screen shot of a graph
-
-Description automatically generated]
-
-![A screenshot of a graph
-
-Description automatically generated]
-
-![A screenshot of a graph
-
-Description automatically generated]
-
-<a name="_hlk161925146"></a>**Normal flow:**
 
 1. If the product is a SOA product, the user is redirected to the SOA product page.
 1. A breadcrumb trail at the top of the screen provides navigation options.
@@ -165,13 +90,3 @@ Description automatically generated]
 1. If the user encounters any issues accessing the Cloud Central Dashboard or navigating through product lists then the user cannot see the details.
 1. If the user searches for a product using the search bar and does not find any matching results, they will be prompted with an appropriate message indicating no results found.
 
-
-[A screen shot of a graph
-
-Description automatically generated]: Aspose.Words.114d307a-cf94-4d68-a545-07d15320dec3.009.jpeg
-[A screenshot of a graph
-
-Description automatically generated]: Aspose.Words.114d307a-cf94-4d68-a545-07d15320dec3.010.jpeg
-[A screenshot of a graph
-
-Description automatically generated]: Aspose.Words.114d307a-cf94-4d68-a545-07d15320dec3.011.jpeg
