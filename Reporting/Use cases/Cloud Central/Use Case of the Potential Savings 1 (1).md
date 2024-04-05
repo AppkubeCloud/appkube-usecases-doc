@@ -1,28 +1,5 @@
 ﻿**Use Case of the Potential Savings.**
 
-![A screenshot of a dashboard
-
-Description automatically generated](Aspose.Words.8f32f0da-9ab8-4f6e-b258-b4dfd7db45d7.001.jpeg)
-
-![A screenshot of a computer
-
-Description automatically generated](Aspose.Words.8f32f0da-9ab8-4f6e-b258-b4dfd7db45d7.002.jpeg)
-
-![A screenshot of a computer
-
-Description automatically generated](Aspose.Words.8f32f0da-9ab8-4f6e-b258-b4dfd7db45d7.003.jpeg)
-
-![A screen shot of a graph
-
-Description automatically generated](Aspose.Words.8f32f0da-9ab8-4f6e-b258-b4dfd7db45d7.004.jpeg)
-
-![A screenshot of a graph
-
-Description automatically generated](Aspose.Words.8f32f0da-9ab8-4f6e-b258-b4dfd7db45d7.005.jpeg)
-
-![A screenshot of a graph
-
-Description automatically generated](Aspose.Words.8f32f0da-9ab8-4f6e-b258-b4dfd7db45d7.006.jpeg)
 
 **Title:** Use Case of Potential Savings.
 
