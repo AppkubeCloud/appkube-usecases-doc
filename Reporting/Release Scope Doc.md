@@ -1,9 +1,9 @@
 
-# Scope Document: Appkube Reporting
+# Scope Document
 
 **Project Title:** Appkube Reporting<br>
-**Version:** 0.0.0.1  
-**Date:** 31/03/2024
+**Version:** 0.0.1  
+**Date:** 10/04/2024
 
  # Objectives and Goals:
  - To analyse the cloud metrics and give insights on it.
